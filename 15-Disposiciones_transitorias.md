@@ -317,3 +317,7 @@ Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas 
 ### TRIGESIMANOVENA
 
 En el año siguiente a la fecha de publicación de la presente ley de reforma constitucional no podrán figurar en las nóminas para integrar la Corte Suprema quienes hayan desempeñado los cargos de Presidente de la República, diputado, senador, Ministro de Estado, intendente, gobernador o alcalde.
+
+### CUADRAGÉSIMA
+
+Lo dispuesto en el párrafo final del número 12.º del artículo 19 regirá al momento de entrar en vigencia la ley sobre calificación cinematográfica que se dicte en reemplazo del decreto ley Nº 679, de 1974.

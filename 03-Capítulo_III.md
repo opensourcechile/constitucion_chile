@@ -120,7 +120,7 @@ El Estado, aquellas universidades y demás personas o entidades que la ley deter
 
 Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de estos medios de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
 
-La ley establecerá un sistema de censura para la exhibición y publicidad de la producción cinematográfica;
+La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica.
 
 13º.- El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 
@@ -206,7 +206,7 @@ La exploración, la explotación o el beneficio de los yacimientos que contengan
 
 Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
 
-25º.- El derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
+25º.- La libertad de crear y difundir las artes, así como el derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
 
 El derecho de autor comprende la propiedad de las obras y otros derechos, como la paternidad, la edición y la integridad de la obra, todo ello en conformidad a la ley.
 
