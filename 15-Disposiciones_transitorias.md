@@ -285,3 +285,7 @@ El capítulo VI-A "Ministerio Público", la ley orgánica constitucional del Min
 ### TRIGESIMASÉPTIMA
 
 No obstante lo dispuesto en el artículo 80 E, en la quina y en cada una de las ternas que se formen para proveer por primera vez los cargos de Fiscal Nacional y de Fiscales Regionales, la Corte Suprema y las Cortes de Apelaciones podrán incluir, respectivamente, a un miembro activo del Poder Judicial.
+
+### TRIGESIMAOCTAVA
+
+Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas a la modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.

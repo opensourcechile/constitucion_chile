@@ -66,17 +66,23 @@ Los gobernadores, en los casos y forma que determine la ley, podrán designar de
 
 ### Artículo 107
 
-La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo. La ley orgánica establecerá un consejo económico y social comunal de carácter consultivo.
+La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo.
+
+La ley orgánica constitucional respectiva establecerá las modalidades y formas que deberá asumir la participación de la comunidad local en las actividades municipales.
+
+Los alcaldes, en los casos y formas que determine la ley orgánica constitucional respectiva, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
 
 Las municipalidades son corporaciones autónomas de derecho público, con personalidad jurídica y patrimonio propio, cuya finalidad es satisfacer las necesidades de la comunidad local y asegurar su participación en el progreso económico, social y cultural de la comuna.
 
-Una ley orgánica constitucional determinará las funciones y atribuciones de las municipalidades. Dicha ley señalará, además, las materias de administración municipal que el alcalde, con acuerdo del concejo o a requerimiento de la proporción de ciudadanos que establezca la ley, someterá a plebiscito, así como las oportunidades, forma de la convocatoria y efectos.
+Una ley orgánica constitucional determinará las funciones y atribuciones de las municipalidades. Dicha ley señalará, además, las materias de competencia municipal que el alcalde, con acuerdo del concejo o a requerimiento de los 2/3 de los concejales en ejercicio, o de la proporción de ciudadanos que establezca la ley, someterá a consulta no vinculante o a plebiscito, así como las oportunidades, forma de la convocatoria y efectos.
 
-Las municipalidades podrán asociarse entre ellas para el cumplimiento de sus fines propios. Asimismo, podrán constituir corporaciones o fundaciones de derecho privado sin fines de lucro destinadas a la promoción y difusión del arte y la cultura. La participación municipal en ellas se regirá por la ley orgánica constitucional respectiva.
+Las municipalidades podrán asociarse entre ellas para el cumplimiento de sus fines propios. Asimismo, podrán constituir o integrar corporaciones o fundaciones de derecho privado sin fines de lucro cuyo objeto sea la promoción y difusión del arte, la cultura y el deporte. La participación municipal en ellas se regirá por la ley orgánica constitucional respectiva.
 
-La municipalidades podrán establecer en el ámbito de las comunas o agrupación de comunas, de conformidad con la ley orgánica constitucional respectiva, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana.
+Las municipalidades podrán establecer en el ámbito de las comunas o agrupación de comunas, de conformidad con la ley orgánica constitucional respectiva, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana.
 
-Los municipios y los demás servicios públicos existentes en la respectiva comuna deberán coordinar su acción en conformidad a la ley.
+Los servicios públicos deberán coordinarse con el municipio cuando desarrollen su labor en el territorio comunal respectivo, en conformidad con la ley.
+
+La ley determinará la forma y el modo en que los ministerios, servicios públicos y gobiernos regionales podrán transferir competencias a las municipalidades, como asimismo el carácter provisorio o definitivo de la transferencia.
 
 ### Artículo 108
 
@@ -88,11 +94,15 @@ La ley orgánica de municipalidades determinará las normas sobre organización 
 
 ### Artículo 109
 
-Los alcaldes, en los casos y formas que determine la ley orgánica constitucional respectiva, podrán designar delegados para el ejercicio de sus facultades en una o más localidades.
+La ley orgánica constitucional respectiva regulará la administración transitoria de las comunas que se creen, el procedimiento de instalación de las nuevas municipalidades, de traspaso del personal municipal y de los servicios y los resguardos necesarios para cautelar el uso y disposición de los bienes que se encuentren situados en los territorios de las nuevas comunas.
+
+Asimismo, la ley orgánica constitucional de municipalidades establecerá los procedimientos que deberán observarse en caso de supresión o fusión de una o más comunas.
 
 ### Artículo 110
 
-Derogado.
+Las municipalidades, para el cumplimiento de sus funciones, podrán crear o suprimir empleos y fijar remuneraciones, como también establecer los órganos o unidades que la ley orgánica constitucional respectiva permita.
+
+Estas facultades se ejercerán dentro de los límites y requisitos que, a iniciativa exclusiva del Presidente de la República, determine la ley orgánica constitucional de municipalidades.
 
 ### Artículo 111
 
