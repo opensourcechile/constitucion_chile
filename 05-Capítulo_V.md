@@ -272,7 +272,7 @@ Esta disposición no se aplicará al Banco Central;
 
 15) Las que autoricen la declaración de guerra, a propuesta del Presidente de la República;
 
-16) Las que concedan indultos generales y amnistías y las que fijen las normas generales con arreglo a las cuales debe ejercerse la facultad del Presidente de la República para conceder indultos particulares y pensiones de gracia;
+16) Las que concedan indultos generales y amnistías y las que fijen las normas generales con arreglo a las cuales debe ejercerse la facultad del Presidente de la República para conceder indultos particulares y pensiones de gracia. Las leyes que concedan indultos generales y amnistías requerirán siempre de quórum calificado. No obstante, este quórum será de las dos terceras partes de los diputados y senadores en ejercicio cuando se trate de delitos contemplados en el artículo 9°;
 
 17) Las que señalen la ciudad en que debe residir el Presidente de la República, celebrar sus sesiones el Congreso Nacional y funcionar la Corte Suprema y el Tribunal Constitucional;
 

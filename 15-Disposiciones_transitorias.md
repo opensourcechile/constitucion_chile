@@ -247,3 +247,7 @@ El Presidente de la República que resulte elegido por aplicación del inciso an
 ### TRIGÉSIMA
 
 En tanto no entre en vigencia la ley orgánica constitucional que determine las seis regiones en cada una de las cuales habrá dos circunscripciones senatoriales, se dividirán, en esta forma, las regiones de Valparaíso, Metropolitana de Santiago, del Maule, del Bío-Bío, de la Araucanía y de Los Lagos.
+
+### TRIGESIMAPRIMERA
+
+El indulto particular será siempre procedente respecto de los delitos a que se refiere el artículo 9° cometidos antes del 11 de Marzo de 1990. Una copia del Decreto respectivo se remitirá, en carácter reservado, al Senado.

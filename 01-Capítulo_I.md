@@ -56,4 +56,6 @@ El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derec
 
 Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimientos de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrán ser dirigentes de organizaciones políticas relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
 
-No procederá respecto de estos delitos la amnistía ni el indulto, como tampoco la libertad provisional respecto de los procesados por ellos. Estos delitos serán considerados siempre comunes y no políticos para todos los efectos legales.
+Los delitos a que se refiere el inciso anterior serán considerados siempre
+comunes y no políticos para todos los efectos legales y no procederá respecto de ellos el
+indulto particular, salvo para conmutar la pena de muerte por la de presidio perpetuo.
