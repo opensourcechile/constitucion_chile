@@ -12,7 +12,7 @@ c) Dos abogados elegidos por el Consejo de Seguridad Nacional;
 
 d) Un abogado elegido por el Senado, por mayoría absoluta de los senadores en ejercicio.
 
-Las personas referidas en las letras b), c) y d) deberán tener a lo menos quince años de título, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez, estarán sometidas a las normas de los artículos 55 y 56, y sus cargos serán incompatibles con el de diputado o senador, así como también con la calidad de ministro del Tribunal Calificador de Elecciones. Además, en los casos de las letras b) y d), deberán ser personas que sean o hayan sido abogados integrantes de la Corte Suprema por tres años consecutivos, a lo menos.
+Las personas referidas en las letras b), c) y d) deberán tener a lo menos quince años de título, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez, estarán sometidas a las normas de los artículos 55 y 56, y sus cargos serán incompatibles con el de diputado o senador, así como también con la calidad de ministro del Tribunal Calificador de Elecciones.
 
 Los miembros del Tribunal duraran ocho años en sus cargos, se renovaran por parcialidades cada cuatro años y serán inamovibles.
 

@@ -20,7 +20,14 @@ La ley orgánica constitucional relativa a la organización y atribuciones de lo
 
 En cuanto al nombramiento de los jueces, la ley se ajustara a los siguientes preceptos generales.
 
-Los ministros y fiscales judiciales de la Corte Suprema serán nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondrá la misma Corte. El ministro más antiguo de Corte de Apelaciones que figure en lista de méritos ocupara un lugar en la nómina señalada. Los otros cuatro lugares se llenaran en atención a los merecimientos de los candidatos, pudiendo figurar personas extrañas a la administración de justicia.
+La Corte Suprema se compondrá de veintiún ministros.
+
+Los ministros y los fiscales judiciales de la Corte Suprema serán nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondrá la misma Corte, y con acuerdo del Senado. Este adoptará los respectivos acuerdos por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. Si el Senado no aprobare la proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.
+
+Cinco de los miembros de la Corte Suprema deberán ser abogados extraños a la administración de justicia, tener a lo menos quince años de título, haberse destacado en la actividad profesional o universitaria y cumplir los demás requisitos que señale la ley orgánica constitucional respectiva.
+
+La Corte Suprema, cuando se trate de proveer un cargo que corresponda a un miembro proveniente del Poder Judicial, formará la nómina exclusivamente con integrantes de éste y deberá ocupar un lugar en ella el ministro más antiguo de Corte de Apelaciones que figure en lista de méritos. Los otros cuatro lugares se llenarán en atención a los merecimientos de los candidatos. Tratándose de proveer una vacante correspondiente a abogados extraños a la administración de justicia, la nómina se formará exclusivamente, previo concurso público de antecedentes, con abogados que cumplan los requisitos señalados en el inciso cuarto.
+
 
 Los ministros y fiscales judiciales de las Cortes de Apelaciones serán designados por el Presidente de la República, a propuesta en terna de la Corte Suprema.
 
@@ -28,7 +35,9 @@ Los jueces letrados serán designados por el Presidente de la República, a prop
 
 El juez letrado en lo civil o criminal más antiguo de asiento de Corte o el juez letrado civil o criminal más antiguo del cargo inmediatamente inferior al que se trata de proveer y que figure en lista de méritos y exprese su interés en el cargo, ocupara un lugar en la terna correspondiente. Los otros dos lugares se llenaran en atención al mérito de los candidatos.
 
-Sin embargo, cuando se trate del nombramiento de ministros de Corte suplentes, la designación podrá hacerse por la Corte Suprema y, en el caso de los jueces, por la Corte de Apelaciones respectiva. Estas designaciones no podrán durar más de treinta días y no serán prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procederá a proveer las vacantes en la forma ordinaria señalada precedentemente.
+La Corte Suprema y las Cortes de Apelaciones, en su caso, formarán las quinas o las ternas en pleno especialmente convocado al efecto, en una misma y única votación, donde cada uno de sus integrantes tendrá derecho a votar por tres o dos personas, respectivamente. Resultarán elegidos quienes obtengan las cinco o las tres primeras mayorías, según corresponda. El empate se resolverá mediante sorteo.
+
+Sin embargo, cuando se trate del nombramiento de ministros de Corte suplentes, la designación podrá hacerse por la Corte Suprema y, en el caso de los jueces, por la Corte de Apelaciones respectiva. Estas designaciones no podrán durar más de sesenta días y no serán prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procederá a proveer las vacantes en la forma ordinaria señalada precedentemente.
 
 ### Artículo 76
 
@@ -44,7 +53,7 @@ No obstante lo anterior, los jueces cesarán en sus funciones al cumplir 75 año
 
 En todo caso, la Corte Suprema por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento y, previo informe del inculpado y de la Corte de Apelaciones respectiva, en su caso, acordar su remoción por la mayoría del total de sus componentes. Estos acuerdos se comunicaran al Presidente de la República para su cumplimiento.
 
-El Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, podrá autorizar permutas u ordenar el traslado de los jueces o demás funcionarios y empleados del Poder Judicial a otro cargo de igual categoría.
+La Corte Suprema, en pleno especialmente convocado al efecto y por la mayoría absoluta de sus miembros en ejercicio, podrá autorizar u ordenar, fundadamente, el traslado de los jueces y demás funcionarios y empleados del Poder Judicial a otro cargo de igual categoría.
 
 ### Artículo 78
 
@@ -53,6 +62,8 @@ Los magistrados de los tribunales superiores de justicia, los fiscales judiciale
 ### Artículo 79
 
 La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones, los tribunales electorales regionales y los tribunales militares de tiempo de guerra.
+
+Los tribunales superiores de justicia, en uso de sus facultades disciplinarias, sólo podrán invalidar resoluciones jurisdiccionales en los casos y forma que establezca la ley orgánica constitucional respectiva.
 
 Conocerá, además, de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado.
 

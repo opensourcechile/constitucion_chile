@@ -120,7 +120,7 @@ Si el Senado no se pronunciare dentro de treinta días después de pedida la urg
 
 8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 8 del artículo 82;
 
-9) Aprobar, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de los senadores en ejercicio, la designación del Fiscal Nacional, y
+9) Aprobar, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de los senadores en ejercicio, la designación de los ministros y fiscales judiciales de la Corte Suprema y del Fiscal Nacional, y
 
 10) Dar su dictamen al Presidente de la República en los casos en que éste lo solicite.
 

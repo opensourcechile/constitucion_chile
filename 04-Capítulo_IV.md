@@ -96,7 +96,7 @@ Son atribuciones especiales del Presidente de la República:
 
 13º.- Conceder jubilaciones, retiros, montepíos y pensiones de gracia, con arreglo a las leyes;
 
-14º.- Nombrar a los magistrados de los tribunales superiores de justicia y a los jueces letrados, a proposición de la Corte Suprema y de las Cortes de Apelaciones, respectivamente, al miembro del Tribunal Constitucional que le corresponde designar, y al Fiscal Nacional, a proposición de la Corte Suprema y con acuerdo del Senado, todo ello conforme a lo prescrito en esta Constitución;
+14º.- Nombrar a los magistrados y fiscales judiciales de las Cortes de Apelaciones y a los jueces letrados, a proposición de la Corte Suprema y de las Cortes de Apelaciones, respectivamente; al miembro del Tribunal Constitucional que le corresponde designar; y a los magistrados y fiscales judiciales de la Corte Suprema y al Fiscal Nacional, a proposición de dicha Corte y con acuerdo del Senado, todo ello conforme a lo prescrito en esta Constitución;
 
 15º.- Velar por la conducta ministerial de los jueces y demás empleados del Poder Judicial y requerir, con tal objeto, a la Corte Suprema para que, si procede, declare su mal comportamiento o al ministerio público, para que reclame medidas disciplinarias del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación;
 

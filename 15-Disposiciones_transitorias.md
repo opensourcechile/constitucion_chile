@@ -34,7 +34,31 @@ Sin perjuicio de lo dispuesto en el inciso tercero del numero 20º. del artícul
 
 ### OCTAVA
 
- Las normas relativas a la edad establecidas en el inciso segundo del artículo 77 no regirán respecto de los magistrados de los tribunales superiores de justicia en servicio a la fecha de vigencia de esta Constitución.
+Las normas relativas a la edad establecidas en el inciso segundo del artículo 77 regirán a contar del 1º de enero de 1998, respecto de los magistrados de los tribunales superiores de justicia que se hallaban en servicio al 11 de marzo de 1981.
+
+Las vacantes de ministro de la Corte Suprema correspondientes a las cuatro nuevas plazas que se crean en virtud de la modificación al artículo 75 y las que se produzcan en dicho tribunal al aplicarse la norma relativa a la edad a que se refiere el inciso precedente, serán provistas en conformidad a las normas siguientes.
+
+La Corte Suprema, para proveer las cuatro nuevas plazas de ministro, dentro del plazo de diez días contados desde la publicación de la presente ley de reforma constitucional, propondrá al Presidente de la República dos nóminas de diez personas cada una. Una se formará con integrantes del Poder Judicial, debiendo incluir en ella a los dos ministros de Corte de Apelaciones  más antiguos que figuren en lista de méritos y que no deban cesar en sus cargos por aplicación del inciso primero de la presente disposición transitoria, y la otra se formará con abogados extraños a la administración de justicia que cumplan con los requisitos señalados en el inciso cuarto del artículo 75.
+
+Para proveer las vacantes que se produzcan el 1º de enero de 1998 por aplicación del límite de edad a los ministros de la Corte Suprema que tengan cumplidos a dicha fecha 75 o más años de edad, la Corte Suprema propondrá al Presidente de la República, dentro de los diez primeros días del mes de enero de 1998, dos nuevas nóminas, cada una de las cuales estará integrada por el equivalente a la mitad del quíntuplo del número de vacantes producidas. Una se formará con integrantes del Poder Judicial, debiendo ocupar en ella un lugar de cada cinco de los propuestos, los ministros de Corte de Apelaciones más antiguos que figuren en lista de méritos y que no deban cesar en sus cargos por aplicación del inciso primero de la presente disposición transitoria. La otra se formará con abogados extraños a la administración de justicia que cumplan con los requisitos establecidos en el inciso cuarto del artículo 75.
+
+Dentro de tercero día de recibidas las nóminas a que se refieren los incisos precedentes y en las oportunidades respectivas, el Presidente de la República propondrá al Senado, simultáneamente, tantos nombres como sea el número de vacantes a llenar en cada caso. En cada proposición, la mitad de las personas incluidas deberán ser integrantes del Poder Judicial y la otra mitad abogados extraños a la administración de justicia, hasta completar el número de cinco de estos abogados que deben integrar la Corte Suprema.
+
+El Senado, dentro de los seis días siguientes a cada proposición presidencial, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de sus miembros en ejercicio, deberá pronunciarse en votaciones separadas y sucesivas por cada una de las personas propuestas.
+
+En caso que el Senado rechace alguno de los nombres presentados por el Presidente de la República, éste le propondrá, dentro de segundo día, un nuevo nombre de los incluidos en la respectiva nómina y el Senado se pronunciará dentro de tercero día de formulada la nueva propuesta, repitiéndose el procedimiento hasta que se apruebe una proposición presidencial. Si se rechazaren cinco nombres de una misma nómina, la Corte Suprema deberá completarla, hasta reunir el total correspondiente, dentro del plazo de cinco días, durante los cuales se interrumpirán los términos anteriores.
+
+Para formar las nóminas correspondientes a abogados extraños a la administración de justicia señaladas en los incisos anteriores, la Corte Suprema llamará, dentro de tercero día de publicada la presente ley de reforma constitucional, a concurso público de antecedentes. El pleno de la Corte Suprema elegirá a quienes integrarán estas nóminas y a quienes reemplazarán a los candidatos rechazados, de entre las personas que se presenten a dicho concurso.
+
+Las nóminas a que se refieren los incisos precedentes se formarán por el pleno de la Corte Suprema, en una misma y única votación. Para estos efectos, cada ministro podrá votar hasta por el equivalente a las dos terceras partes del total de personas que integrarán dichas nóminas, resultando elegidos quienes obtengan las más altas votaciones.
+
+Sin perjuicio de los beneficios previsionales que les correspondan de acuerdo a las normas vigentes, los ministros que deban cesar en sus cargos por aplicación de la presente disposición transitoria tendrán derecho a un beneficio compensatorio adecuado, que fijará la ley.
+
+Los magistrados de los tribunales superiores de justicia a los que se refiere el inciso primero, que se desempeñen como presidente de la Corte Suprema, durarán en dicho cargo dos años.
+
+Dicho plazo se contará a partir de la fecha del respectivo nombramiento.
+
+Los ministros que se designen con anterioridad al 2 de enero de 1998, asumirán sus cargos a contar de ese día.
 
 Durante el período a que se refiere la disposición decimotercera transitoria la inamovilidad de los Comandantes en Jefe de las Fuerzas Armadas y del General Director de Carabineros se regirá por la disposición transitoria vigésima y no les será aplicable la limitación del plazo contemplado en el artículo 93 de esta Constitución, el que se contara a partir de cuatro años del término del señalado período presidencial.
 
@@ -289,3 +313,7 @@ No obstante lo dispuesto en el artículo 80 E, en la quina y en cada una de las 
 ### TRIGESIMAOCTAVA
 
 Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas a la modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.
+
+### TRIGESIMANOVENA
+
+En el año siguiente a la fecha de publicación de la presente ley de reforma constitucional no podrán figurar en las nóminas para integrar la Corte Suprema quienes hayan desempeñado los cargos de Presidente de la República, diputado, senador, Ministro de Estado, intendente, gobernador o alcalde.
