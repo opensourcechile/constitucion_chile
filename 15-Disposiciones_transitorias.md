@@ -275,3 +275,13 @@ El Secretario Municipal cumplirá las funciones de aquellos concejos que no se c
 El período de los alcaldes y concejales en ejercicio se extenderá hasta el día 6 de diciembre de 1996.
 
 El período de los consejeros regionales en ejercicio expirará el 19 de febrero de 1997, aplicándose en lo demás la ley correspondiente.
+
+### TRIGESIMASEXTA
+
+Las normas del capítulo VI-A "Ministerio Público", regirán al momento de entrar en vigencia la ley orgánica constitucional del Ministerio Público. Esta ley podrá establecer fechas diferentes para la entrada en vigor de sus disposiciones, como también determinar su aplicación gradual en las diversas materias y regiones del país.
+
+El capítulo VI-A "Ministerio Público", la ley orgánica constitucional del Ministerio Público y las leyes que, complementando dichas normas, modifiquen el Código Orgánico de Tribunales y el Código de Procedimiento Penal, se aplicarán exclusivamente a los hechos acaecidos con posterioridad a la entrada en vigencia de tales disposiciones.
+
+### TRIGESIMASÉPTIMA
+
+No obstante lo dispuesto en el artículo 80 E, en la quina y en cada una de las ternas que se formen para proveer por primera vez los cargos de Fiscal Nacional y de Fiscales Regionales, la Corte Suprema y las Cortes de Apelaciones podrán incluir, respectivamente, a un miembro activo del Poder Judicial.

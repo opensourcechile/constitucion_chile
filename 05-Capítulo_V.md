@@ -118,9 +118,9 @@ Si el Senado no se pronunciare dentro de treinta días después de pedida la urg
 
 7) Declarar la inhabilidad del Presidente de la República o del Presidente electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;
 
-8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 8 del artículo 82, y
+8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 8 del artículo 82;
 
-9) Derogado.
+9) Aprobar, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de los senadores en ejercicio, la designación del Fiscal Nacional, y
 
 10) Dar su dictamen al Presidente de la República en los casos en que éste lo solicite.
 
@@ -176,17 +176,19 @@ No pueden ser candidatos a diputados ni a senadores:
 
 3) Los miembros del Consejo del Banco Central;
 
-4) Los magistrados de los tribunales superiores de justicia, los jueces de letras y los funcionarios que ejerzan el ministerio público;
+4) Los magistrados de los tribunales superiores de justicia y los jueces de letras;
 
 5) Los miembros del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales;
 
 6) El Contralor General de la República;
 
-7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal, y
+7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal;
 
-8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado.
+8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado, y
 
-Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
+9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público.
+
+Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura y de las indicadas en el número 9), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
 ### Artículo 55
 

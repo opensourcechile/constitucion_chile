@@ -24,7 +24,7 @@ La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a qu
 
 Nadie puede ser juzgado por comisiones especiales, sino por el tribunal que le señale la ley y que se halle establecido con anterioridad por ésta.
 
-Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un racional y justo procedimiento.
+Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un procedimiento y una investigación racionales y justos.
 
 La ley no podrá presumir de derecho la responsabilidad penal. Ningún delito se castigará con otra pena que la que señale una ley promulgada con anterioridad a su perpetración, a menos que una nueva ley favorezca al afectado.
 
