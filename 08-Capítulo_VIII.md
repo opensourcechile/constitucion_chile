@@ -6,13 +6,9 @@ Un tribunal especial, que se denominara Tribunal Calificador de Elecciones, cono
 
 Estará constituido por cinco miembros designados en la siguiente forma:
 
-a) Tres ministros o ex ministros de la Corte Suprema, elegidos por ésta en votaciones sucesivas y secretas, por la mayoría absoluta de sus miembros;
+a) Cuatro ministros de la Corte Suprema, designados por ésta, mediante sorteo, en la forma y oportunidad que determine la ley orgánica constitucional respectiva, y b) Un ciudadano que hubiere ejercido el cargo de Presidente o Vicepresidente de la Cámara de Diputados o del Senado por un período no inferior a los 365 días, designado por la Corte Suprema en la forma señalada en la letra a) precedente, de entre todos aquellos que reúnan las calidades indicadas.
 
-b) Un abogado elegido por la Corte Suprema en la forma señalada precedentemente y que reúna los requisitos que señala el inciso segundo del artículo 81;
-
-c) Un ex presidente del Senado o de la Cámara de Diputados que haya ejercido el cargo por un lapso no inferior a tres años, el que será elegido por sorteo.
-
-Las designaciones a que se refieren las letras b) y c) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
+Las designaciones a que se refiere la letra b) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, ministro de Estado, ni dirigente de partido político.
 
 Los miembros de este tribunal duraran cuatro años en sus funciones y les serán aplicables las disposiciones de los artículo 55 y 56 de esta Constitución.
 
