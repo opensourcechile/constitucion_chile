@@ -52,7 +52,7 @@ Los magistrados de los tribunales superiores de justicia, los fiscales y los jue
 
 ### Artículo 79
 
-La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones, los tribunales electorales regionales y los tribunales militares de tiempo de guerra. Los tribunales contencioso administrativos quedaran sujetos a esta superintendencia conforme a la ley.
+La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones, los tribunales electorales regionales y los tribunales militares de tiempo de guerra.
 
 Conocerá, además, de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado.
 

@@ -4,7 +4,7 @@
 
 Para el gobierno y administración interior del Estado, el territorio de la República se divide en regiones y estas en provincias. Para los efectos de la administración local, las provincias se dividirán en comunas.
 
-La modificación de los límites de las regiones y la creación, modificación y supresión de las provincias y comunas, serán materia de ley, como asimismo, la fijación de las capitales de las regiones y provincias; todo ello a proposición del Presidente de la República.
+La modificación de los límites de las regiones y la creación, modificación y supresión de las provincias y comunas, serán materia de ley de quórum calificado, como asimismo, la fijación de las capitales de las regiones y provincias; todo ello a proposición del Presidente de la República.
 
 ## Gobierno y Administración Regional
 
@@ -58,7 +58,7 @@ La administración local de cada comuna o agrupación de comunas que determine l
 
 Las municipalidades son corporaciones de derecho público, con personalidad jurídica y patrimonio propios, cuya finalidad es satisfacer las necesidades de la comunidad local y asegurar su participación en el progreso económico, social y cultural de la comuna.
 
-Una ley orgánica constitucional determinará las atribuciones de las municipalidades y los plazos de duración en el cargo de los alcaldes.
+Una ley orgánica constitucional determinará las atribuciones de las municipalidades y los plazos de duración en el cargo de los alcaldes. Dicha ley señalará, además, las materias de administración local, propias de la competencia de las municipalidades, que el alcalde podrá someter a plebiscito de las personas inscritas en los registros electorales, con domicilio en las respectivas comunas o agrupación de comunas, así como las oportunidades, forma de la convocatoria y sus efectos.
 
 Los municipios y los demás servicios públicos existentes en la respectiva comuna deberán coordinar su acción en conformidad a la ley.
 

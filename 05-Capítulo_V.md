@@ -10,15 +10,15 @@ El Congreso Nacional se compone de dos ramas: la Cámara de Diputados y el Senad
 
 La Cámara de Diputados está integrada por 120 miembros elegidos en votación directa por los distritos electorales que establezca la ley orgánica constitucional respectiva.
 
-La Cámara de Diputados se renovara en su totalidad cada cuatro años. Sin embargo, si el Presidente de la República hiciere uso de la facultad que le confiere el numero 5º. del artículo 32, la nueva Cámara que se elija durará, en este caso, sólo el tiempo que le faltare a la disuelta para terminar su período.
+La Cámara de Diputados se renovará en su totalidad cada cuatro años.
 
 ### Artículo 44
 
-Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad, haber cursado la Enseñanza Media o equivalente y tener residencia en la región a que pertenezca el distrito electoral correspondiente durante un plazo no inferior a tres años, contado hacia atrás desde el día de la elección.
+Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad, haber cursado la Enseñanza Media o equivalente y tener residencia en la región a que pertenezca el distrito electoral correspondiente durante un plazo no inferior a dos años, contado hacia atrás desde el día de la elección.
 
 ### Artículo 45
 
-El Senado se integrará con miembros elegidos en votación directa por cada una de las trece regiones del país. A cada región corresponderá elegir dos senadores, en la forma que determine la ley orgánica constitucional respectiva.
+El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las trece regiones del país. Cada región constituirá una circunscripción, excepto seis de ellas que serán divididas, cada una, en dos circunscripciones por la ley orgánica constitucional respectiva. A cada circunscripción corresponde elegir dos senadores.
 
 Los senadores elegidos por votación directa duraran ocho años en su cargo y se renovaran alternadamente cada cuatro años, correspondiendo hacerlo en un período a los representantes de las regiones de número impar y en el siguiente a los de las regiones de número par y la región metropolitana.
 
@@ -38,13 +38,13 @@ f) Un ex Ministro de Estado, que haya ejercido el cargo por más de dos años co
 
 Los senadores a que se refieren las letras b), c), d), e) y f) de este artículo duraran en sus cargos ocho años. Si sólo existieren tres o menos personas que reúnan las calidades y requisitos exigidos por las letras b) a f) de este artículo, la designación correspondiente podrá recaer en ciudadanos que hayan desempeñado otras funciones relevantes en los organismos, instituciones o servicios mencionados en cada una de las citadas letras.
 
-La designación de éstos senadores se efectuará cada ocho años dentro de los quince días siguientes a la elección de senadores que corresponda. Las vacantes se proveerán en el mismo plazo, contado desde que se produjeren.
+La designación de éstos senadores se efectuará cada ocho años dentro de los quince días siguientes a la elección de senadores que corresponda.
 
 No podrán ser designados senadores quienes hubieren sido destituidos por el Senado conforme al artículo 49 de esta Constitución.
 
 ### Artículo 46
 
-Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, tres años de residencia en la respectiva región contados hacia atrás desde el día de la elección, haber cursado la Enseñanza Media o equivalente y tener cumplidos 40 años de edad el día de la elección.
+Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, dos años de residencia en la respectiva región contados hacia atrás desde el día de la elección, haber cursado la Enseñanza Media o equivalente y tener cumplidos 40 años de edad el día de la elección.
 
 ### Artículo 47
 
@@ -52,7 +52,11 @@ Se entenderá que los diputados y senadores tienen por el sólo ministerio de la
 
 Las elecciones de diputados y de los senadores que corresponda elegir por votación directa se efectuaran conjuntamente. Los parlamentarios podrán ser reelegidos en sus cargos.
 
-Las vacantes de diputados y de senadores elegidos por votación directa que se produzcan en cualquier tiempo se proveerán mediante elección que realizara la Cámara de Diputados o el Senado, según el caso, por mayoría absoluta de sus miembros en ejercicio. De concurrir, simultáneamente, varias vacantes, ellas se proveerán en votación separada y sucesiva. Si la vacante tuviere lugar respecto de alguno de los senadores a que se refieren las letras b), c), d), e) y f) del artículo 45, ella se proveerá en la forma que corresponda, de acuerdo con lo establecido en dicho artículo. El nuevo diputado o senador durara en sus funciones el término que le faltaba al que origino la vacante.
+Las vacantes de diputados, y las de senadores elegidos por votación directa, que se produzcan en cualquier tiempo, se proveerán con el ciudadano que, habiendo integrado la lista electoral del parlamentario que cesó en el cargo, habría resultado elegido si a esa lista hubiere correspondido otro cargo. En caso de no ser aplicable la regla anterior y faltar más de dos años para el término del período del que hubiere cesado en el cargo, la vacante será proveída por la Cámara que corresponda, por mayoría absoluta de sus miembros en ejercicio, de entre los incluidos en una terna propuesta por el partido a que perteneciere quien hubiere motivado la vacante.
+
+El nuevo diputado o senador durará en sus funciones el término que le faltaba al que originó la vacante. Los parlamentarios elegidos como independientes que mantuvieren tal calidad a la fecha de producirse la vacante, no serán reemplazados, a menos que hubieren postulado integrando listas en conjunto con un partido político. En este último caso, se aplicará lo dispuesto en el inciso anterior.
+
+En ningún caso procederán elecciones complementarias.
 
 ## Atribuciones exclusivas de la Cámara de Diputados
 
@@ -114,13 +118,13 @@ Si el Senado no se pronunciare dentro de treinta días después de pedida la urg
 
 7) Declarar la inhabilidad del Presidente de la República o del Presidente electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;
 
-8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional a que se refiere la segunda parte del Nº. 8º. del artículo 82;
+8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 8 del artículo 82, y
 
-9) Ejercer la facultad a que se refiere el inciso segundo del artículo 29, y
+9) Derogado.
 
 10) Dar su dictamen al Presidente de la República en los casos en que éste lo solicite.
 
-El Senado, sus comisiones legislativas y sus demás órganos, incluidos los comités parlamentarios si los hubiere, y los senadores, no podrán en caso alguno fiscalizar los actos de Gobierno ni de las entidades que de él dependan, ni podrán adoptar acuerdos que impliquen fiscalización, ni destinar sesiones especiales o partes de sesiones a emitir opiniones sobre aquellos actos, ni sobre materias ajenas a sus funciones.
+El Senado, sus comisiones y sus demás órganos, incluidos los comités parlamentarios si los hubiere, no podrán fiscalizar los actos del gobierno ni de las entidades que de él dependan, ni adoptar acuerdos que impliquen fiscalización.
 
 ## Atribuciones exclusivas del Congreso
 
@@ -182,7 +186,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado.
 
-Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro de los dos años inmediatamente anteriores a la elección; si no fueren elegidos en ella, no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta dos años después del acto electoral.
+Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
 ### Artículo 55
 
@@ -208,11 +212,9 @@ La inhabilidad a que se refiere el inciso anterior tendrá lugar sea que el dipu
 
 Cesará en su cargo el diputado o senador que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervengan en ellos ante cualquiera de las partes. Igual sanción se aplicará al parlamentario que actúe o intervenga en actividades estudiantiles, cualquiera que sea la rama de la enseñanza, con el objeto de atentar contra su normal desenvolvimiento.
 
-Sin perjuicio de lo dispuesto en el artículo 8º., cesará, asimismo, en sus funciones el diputado o senador que de palabra o por escrito incite a la alteración del orden público o propicie el cambio del orden jurídico institucional por medios distintos de los que establece esta Constitución, o que comprometa gravemente la seguridad o el honor de la Nación.
+Sin perjuicio de lo dispuesto en el inciso séptimo del número 15 del artículo 19, cesará, asimismo, en sus funciones el diputado o senador que de palabra o por escrito incite a la alteración del orden público o propicie el cambio del orden jurídico institucional por medios distintos de los que establece esta Constitución, o que comprometa gravemente la seguridad o el honor de la Nación.
 
-Cesará, también, en el cargo de diputado o senador el parlamentario que, ejerciendo la función de presidente de la respectiva corporación o comisión, haya admitido a votación una moción o indicación que sea declarada manifiestamente contraria a la Constitución Política del Estado por el Tribunal Constitucional. En igual sanción incurrirán el o los los autores de la moción o indicación referidas.
-
-Quien perdiere el cargo de diputado o senador por cualquiera de las causales señaladas precedentemente no podrá optar a ninguna función o empleo público, sea o no de elección popular, por el término de dos años, salvo los casos del artículo 8º., en los cuales se aplicarán las sanciones allí contempladas.
+Quien perdiere el cargo de diputado o senador por cualquiera de las causales señaladas precedentemente no podrá optar a ninguna función o empleo público, sea o no de elección popular, por el término de dos años, salvo los casos del inciso séptimo del número 15 del artículo 19, en los cuales se aplicarán las sanciones allí contempladas.
 
 Cesará, asimismo, en sus funciones el diputado o senador que, durante su ejercicio, pierda algún requisito general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 54, sin perjuicio de la excepción contemplada en el inciso segundo del artículo 56 respecto de los Ministros de Estado.
 
@@ -322,9 +324,13 @@ El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los servicios, e
 
 ### Artículo 63
 
-Las leyes a las cuales la Constitución confiere el carácter de orgánicas constitucionales y las que interpreten los preceptos constitucionales, necesitaran para su aprobación, modificación o derogación, de los tres quintos de los diputados y senadores en ejercicio.
+Las normas legales que que interpreten preceptos constitucionales necesitarán, para su aprobación, modificación o derogación, de las tres quintas partes de los diputados y senadores en ejercicio.
 
-Las leyes de quórum calificado requerirán para su aprobación, modificación o derogación, de la mayoría absoluta de los diputados y senadores en ejercicio.
+Las normas legales a las cuales la Constitución confiere el carácter de ley orgánica constitucional requerirán, para su aprobación, modificación o derogación, de las cuatro séptimas partes de los diputados y senadores en ejercicio.
+
+Las normas legales de quórum calificado se establecerán, modificarán o derogarán por la mayoría absoluta de los diputados y senadores en ejercicio.
+
+Las demás normas legales requerirán la mayoría de los miembros presentes de cada Cámara, o las mayorías que sean aplicables conforme a los artículos 65 y siguientes.
 
 ### Artículo 64
 
@@ -338,11 +344,11 @@ No podrá el Congreso aprobar ningún nuevo gasto con cargo a los fondos de la N
 
 ### Artículo 65
 
-El proyecto que fuere desechado en general en la Cámara de su origen no podrá renovarse sino después de un año. Sin embargo, el Presidente de la República, en caso de un proyecto de su iniciativa, podrá solicitar que el mensaje pase a la otra Cámara y, si ésta lo aprueba en general, lo aprueba en general, volverá a la de su origen y sólo se considerara desechado si esta Cámara lo rechaza con el voto de los dos tercios de sus miembros presentes.
+El proyecto que fuere desechado en general en la Cámara de su origen no podrá renovarse sino después de un año. Sin embargo, el Presidente de la República, en caso de un proyecto de su iniciativa, podrá solicitar que el mensaje pase a la otra Cámara y si ésta lo aprueba en general por los dos tercios de sus miembros presentes volverá a la de su origen y sólo se considerara desechado si esta Cámara lo rechaza con el voto de los dos tercios de sus miembros presentes.
 
 ### Artículo 66
 
-Todo proyecto puede ser objeto de adiciones o correcciones en los trámites que corresponda, tanto en la Cámara de Diputados como en el Senado; pero en ningún caso se admitirán las que no tengan relación directa con las ideas matrices o fundamentales del proyecto. El Presidente de la respectiva corporación o comisión y el o los autores de la indicación o corrección formulada en contravención a esta norma, sufrirán la sanción establecida en el artículo 57, inciso sexto, de esta Constitución.
+Todo proyecto puede ser objeto de adiciones o correcciones en los trámites que corresponda, tanto en la Cámara de Diputados como en el Senado; pero en ningún caso se admitirán las que no tengan relación directa con las ideas matrices o fundamentales del proyecto.
 
 Aprobado un proyecto en la Cámara de su origen, pasara inmediatamente a la otra para su discusión.
 
@@ -354,7 +360,7 @@ El proyecto que fuere desechado en su totalidad por la Cámara revisora será co
 
 El proyecto que fuere adicionado o enmendado por la Cámara revisora volverá a la de su origen, y en ésta se entenderán aprobadas las adiciones y enmiendas con el voto de la mayoría de los miembros presentes.
 
-Si las adiciones o enmiendas fueren reprobadas, se formara una comisión mixta y se procederá en la misma forma indicada en el artículo anterior. En caso de que en la comisión mixta no se produzca acuerdo para resolver las divergencias entre ambas Cámaras, o si alguna de las Cámaras rechazare la proposición de la comisión mixta, el Presidente de la República podrá solicitar a la Cámara de origen que considere nuevamente el proyecto aprobado en segundo trámite por la revisora. Se entenderá que la Cámara de origen aprueba las adiciones o modificaciones de la Cámara revisora si no concurren para rechazarlas las dos terceras partes de sus miembros presentes.
+Si las adiciones o enmiendas fueren reprobadas, se formara una comisión mixta y se procederá en la misma forma indicada en el artículo anterior. En caso de que en la comisión mixta no se produzca acuerdo para resolver las divergencias entre ambas Cámaras, o si alguna de las Cámaras rechazare la proposición de la comisión mixta, el Presidente de la República podrá solicitar a la Cámara de origen que considere nuevamente el proyecto aprobado en segundo trámite por la revisora. Si la Cámara de origen rechazare las adiciones o modificaciones por los dos tercios de sus miembros presentes, no habrá ley en esa parte o en su totalidad; pero, si hubiere mayoría para el rechazo, menor a los dos tercios, el proyecto pasará a la Cámara revisora, y se entenderá aprobado con el voto conforme de las dos terceras partes de los miembros de esta última.
 
 ### Artículo 69
 

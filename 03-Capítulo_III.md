@@ -110,15 +110,15 @@ Una ley orgánica constitucional establecerá los requisitos mínimos que deber�
 
 La ley en ningún caso podrá establecer monopolio estatal sobre los medios de comunicación social.
 
-Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social, tiene derecho a que su declaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el medio de comunicación social en que esa información hubiera sido emitida.
+Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social tiene derecho a que su declaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el medio de comunicación social en que esa información hubiera sido emitida.
 
 Toda persona natural o jurídica tiene el derecho de fundar, editar y mantener diarios, revistas y periódicos, en las condiciones que señale la ley.
 
 El Estado, aquellas universidades y demás personas o entidades que la ley determine, podrán establecer, operar y mantener estaciones de televisión.
 
-Habrá un Consejo Nacional de Radio y Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de estos medios de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
+Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de estos medios de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
 
-La ley establecerá un sistema de censura para la exhibición y publicidad de la producción cinematográfica y fijará las normas generales que regirán la expresión pública de otras actividades artísticas;
+La ley establecerá un sistema de censura para la exhibición y publicidad de la producción cinematográfica;
 
 13º.- El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 
@@ -132,7 +132,11 @@ Para gozar de personalidad jurídica, las asociaciones deberán constituirse en 
 
 Nadie puede ser obligado a pertenecer a una asociación. Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado.
 
-Los partidos políticos no podrán intervenir en actividades ajenas a las que les son propias ni tener privilegio alguno o monopolio de la participación ciudadana; sus registros y contabilidad deberán ser públicos; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional;
+Los partidos políticos no podrán intervenir en actividades ajenas a las que le son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el Servicio Electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.
+
+La Constitución Política garantiza el pluralismo político. Son inconstitucionales los partidos, movimientos u otras formas de organización cuyos objetivos, actos o conductas no respeten los principios básicos del régimen democrático y constitucional, procuren el establecimiento de un sistema totalitario, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella como método de acción política.
+Corresponderá al Tribunal Constitucional declarar esta inconstitucionalidad. Sin perjuicio de las demás sanciones establecidas en la Constitución o en la ley, las personas que hubieren tenido participación en los hechos que motiven la declaración de inconstitucionalidad a que se refiere el inciso precedente, no podrán participar en la formación de otros partidos políticos, movimientos u otras formas de organización política, ni opta r a cargos públicos de elección popular ni desempeñar los cargos que se mencionan en los números 1 a 6 del artículo 54, por el término de cinco años, contando desde la resolución del Tribunal. Si a esa fecha las personas referidas estuvieren en posesión de las funciones o cargos indicados, los perderán de pleno derecho.
+Las personas sancionadas en virtud de este precepto no podrán ser objeto de rehabilitación durante el plazo señalado en el inciso anterior. La duración de las inhabilidades contempladas en dicho inciso se elevará al doble en caso de reincidencia;
 
 16º.- La libertad de trabajo y su protección.
 
@@ -158,7 +162,7 @@ El Estado supervigilará el adecuado ejercicio del derecho a la seguridad social
 
 19º.- El derecho de sindicarse en los casos y forma que señale la ley. La afiliación sindical será siempre voluntaria.
 
-Las organizaciones sindicales gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley. La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales y sus dirigentes no podrán intervenir en actividades político partidistas;
+Las organizaciones sindicales gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley. La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales no podrán intervenir en actividades político partidistas;
 
 20º.- La igual repartición de los tributos en proporción a las rentas o en la progresión o forma que fije la ley, y la igual repartición de las demás cargas públicas.
 
@@ -210,8 +214,6 @@ Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a
 
 26º.- La seguridad de que los preceptos legales que por mandato de la Constitución regulen o complementen las garantías que ésta establece o que las limiten en los casos en que ella lo autoriza, no podrán afectar los derechos en su esencia, ni imponer condiciones, tributos o requisitos que impidan su libre ejercicio.
 
-Se exceptúan las normas relativas a los estados de excepción constitucional y demás que la propia Constitución contempla.
-
 ### Artículo 20
 
 El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24º. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
@@ -238,6 +240,6 @@ Los chilenos en estado de cargar armas deberán hallarse inscritos en los Regist
 
 ### Artículo 23
 
-Los grupos intermedios de la comunidad y sus dirigentes que hagan mal uso de la autonomía que la Constitución les reconoce, interviniendo indebidamente en actividades ajenas a sus fines específicos, serán sancionados en conformidad a la ley. El cargo de dirigente gremial será incompatible con la militancia en un partido político.
+Los grupos intermedios de la comunidad y sus dirigentes que hagan mal uso de la autonomía que la Constitución les reconoce, interviniendo indebidamente en actividades ajenas a sus fines específicos, serán sancionados en conformidad a la ley. Son incompatibles los cargos directivos superiores de las organizaciones gremiales con los cargos directivos superiores, nacionales y regionales, de los partidos políticos.
 
 La ley establecerá las sanciones que corresponda aplicar a los dirigentes gremiales que intervengan en actividades político partidistas y a los dirigentes de los partidos políticos, que interfieran en el funcionamiento de las organizaciones gremiales y demás grupos intermedios que la propia ley señale.

@@ -238,35 +238,12 @@ C.- Hasta que entre en funciones el Congreso Nacional, la Junta de Gobierno cont
 
 ### VIGESIMANOVENA
 
- Si la ciudadanía no aprobare la proposición sometida a plebiscito a que se refiere la disposición vigesimaséptima transitoria, se entenderá prorrogado de pleno derecho el período presidencial a que se refiere la disposición decimotercera transitoria, continuando en funciones por un año más el Presidente de la República en ejercicio y la Junta de Gobierno, con arreglo a las disposiciones que los rigen. Vencido éste plazo, tendrán plena vigencia todos los preceptos de la Constitución.
+Si la ciudadanía no aprobare la proposición sometida a plebiscito a que se refiere la disposición vigesimaséptima transitoria, se entenderá prorrogado de pleno derecho el período presidencial a que se refiere la disposición decimotercera transitoria, continuando en funciones por un año más el Presidente de la República en ejercicio y la Junta de Gobierno, con arreglo a las disposiciones que los rigen. Vencido éste plazo, tendrán plena vigencia todos los preceptos de la Constitución.
 
 Para éste efecto, noventa días antes de la expiración de la prórroga indicada en el inciso anterior, el Presidente en ejercicio convocara a elección de Presidente de la República y de parlamentarios en conformidad a los preceptos permanentes de esta Constitución y de la ley.
 
+El Presidente de la República que resulte elegido por aplicación del inciso anterior durará en el ejercicio de sus funciones por el término de cuatro años, y no podrá ser reelegido para el período inmediatamente siguiente.
 
-Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.
+### TRIGÉSIMA
 
-AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República;
-JOSÉ T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada;
-CESAR MENDOZA DURAN, General Director de Carabineros;
-FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea;
-Sergio Fernández Fernández, Ministro del Interior;
-René Rojas Galdames, Ministro de Relaciones Exteriores;
-César Raúl Benavides Escobar, Teniente General, Ministro de Defensa Nacional;
-José Luis Federici Rojas, Ministro de Economía, Fomento y Reconstrucción;
-Sergio de Castro Spikula, Ministro de Hacienda;
-Alfredo Prieto Bafalluy, Ministro de Educación Pública;
-Mónica Madariaga Gutiérrez, Ministro de Justicia;
-Patricio Torres Rojas, General de Brigada, Ministro de Obras Públicas;
-Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura;
-Rene Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales;
-Jose Piñera Echenique, Ministro del Trabajo y Previsión Social;
-Alejandro Medina Lois, General de Brigada, Ministro de Salud;
-Carlos Quiñones López, Contralmirante, Ministro de Minería;
-Jaime Estrada Leigh, General de Brigada, Ministro de la Vivienda y Urbanismo;
-Caupolicán Boisset Mujica, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones;
-Sergio Badiola Broberg, General de Brigada, Ministro Secretario General de Gobierno.
-
-
-Lo que transcribo a Ud. para su conocimiento.
-
-Mario Duvauchelle Rodríguez, Capitán de Navío JT, Secretario de Legislación de la Junta de Gobierno.
+En tanto no entre en vigencia la ley orgánica constitucional que determine las seis regiones en cada una de las cuales habrá dos circunscripciones senatoriales, se dividirán, en esta forma, las regiones de Valparaíso, Metropolitana de Santiago, del Maule, del Bío-Bío, de la Araucanía y de Los Lagos.

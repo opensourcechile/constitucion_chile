@@ -42,9 +42,9 @@ Son atribuciones del Tribunal Constitucional:
 
 6º.- Resolver sobre la constitucionalidad de un decreto o resolución del Presidente de la República que la Contraloría haya representado por estimarlo inconstitucional, cuando sea requerido por el Presidente en conformidad al artículo 88;
 
-7º.- Declarar la inconstitucionalidad de las organizaciones, y de los movimientos o partidos políticos, en conformidad a lo dispuesto en el artículo 8º. de esta Constitución;
+7º.- Declarar la inconstitucionalidad de las organizaciones y de los movimientos o partidos políticos, como asimismo la responsabilidad de las personas que hubieren tenido participación en los hechos que motivaron la declaración de inconstitucionalidad, en conformidad a lo dispuesto en los incisos sexto, séptimo y octavo del número 15° del artículo 19 de esta Constitución. Sin embargo, si la persona afectada fuere el Presidente de la República o el Presidente electo, la referida declaración requerirá, además, el acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio;
 
-8º.- Declarar, en conformidad al artículo 8º. de esta Constitución, la responsabilidad de las personas que atenten o hayan atentado contra el ordenamiento institucional de la República. Sin embargo, si la persona afectada fuere el Presidente de la República o el Presidente electo, dicha declaración requerirá, además, el acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio;
+8º.- Derogado
 
 9º.- Informar al Senado en los casos a que se refiere el artículo 49 Nº. 7 de esta Constitución;
 
@@ -54,7 +54,7 @@ Son atribuciones del Tribunal Constitucional:
 
 12º.- Resolver sobre la constitucionalidad de los decretos supremos dictados en el ejercicio de la potestad reglamentaria del Presidente de la República, cuando ellos se refieran a materias que pudieren estar reservadas a la ley por mandato del artículo 60.
 
-El Tribunal Constitucional podrá apreciar en conciencia los hechos cuando conozca de las atribuciones indicadas en los números 7º., 8º., 9º. y 10º., como, asimismo, cuando conozca de las causales de cesación en el cargo de parlamentario. En el caso del numero 1º., la Cámara de origen enviara al Tribunal Constitucional el proyecto respectivo dentro de los cinco días siguientes a aquel en que quede totalmente tramitado por el Congreso.
+El Tribunal Constitucional podrá apreciar en conciencia los hechos cuando conozca de las atribuciones indicadas en los números 7º., 9º. y 10º., como, asimismo, cuando conozca de las causales de cesación en el cargo de parlamentario. En el caso del numero 1º., la Cámara de origen enviara al Tribunal Constitucional el proyecto respectivo dentro de los cinco días siguientes a aquel en que quede totalmente tramitado por el Congreso.
 
 En el caso del numero 2º., el Tribunal sólo podrá conocer de la materia a requerimiento del Presidente de la República, de cualquiera de las Cámaras o de una cuarta parte de sus miembros en ejercicio, siempre que sea formulado antes de la promulgación de la ley.
 
@@ -74,9 +74,9 @@ En los casos del numero 5º., la cuestión podrá promoverse por cualquiera de l
 
 En el caso del numero 9º., el Tribunal sólo podrá conocer de la materia a requerimiento de la Cámara de Diputados o de la cuarta parte de sus miembros en ejercicio.
 
-Habrá acción pública para requerir al Tribunal respecto de las atribuciones que se le confieren por los números 7º., 8º. y 10º. de este artículo.
+Habrá acción pública para requerir al Tribunal respecto de las atribuciones que se le confieren por los números 7º. y 10º. de este artículo.
 
-Sin embargo, si en el caso del numero 8º. la persona afectada fuere el Presidente de la República o el Presidente electo, el requerimiento deberá formularse por la Cámara de Diputados o por la cuarta parte de sus miembros en ejercicio.
+Sin embargo, si en el caso del numero 7º. la persona afectada fuere el Presidente de la República o el Presidente electo, el requerimiento deberá formularse por la Cámara de Diputados o por la cuarta parte de sus miembros en ejercicio.
 
 En el caso del numero 11º., el Tribunal sólo podrá conocer de la materia a requerimiento del Presidente de la República o de no menos de diez parlamentarios en ejercicio.
 

@@ -28,6 +28,6 @@ En casos calificados, el Presidente de la República con acuerdo del Consejo de 
 
 ### Artículo 94
 
-Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuaran por decreto supremo, en conformidad a la ley y a los reglamentos de cada institución.
+Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas y Carabineros.
 
 El ingreso, los nombramientos, ascensos y retiros en Investigaciones se efectuaran en conformidad a su ley orgánica.

@@ -4,7 +4,7 @@
 
 Los proyectos de reforma de la Constitución podrán ser iniciados por mensaje del Presidente de la República o por moción de cualquiera de los miembros del Congreso Nacional, con las limitaciones señaladas en el inciso primero del artículo 62.
 
-El proyecto de reforma necesitara para ser aprobado en cada Cámara el voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
+El proyecto de reforma necesitara para ser aprobado en cada Cámara el voto conforme de las tres quintas partes de los diputados y senadores en ejercicio. Si la reforma recayere sobre los capítulos I, III, VII, X, XI o XIV, necesitará, en cada Cámara, la aprobación de las dos terceras partes de los diputados y senadores en ejercicio.
 
 Será aplicable a los proyectos de reforma constitucional el sistema de urgencias.
 
@@ -16,9 +16,9 @@ Si en el día señalado no se reuniere la mayoría del total de los miembros del
 
 El proyecto que apruebe la mayoría del Congreso Pleno pasara al Presidente de la República.
 
-Si el Presidente de la República rechazare totalmente un proyecto de reforma aprobado por el Congreso y éste insistiere en su totalidad por las tres cuartas partes de los miembros en ejercicio de cada Cámara, el Presidente deberá promulgar dicho proyecto, a menos que consulte a la ciudadanía mediante plebiscito.
+Si el Presidente de la República rechazare totalmente un proyecto de reforma aprobado por el Congreso y éste insistiere en su totalidad por las dos terceras partes de los miembros en ejercicio de cada Cámara, el Presidente deberá promulgar dicho proyecto, a menos que consulte a la ciudadanía mediante plebiscito.
 
-Si el Presidente observare parcialmente un proyecto de reforma aprobado por el Congreso, las observaciones se entenderán aprobadas con el voto conforme de la mayoría absoluta de los miembros en ejercicio de cada Cámara, y se devolverá al Presidente para su promulgación.
+Si el Presidente observare parcialmente un proyecto de reforma aprobado por el Congreso, las observaciones se entenderán aprobadas con el voto conforme de las tres quintas o dos terceras partes de los miembros en ejercicio de cada Cámara según corresponda, de acuerdo con el artículo anterior y se devolverá al Presidente para su promulgación.
 
 En caso de que las Cámaras no aprueben todas o algunas de las observaciones del Presidente, no habrá reforma constitucional sobre los puntos en discrepancia, a menos que ambas Cámaras insistieren por los dos tercios de sus miembros en ejercicio en la parte del proyecto aprobado por ellas. En éste último caso, se devolverá al Presidente la parte del proyecto que haya sido objeto de insistencia para su promulgación, salvo que éste consulte a la ciudadanía para que se pronuncie mediante un plebiscito, respecto de las cuestiones en desacuerdo.
 
@@ -26,9 +26,7 @@ La ley orgánica constitucional relativa al Congreso regulara en lo demás lo co
 
 ### Artículo 118
 
-Las reformas constitucionales que tengan por objeto modificar las normas sobre plebiscito prescritas en el artículo anterior, disminuir las facultades del Presidente de la República, otorgar mayores atribuciones al Congreso o nuevas prerrogativas a los parlamentarios, requerirán, en todo caso, la concurrencia de voluntades del Presidente de la República y de los dos tercios de los miembros en ejercicio de cada Cámara, y no procederá a su respecto el plebiscito.
-
-Los proyectos de reforma que recaigan sobre los capítulos I, VII, X y XI de esta Constitución deberán, para ser aprobados, cumplir con los requisitos señalados en el inciso anterior. Sin embargo, el proyecto así despachado no se promulgará y se guardara hasta la próxima renovación conjunta de las Cámaras, y en la primera sesión que éstas celebren deliberaran y votaran sobre el texto que se hubiera aprobado, sin que pueda ser objeto de modificación alguna. Sólo si la reforma fuere ratificada por los dos tercios de los miembros en ejercicio de cada rama del nuevo Congreso se devolverá al Presidente de la República para su promulgación. Con todo, si éste ultimo estuviera en desacuerdo, podrá consultar a la ciudadanía para que se pronuncie mediante un plebiscito.
+Derogado.
 
 ### Artículo 119
 

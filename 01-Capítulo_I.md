@@ -28,7 +28,7 @@ Chile es una república democrática.
 
 La soberanía reside esencialmente en la Nación. Su ejercicio se realiza por el pueblo a través del plebiscito y de elecciones periódicas y, también, por las autoridades que esta Constitución establece. Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio.
 
-El ejercicio de la soberanía reconoce como limitación el respeto a los derechos esenciales que emanan de la naturaleza humana.
+El ejercicio de la soberanía reconoce como limitación el respeto a los derechos esenciales que emanan de la naturaleza humana. Es deber de los órganos del Estado respetar y promover tales derechos, garantizados por esta Constitución, así como los tratado s internacionales ratificados por Chile y que se encuentren vigentes.
 
 ### Artículo 6º
 
@@ -48,22 +48,12 @@ Todo acto en contravención a este artículo es nulo y originará las responsabi
 
 ### Artículo 8º
 
-Todo acto de persona o grupo destinado a propagar doctrinas que atenten contra la familia, propugnen la violencia o una concepción de la sociedad, del Estado o del orden jurídico, de carácter totalitario o fundada en la lucha de clases, es ilícito y contrario al ordenamiento institucional de la República.
-
-Las organizaciones y los movimientos o partidos políticos que por sus fines o por la actividad de sus adherentes tiendan a esos objetivos, son inconstitucionales.
-
-Corresponderá al Tribunal Constitucional conocer de las infracciones a lo dispuesto en los incisos anteriores. Sin perjuicio de las demás sanciones establecidas en la Constitución o en la ley, las personas que incurran o hayan incurrido en las contravenciones señaladas precedentemente no podrán optar a funciones o cargos públicos, sean o no de elección popular, por el término de diez años contado desde la fecha de la resolución del Tribunal. Tampoco podrán ser rectores o directores de establecimientos de educación ni ejercer en ellos funciones de enseñanza, ni explotar un medio de comunicación social o ser directores o administradores del mismo, ni desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrán ser dirigentes de organizaciones políticas o relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo.
-
-Si las personas referidas anteriormente estuvieren a la fecha de la declaración del Tribunal, en posesión de un empleo o cargo público, sea o no de elección popular, lo perderán, además, de pleno derecho.
-
-Las personas sancionadas en virtud de este precepto, no podrán ser objeto de rehabilitación durante el plazo señalado en el inciso cuarto.
-
-La duración de las inhabilidades contempladas en este artículo se elevará al doble en caso de reincidencia.
+Derogado.
 
 ### Artículo 9º
 
 El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
 
-Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer los empleos, funciones o actividades a que se refiere el inciso cuarto del artículo anterior, sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
+Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimientos de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrán ser dirigentes de organizaciones políticas relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
 
 No procederá respecto de estos delitos la amnistía ni el indulto, como tampoco la libertad provisional respecto de los procesados por ellos. Estos delitos serán considerados siempre comunes y no políticos para todos los efectos legales.

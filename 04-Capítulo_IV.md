@@ -42,13 +42,21 @@ En este mismo acto, el Presidente electo prestará ante el Presidente del Senado
 
 Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Corte Suprema, y a falta de éste, el Presidente de la Cámara de Diputados.
 
-Con todo, si el impedimento del Presidente electo fuere absoluto o debiere durar indefinidamente, el Vicepresidente, en los diez días siguientes al acuerdo del Senado adoptado en conformidad al artículo 49 N°. 7°., expedirá las órdenes convenientes para que se proceda, dentro del plazo de sesenta días, a nueva elección en la forma prevista por la Constitución y la Ley de Elecciones.
+Con todo, si el impedimento del Presidente electo fuere absoluto o debiere durar indefinidamente, el Vicepresidente, en los diez días siguientes al acuerdo del Senado adoptado en conformidad al artículo 49 N°. 7°., expedirá las órdenes convenientes para que se proceda, dentro del plazo de sesenta días, a nueva elección en la forma prevista por la Constitución y la Ley de Elecciones. El Presidente de la República así elegido asumirá sus funciones en la oportunidad que señale esa ley, y durará en el ejercicio de ellas hasta el día que le habría correspondido cesar en el cargo al electo que no pudo asumir y cuyo impedimento hubiere motivado la nueva elección.
 
 ### Artículo 29
 
 Si por impedimento temporal, sea por enfermedad, ausencia del territorio u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará, con el título de Vicepresidente de la República, el Ministro titular a quien corresponda de acuerdo con el orden de precedencia legal. A falta de éste, la subrogación corresponderá al Ministro titular que siga en ese orden de precedencia y, a falta de todos ellos, le subrogarán sucesivamente el Presidente del Senado, el Presidente de la Corte Suprema y el Presidente de la Cámara de Diputados.
 
-En caso de vacancia del cargo de Presidente de la República, el sucesor será designado por el Senado por mayoría absoluta de sus miembros en ejercicio y durará en el cargo hasta la próxima elección general de parlamentarios, oportunidad en la cual se efectuará una nueva elección presidencial por el período a que se refiere el inciso segundo del artículo 25º. El Senado efectuará la designación dentro de los diez días siguientes a la fecha de vacancia y entre tanto operará la regla de subrogación a que se refiere el inciso anterior. El Presidente así designado no podrá postular como candidato en la elección presidencial siguiente.
+En caso de vacancia del cargo de Presidente de la República, se producirá la subrogación como en las situaciones del inciso anterior, y se procederá a elegir sucesor en conformidad a las reglas de los incisos siguientes.
+
+Si la vacancia se produjere faltando menos de dos años para la próxima elección general de parlamentarios, el Presidente será elegido por el Congreso Pleno por la mayoría absoluta de los senadores y diputados en ejercicio y durará en el cargo hasta noventa días después de esa elección general.
+
+Conjuntamente, se efectuará una nueva elección presidencial por el período señalado en el inciso segundo del artículo 25. La elección por el Congreso será hecha dentro de los diez días siguientes a la fecha de la vacancia y el elegido asumirá su cargo dentro de los treinta días siguientes.
+
+Si la vacancia se produjere faltando dos años o más para la próxima elección general de parlamentarios, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para el nonagésimo día después de la convocatoria. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación y durará en él hasta noventa días después de la segunda elección general de parlamentarios que verifique durante su mandato, lo que se hará en conjunto con la nueva elección presidencial.
+
+El Presidente elegido conforme a alguno de los incisos precedentes no podrá postular como candidato a la elección presidencial siguiente.
 
 ### Artículo 30
 
@@ -56,7 +64,7 @@ El Presidente cesará en su cargo el mismo día en que se complete su período y
 
 ### Artículo 31
 
-El Presidente designado por el Senado o, en su caso, el Vicepresidente de la República tendrá todas las atribuciones que esta Constitución confiere al Presidente de la República, pero no podrá disolver la Cámara de Diputados.
+El Presidente designado por el Congreso Pleno o, en su caso, el Vicepresidente de la República, tendrá todas las atribuciones que esta Constitución confiere al Presidente de la República.
 
 ### Artículo 32
 
@@ -68,9 +76,9 @@ Son atribuciones especiales del Presidente de la República:
 
 3º.- Dictar, previa delegación de facultades del Congreso, decretos con fuerza de ley sobre las materias que señala la Constitución;
 
-4º.- Convocar a plebiscito en los casos del artículo 117 y del inciso final del artículo 118;
+4º.- Convocar a plebiscito en los casos del artículo 117;
 
-5º.- Disolver la Cámara de Diputados por una sola vez durante su período presidencial, sin que pueda ejercer esta atribución en el último año del funcionamiento de ella;
+5º.- Derogado.
 
 6º.- Designar, en conformidad al artículo 45 de esta Constitución, a los integrantes del Senado que se indican en dicho precepto;
 
@@ -142,13 +150,13 @@ Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones d
 
 Una ley orgánica constitucional determinará la organización básica de la Administración Pública, garantizara la carrera funcionaria y los principios de carácter técnico y profesional en que deba fundarse, y asegurara tanto la igualdad de oportunidades de ingreso a ella como la capacitación y el perfeccionamiento de sus integrantes.
 
-Cualquier persona que sea lesionada en sus derechos por la Administración del Estado, de sus organismos o de las municipalidades, podrá reclamar ante los tribunales contencioso administrativos que determine la ley, sin perjuicio de la responsabilidad que pudiere afectar al funcionario que hubiere causado el daño.
+Cualquier persona que sea lesionada en sus derechos por la Administración del Estado, de sus organismos o de las municipalidades, podrá reclamar ante los tribunales que determine la ley, sin perjuicio de la responsabilidad que pudiere afectar al funcionario que hubiere causado el daño.
 
 ## Estados de excepción constitucional
 
 ### Artículo 39
 
-Los derechos y garantías que la Constitución asegura a todas las personas sólo pueden ser afectados en las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública.
+El ejercicio de los derechos y garantías que la Constitución asegura a todas las personas sólo puede ser afectado en las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública.
 
 ### Artículo 40
 
@@ -178,17 +186,12 @@ Dicho estado no podrá exceder de noventa días, pudiendo declararse nuevamente 
 
 1º.- Por la declaración de estado de asamblea el Presidente de la República queda facultado para suspender o restringir la libertad personal, el derecho de reunión, la libertad de información y de opinión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación y de sindicación, imponer censura a la correspondencia y a las comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.
 
-2º.- Por la declaración de estado de sitio el Presidente de la República podrá trasladar a las personas de un punto a otro del territorio nacional, arrestarlas en sus propias casas o en lugares que no sean cárceles ni otros que estén destinados a la detención o prisión de reos comunes, y expulsarlas del territorio nacional. Podrá, además, restringir la libertad de locomoción y prohibir a determinadas personas la entrada y salida del territorio. Asimismo, podrá suspender o restringir el ejercicio del derecho de reunión y la libertad de información y de opinión, restringir el ejercicio de los derechos de asociación y de sindicación e imponer censura a la correspondencia y a las comunicaciones.
-
+2º.- Por la declaración de estado de sitio, el Presidente de la República podrá trasladar a las personas de un punto a otro del territorio nacional, arrestarlas en sus propias casas o en lugares que no sean cárceles ni en otros que estén destinados a la detención o prisión de reos comunes. Podrá, además, suspender o restringir el ejercicio del derecho de reunión y restringir el ejercicio de las libertades de locomoción, de información y de opinión.
 La medida de traslado deberá cumplirse en localidades urbanas que reúnan las condiciones que la ley determine.
 
-3º.- Los recursos a que se refiere el artículo 21 no serán procedentes en los estados de asamblea y de sitio, respecto de las medidas adoptadas en virtud de dichos estados por la autoridad competente y con sujeción a las normas establecidas por la Constitución y la ley.
+3º.- Los tribunales de justicia no podrán, en caso alguno, entrar a calificar los fundamentos ni las circunstancias de hecho invocadas por la autoridad para adoptar las medidas en el ejercicio de las facultades excepcionales que le confiere esta Constitución. La interposición y tramitación de los recursos de amparo y de protección que conozcan los tribunales no suspenderán los efectos de las medidas decretadas, sin perjuicio de lo que resuelvan en definitiva respecto de tales recursos.
 
-El recurso de protección no procederá en los estados de excepción respecto de los actos de autoridad adoptados con sujeción a la Constitución y a la ley que afecten a los derechos y garantías constitucionales que, en conformidad a las normas que rigen dichos estados, han podido suspenderse o restringirse.
-
-En los casos de los incisos anteriores, los tribunales de justicia no podrán, en caso alguno, entrar a calificar los fundamentos de hecho de las medidas que haya adoptado la autoridad en el ejercicio de sus facultades.
-
-4º.- Por la declaración de estado de emergencia se podrán adoptar todas las medidas propias del estado de sitio, con excepción del arresto de las personas, de su traslado de un punto a otro del territorio, de la expulsión del país y de la restricción del ejercicio de los derechos de asociación y de sindicación. En cuanto a la libertad de información y de opinión, sólo podrán restringirse.
+4º.- Por la declaración de estado de emergencia, se podrá restringir el ejercicio de la libertad de locomoción y del derecho de reunión.
 
 5º.- Por la declaración del estado de catástrofe el Presidente de la República podrá restringir la circulación de las personas y el transporte de mercaderías, y las libertades de trabajo, de información y de opinión, y de reunión. Podrá, asimismo, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad, y adoptar todas las medidas extraordinarias de carácter administrativo que estime necesarias.
 
@@ -196,9 +199,7 @@ En los casos de los incisos anteriores, los tribunales de justicia no podrán, e
 
 El Presidente de la República estará obligado a informar al Congreso de las medidas adoptadas en virtud de los estados de emergencia y de catástrofe.
 
-7º.- Las medidas que se adopten durante los estados de excepción, que no tengan una duración determinada, no podrán prolongarse mas allá de la vigencia de dichos estados y sólo se aplicarán en cuanto sean realmente necesarias, sin perjuicio de lo dispuesto en el Nº. 3º. de este artículo. No obstante, las medidas de expulsión del territorio de la República y de prohibición de ingreso al país, que se autorizan en los números precedentes, mantendrán su vigencia pese a la cesación del estado de excepción que les dio origen en tanto la autoridad que las decretó no las deje expresamente sin efecto.
-
-En ningún caso las medidas de restricción y privación de la libertad podrán adoptarse en contra de los parlamentarios, de los jueces, de los miembros del Tribunal Constitucional, del Contralor General de la República y de los miembros del Tribunal Calificador de Elecciones.
+7º.- Las medidas que se adopten durante los estados de excepción, no podrán prolongarse más allá de la vigencia de dichos estados. En ningún caso las medidas de restricción y privación de la libertad podrán adoptarse en contra de los parlamentarios, de los jueces, de los miembros del Tribunal Constitucional, del Contralor General de la República y de los miembros del Tribunal Calificador de Elecciones.
 
 8º.- Las requisiciones que se practiquen darán lugar a indemnizaciones en conformidad a la ley. También darán derecho a indemnización las limitaciones que se impongan al derecho de propiedad cuando importen privación de alguno de los atributos o facultades esenciales del dominio, y con ello se cause daño.
 
