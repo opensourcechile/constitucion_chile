@@ -92,7 +92,7 @@ Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corres
 
 El Estado promoverá la educación parvularia.
 
-La educación básica es obligatoria, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ella de toda la población.
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media  este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.
 
 Corresponderá al Estado, asimismo, fomentar el desarrollo de la educación en todos sus niveles; estimular la investigación científica y tecnológica, la creación artística y la protección e incremento del patrimonio cultural de la Nación.
 
