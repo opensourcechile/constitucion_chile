@@ -12,7 +12,7 @@ La pena de muerte sólo podrá establecerse por delito contemplado en ley aproba
 
 Se prohíbe la aplicación de todo apremio ilegítimo;
 
-2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre.
+2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre. Hombres y mujeres son iguales ante la ley.
 
 Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias;
 

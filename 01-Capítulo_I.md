@@ -2,7 +2,7 @@
 
 ### Artículo 1º
 
-Los hombres nacen libres e iguales en dignidad y derechos.
+Las personas nacen libres e iguales en dignidad y derechos.
 
 La familia es el núcleo fundamental de la sociedad.
 
