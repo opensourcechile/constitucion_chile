@@ -14,7 +14,7 @@ El Presidente de la República, a lo menos una vez al año, dará cuenta al paí
 
 Para ser elegido Presidente de la República se requiere haber nacido en el territorio de Chile, tener cumplidos cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 
-El Presidente de la República durará en el ejercicio de sus funciones por el término de ocho años, y no podrá ser reelegido para el período siguiente.
+El Presidente de la República durará en el ejercicio de sus funciones por el término de seis años, y no podrá ser reelegido para el período siguiente.
 
 El Presidente de la República no podrá salir del territorio nacional por más de treinta días ni en los últimos noventa días de su período, sin acuerdo del Senado.
 
