@@ -10,9 +10,9 @@ Será aplicable a los proyectos de reforma constitucional el sistema de urgencia
 
 ### Artículo 117
 
-Las dos Cámaras, reunidas en Congreso Pleno y en sesión pública, con asistencia de la mayoría del total de sus miembros, sesenta días después de aprobado un proyecto en la forma señalada en el artículo anterior, tomaran conocimiento de él y procederán a votarlo sin debate.
+Las dos Cámaras, reunidas en Congreso Pleno, serán convocadas por el Presidente del Senado a una sesión pública, que se celebrará no antes de treinta ni después de sesenta días contados desde la aprobación de un proyecto en la forma señalada en el artículo anterior, en la que, con asistencia de la mayoría del total de sus miembros, tomarán conocimiento de él y procederán a votarlo sin debate.
 
-Si en el día señalado no se reuniere la mayoría del total de los miembros del Congreso, la sesión se verificara al siguiente con los diputados y senadores que asistan.
+Si a la hora señalada no se reuniere la mayoría del total de los miembros del Congreso, la sesión se verificará el mismo día, a una hora posterior que el Presidente del Senado haya fijado en la convocatoria, con los diputados y senadores que asistan.
 
 El proyecto que apruebe la mayoría del Congreso Pleno pasara al Presidente de la República.
 
