@@ -170,7 +170,7 @@ En ningún caso la ley podrá establecer tributos manifiestamente desproporciona
 
 Los tributos que se recauden, cualquiera que sea su naturaleza, ingresarán al patrimonio de la Nación y no podrán estar afectos a un destino determinado.
 
-Sin embargo, la ley podrá autorizar que determinados tributos puedan estar afectados a fines propios de la defensa nacional o autorizar que los que gravan actividades o bienes que tengan una clara identificación local puedan ser establecidos, dentro de los marcos que la misma ley señale, por las autoridades comunales y destinados a obras de desarrollo comunal;
+Sin embargo, la ley podrá autorizar que determinados tributos puedan estar efectados a fines propios de la defensa nacional. Asimismo, podrá autorizar que los que gravan actividades o bienes que tengan una clara identificación regional o local puedan ser aplicados, dentro de los marcos que la misma ley señale, por las autoridades regionales o comunales para el financiamiento de obras de desarrollo.
 
 21º.- El derecho a desarrollar cualquiera actividad económica que no sea contraria a la moral, al orden público o a la seguridad nacional, respetando las normas legales que la regulen.
 

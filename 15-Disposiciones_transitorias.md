@@ -251,3 +251,17 @@ En tanto no entre en vigencia la ley orgánica constitucional que determine las 
 ### TRIGESIMAPRIMERA
 
 El indulto particular será siempre procedente respecto de los delitos a que se refiere el artículo 9° cometidos antes del 11 de Marzo de 1990. Una copia del Decreto respectivo se remitirá, en carácter reservado, al Senado.
+
+### TRIGÉSIMASEGUNDA
+
+Mientras no se proceda a la instalación de los gobiernos regionales que se establecen en esta Constitución, los intendentes y los consejos regionales de desarrollo mantendrán su actual composición y atribuciones, de conformidad a la legislación vigente.
+
+### TRIGÉSIMATERCERA
+
+Los alcaldes y consejos de desarrollo comunal continuarán en el desempeño de sus funciones, de conformidad con la legislación vigente, mientras no asuman los alcaldes y los concejales elegidos en virtud de esta reforma constitucional.
+
+Las elecciones populares que se originen en esta reforma constitucional se efectuarán antes del 30 de junio de 1992. Las de los miembros de los consejos regionales, en la forma que prevea la ley orgánica constitucional respectiva, se celebrarán quince días después de la instalación de los concejos.
+
+### TRIGÉSIMACUARTA
+
+No obstante lo dispuesto en el inciso segundo del artículo 54, para las elecciones de diputados y senadores que corresponda realizar en 1993, no podrán ser candidatos los ciudadanos que resulten elegidos alcaldes, miembros de los consejos regionales o concejales en las elecciones que se celebren en 1992.

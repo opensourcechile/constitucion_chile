@@ -86,7 +86,7 @@ Son atribuciones especiales del Presidente de la República:
 
 8º.- Ejercer la potestad reglamentaria en todas aquellas materias que no sean propia del dominio legal, sin perjuicio de la facultad de dictar los demás reglamentos, decretos e instrucciones que crea convenientes para la ejecución de las leyes;
 
-9º.- Nombrar y remover a su voluntad a los ministros de Estado, subsecretarios, intendentes, gobernadores y a los alcaldes de su designación;
+9º.- Nombrar y remover a su voluntad a los ministros de Estado, subsecretarios, intendentes y gobernadores;
 
 10º.- Designar a los embajadores y ministros diplomáticos, y a los representantes ante organismos internacionales. Tanto éstos funcionarios como los señalados en el Nº. 9º. precedente, serán de la confianza exclusiva del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella;
 

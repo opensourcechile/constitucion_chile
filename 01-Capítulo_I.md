@@ -18,7 +18,7 @@ Son emblemas nacionales la bandera nacional, el escudo de armas de la República
 
 ### Artículo 3º
 
-El Estado de Chile es unitario. Su territorio se divide en regiones. La Ley propenderá a que su administración sea funcional y territorialmente descentralizada.
+El Estado de Chile es unitario, su territorio se divide en regiones. Su administración será funcional y territorialmente descentralizada, o desconcentrada en su caso, en conformidad con la ley.
 
 ### Artículo 4º
 

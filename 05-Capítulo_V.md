@@ -172,7 +172,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 1) Los Ministros de Estado;
 
-2) Los intendentes, los gobernadores, los alcaldes y los miembros de los consejos regionales y comunales;
+2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales y los concejales;
 
 3) Los miembros del Consejo del Banco Central;
 
@@ -312,7 +312,7 @@ Corresponderá, asimismo, al Presidente de la República la iniciativa exclusiva
 
 2º.- Crear nuevos servicios públicos o empleos rentados, sean fiscales, semifiscales, autónomos, de las empresas del Estado o municipales; suprimirlos y determinar sus funciones o atribuciones;
 
-3º.- Contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos;
+3º.- Contratar empréstitos o celebrar cualquiera otra clase de operaciones que puedan comprometer el crédito o la responsabilidad financiera del Estado, de las entidades semifiscales, autónomas de los gobiernos regionales o de las municipalidades, y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos;
 
 4º.- Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la administración pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de lo dispuesto en los números siguientes;
 
