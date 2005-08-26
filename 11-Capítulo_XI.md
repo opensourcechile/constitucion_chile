@@ -2,26 +2,14 @@
 
 ### Artículo 95
 
-Habrá un Consejo de Seguridad Nacional, presidido por el Presidente de la República e integrado por los presidentes del Senado y de la Corte Suprema, por los Comandantes en Jefe de las Fuerzas Armadas, por el General Director de Carabineros y por el Contralor General de la República.
-
-Participaran también como miembros del Consejo, con derecho a voz, los ministros encargados del gobierno interior, de las relaciones exteriores, de la defensa nacional y de la economía y finanzas del país. Actuara como Secretario el Jefe del Estado Mayor de la Defensa Nacional.
-
-El Consejo de Seguridad Nacional podrá ser convocado por el Presidente de la República o a solicitud de dos de sus miembros y requerirá como quórum para sesionar el de la mayoría absoluta de sus integrantes. Para los efectos de la convocatoria al Consejo y del quórum para sesionar sólo se considerara a sus integrantes con derecho a voto. Los acuerdos se adoptarán por la mayoría absoluta de los miembros en ejercicio con derecho a voto.
+Habrá un Consejo de Seguridad Nacional encargado de asesorar al Presidente de la República en las materias vinculadas a la seguridad nacional y de ejercer las demás funciones que esta Constitución le encomienda. Será presidido por el Jefe del Estado y estará integrado por los Presidentes del Senado, de la Cámara de Diputados y de la Corte Suprema, por los Comandantes en Jefe de las Fuerzas Armadas, por el General Director de Carabineros y por el Contralor General de la República.
+     
+En los casos que el Presidente de la República lo determine, podrán estar presentes en sus sesiones los ministros encargados del gobierno interior, de la defensa nacional, de la seguridad pública, de las relaciones exteriores y de la economía y finanzas del país.
 
 ### Artículo 96
 
-Serán funciones del Consejo de Seguridad Nacional:
+El Consejo de Seguridad Nacional se reunirá cuando sea convocado por el Presidente de la República y requerirá como quórum para sesionar el de la mayoría absoluta de sus integrantes.
 
-a) Asesorar al Presidente de la República en cualquier materia vinculada a la seguridad nacional en que éste lo solicite;
+El Consejo no adoptará acuerdos sino para dictar el reglamento a que se refiere el inciso final de la presente disposición. En sus sesiones, cualquiera de sus integrantes podrá expresar su opinión frente a algún hecho, acto o materia que diga relación con las bases de la institucionalidad o la seguridad nacional.
 
-b) Hacer presente, al Presidente de la República, al Congreso Nacional o al Tribunal Constitucional, su opinión frente a algún hecho, acto o materia que, a su juicio, atente gravemente en contra de las bases de la institucionalidad o pueda comprometer la seguridad nacional;
-
-c) Informar, previamente, respecto de las materias a que se refiere el número 14 del artículo 60;
-
-d) Recabar de las autoridades y funcionarios de la administración todos los antecedentes relacionados con la seguridad exterior e interior del Estado. En tal caso, el requerido estará obligado a proporcionarlos y su negativa será sancionada en la forma que establezca la ley, y
-
-e) Ejercer las demás atribuciones que esta Constitución le encomienda.
-
-Los acuerdos u opiniones a que se refiere la letra b) serán públicos o reservados, según lo determine para cada caso particular el Consejo.
-
-Un reglamento dictado por el propio Consejo establecerá las demás disposiciones concernientes a su organización y funcionamiento.
+Las actas del Consejo serán públicas, a menos que la mayoría de sus miembros determine lo contrario. Un reglamento dictado por el propio Consejo establecerá las demás disposiciones concernientes a su organización, funcionamiento y publicidad de sus debates.

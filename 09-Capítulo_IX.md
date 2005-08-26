@@ -4,7 +4,7 @@
 
 Un organismo autónomo con el nombre de Contraloría General de la República ejercerá el control de la legalidad de los actos de la Administración, fiscalizara el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinara y juzgara las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevara la contabilidad general de la Nación, y desempeñará las demás funciones que le encomiende la ley orgánica constitucional respectiva.
 
-El Contralor General de la República será designado por el Presidente de la República con acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio, será inamovible en su cargo y cesará en él al cumplir 75 años de edad.
+El Contralor General de la República deberá tener a lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio. Será designado por el Presidente de la República con acuerdo del Senado adoptado por los tres quintos de sus miembros en ejercicio, por un período de ocho años y no podrá ser designado para el período siguiente. Con todo, al cumplir 75 años de edad cesará en el cargo.
 
 ### Artículo 88
 

@@ -6,11 +6,11 @@ Son chilenos:
 
 1º.- Los nacidos en el territorio de Chile, con excepción de los hijos de extranjeros que se encuentren en Chile en servicio de su Gobierno, y de los hijos de extranjeros transeúntes, todos los que, sin embargo, podrán optar por la nacionalidad chilena;
 
-2º.- Los hijos de padre o madre chilenos nacidos en territorio extranjero, hallándose cualquiera de éstos en actual servicio de la República, quienes se considerarán para todos los efectos como nacidos en el territorio chileno;
+2º.- Derogado.
 
-3º.- Los hijos de padre o madre chilenos, nacidos en territorio extranjero, por el solo hecho de avecindarse por más de un año en Chile;
+3º.- Los hijos de padre o madre chilenos, nacidos en territorio extranjero. Con todo, se requerirá que alguno de sus ascendientes en línea recta de primer o segundo grado, haya adquirido la nacionalidad chilena en virtud de lo establecido en los números 1º, 4º ó 5º;
 
-4º.- Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley, renunciando expresamente a su nacionalidad anterior. No se exigirá esta renuncia a los nacidos en país extranjero que, en virtud de un tratado internacional, conceda este mismo beneficio a los chilenos. Los nacionalizados en conformidad a este número tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización, y
+4º.- Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley.
 
 5º.- Los que obtuvieren especial gracia de nacionalización por ley.
 
@@ -20,13 +20,13 @@ La ley reglamentará los procedimientos de opción por la nacionalidad chilena; 
 
 La nacionalidad chilena se pierde:
 
-1º.- Por nacionalización en país extranjero, salvo en el caso de aquellos chilenos comprendidos en los números 1º., 2º. y 3º. del artículo anterior que hubieren obtenido otra nacionalidad sin renunciar a su nacionalidad chilena y de acuerdo con lo establecido en el Nº. 4º. del mismo artículo.
+1º.- Por renuncia voluntaria manifestada ante autoridad chilena competente. Esta renuncia sólo producirá efectos si la persona, previamente, se ha nacionalizado en país extranjero;
 
 La causal de pérdida de la nacionalidad chilena señalada precedentemente no regirá respecto de los chilenos que, en virtud de disposiciones constitucionales, legales o administrativas del Estado en cuyo territorio residan, adopten la nacionalidad extranjera como condición de su permanencia en él o de igualdad jurídica en el ejercicio de los derechos civiles con los nacionales del respectivo país;
 
 2º.- Por decreto supremo, en caso de prestación de servicios durante una guerra exterior a enemigos de Chile o de sus aliados;
 
-3º.- Por sentencia judicial condenatoria por delitos contra la dignidad de la patria o los intereses esenciales y permanentes del Estado, así considerados por ley aprobada con quórum calificado. En estos procesos, los hechos se apreciarán siempre en conciencia;
+3º.- Derogado.
 
 4º.- Por cancelación de la carta de nacionalización, y
 
@@ -44,9 +44,13 @@ Son ciudadanos los chilenos que hayan cumplido dieciocho años de edad y que no 
 
 La calidad de ciudadano otorga los derechos de sufragio, de optar a cargos de elección popular y los demás que la Constitución o la ley confieran.
 
+Tratándose de los chilenos a que se refieren los números 3.º y 5.º del artículo 10, el ejercicio de los derechos que les confiere la ciudadanía estará sujeto a que hubieren estado avecindados en Chile por más de un año.
+
 ### Artículo 14
 
 Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
+
+Los nacionalizados en conformidad al Nº 4º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
 
 ### Artículo 15
 
@@ -60,7 +64,7 @@ El derecho de sufragio se suspende:
 
 1º.- Por interdicción en caso de demencia;
 
-2º.- Por hallarse la persona procesada por delito que merezca pena aflictiva o por delito que la ley califique como conducta terrorista, y
+2º.- Por hallarse la persona acusada por delito que merezca pena aflictiva o por delito que la ley califique como conducta terrorista, y
 
 3º.- Por haber sido sancionado por el Tribunal Constitucional en conformidad al inciso séptimo del artículo 19 de esta Constitución. Los que por esta causa se hallaren privados del ejercicio del derecho de sufragio lo recuperarán al término de cinco años, contado desde la declaración del Tribunal. Esta suspensión no producirá otro efecto legal, sin perjuicio de lo dispuesto en el inciso séptimo del número 15 del artículo 19.
 
@@ -72,9 +76,9 @@ La calidad de ciudadano se pierde:
 
 2º.- Por condena a pena aflictiva, y
 
-3º.- Por condena por delitos que la ley califique como conducta terrorista.
+3º.- Por condena por delitos que la ley califique como conducta terrorista y los relativos al tráfico de estupefacientes y que hubieren merecido, además, pena aflictiva.
 
-Los que hubieren perdido la ciudadanía por la causal señalada en el numero 2º. podrán solicitar su rehabilitación al Senado, una vez extinguida su responsabilidad penal. Los que hubieren perdido la ciudadanía por la causal prevista en el numero 3º. sólo podrán ser rehabilitados en virtud de una ley de quórum calificado, una vez cumplida la condena.
+Los que hubieren perdido la ciudadanía por la causal indicada en el número 2.º, la recuperarán en conformidad a la ley, una vez extinguida su responsabilidad penal. Los que la hubieren perdido por las causales previstas en el número 3.º podrán solicitar su rehabilitación al Senado una vez cumplida la condena.
 
 ### Artículo 18
 

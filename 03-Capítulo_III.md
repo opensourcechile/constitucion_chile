@@ -22,7 +22,7 @@ Toda persona tiene derecho a defensa jurídica en la forma que la ley señale y 
 
 La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a quienes no puedan procurárselos por sí mismos.
 
-Nadie puede ser juzgado por comisiones especiales, sino por el tribunal que le señale la ley y que se halle establecido con anterioridad por ésta.
+Nadie podrá ser juzgado por comisiones especiales, sino por el tribunal que señalare la ley y que se hallare establecido por ésta con anterioridad a la perpetración del hecho.
 
 Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un procedimiento y una investigación racionales y justos.
 
@@ -30,7 +30,7 @@ La ley no podrá presumir de derecho la responsabilidad penal. Ningún delito se
 
 Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté expresamente descrita en ella;
 
-4º.- El respeto y protección a la vida privada y pública y a la honra de la persona y de su familia.
+4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia.
 
 La infracción de este precepto, cometida a través de un medio de comunicación social, y que consistiere en la imputación de un hecho o acto falso, o que cause injustificadamente daño o descrédito a una persona o a su familia, será constitutiva de delito y tendrá la sanción que determine la ley. Con todo, el medio de comunicación social podrá excepcionarse probando ante el tribunal correspondiente la verdad de la imputación, a menos que ella constituya por sí misma el delito de injuria a particulares.
 
@@ -62,9 +62,11 @@ Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de
 
 Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al arrestado o detenido, procesado o preso, que se encuentre en ella. Este funcionario está obligado, siempre que el arrestado o detenido lo requiera, a transmitir al juez competente la copia de la orden de detención, o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención se hubiere omitido este requisito;
 
-e) La libertad provisional procederá a menos que la detención o la prisión preventiva sea considerada por el juez como necesaria para las investigaciones del sumario o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla. La resolución que otorgue la libertad provisional a los procesados por los delitos a que se refiere el artículo 9°, deberá siempre elevarse en consulta. Esta y la apelación de la resolución que se pronuncie sobre la excarcelación serán conocidas por el Tribunal superior que corresponda integrado exclusivamente por miembros titulares. La resolución que apruebe u otorgue la libertad requerirá ser acordada por unanimidad. Mientras dure la libertad provisional el reo quedará siempre sometido a las medidas de vigilancia de la autoridad que la ley contemple;
+e) La libertad del imputado procederá a menos que la detención o prisión preventiva sea considerada por el juez como necesaria para las investigaciones o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla.
 
-f) En las causas criminales no se podrá obligar al inculpado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias, señale la ley;
+La apelación de la resolución que se pronuncie sobre la libertad del imputado por los delitos a que se refiere el Artículo 9º, será conocida por el tribunal superior que corresponda, integrado exclusivamente por miembros titulares. La resolución que la apruebe u otorgue requerirá ser acordada por unanimidad. Mientras dure la libertad, el imputado quedará siempre sometido a las medidas de vigilancia de la autoridad que la ley contemple.
+
+f) En las causas criminales no se podrá obligar al imputado o acusado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias, señale la ley;
 
 g) No podrá imponerse la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes; pero dicha pena será procedente respecto de las asociaciones ilícitas;
 
@@ -146,7 +148,7 @@ Toda persona tiene derecho a la libre contratación y a la libre elección del t
 
 Se prohíbe cualquiera discriminación que no se base en la capacidad o idoneidad personal, sin perjuicio de que la ley pueda exigir la nacionalidad chilena o límites de edad para determinados casos.
 
-Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad públicas, o que lo exija el interés nacional y una ley lo declare así. Ninguna ley o disposición de autoridad pública podrá exigir la afiliación a organización o entidad alguna como requisito para desarrollar una determinada actividad o trabajo, ni la desafiliación para mantenerse en éstos. La ley determinará las profesiones que requieren grado o título universitario y las condiciones que deben cumplirse para ejercerlas.
+Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad públicas, o que lo exija el interés nacional y una ley lo declare así. Ninguna ley o disposición de autoridad pública podrá exigir la afiliación a organización o entidad alguna como requisito para desarrollar una determinada actividad o trabajo, ni la desafiliación para mantenerse en éstos. La ley determinará las profesiones que requieren grado o título universitario y las condiciones que deben cumplirse para ejercerlas. Los colegios profesionales constituidos en conformidad a la ley y que digan relación con tales profesiones, estarán facultados para conocer de las reclamaciones que se interpongan sobre la conducta ética de sus miembros. Contra sus resoluciones podrá apelarse ante la Corte de Apelaciones respectiva. Los profesionales no asociados serán juzgados por los tribunales especiales establecidos en la ley.
 
 La negociación colectiva con la empresa en que laboren es un derecho de los trabajadores, salvo los casos en que la ley expresamente no permita negociar. La ley establecerá las modalidades de la negociación colectiva y los procedimientos adecuados para lograr en ella una solución justa y pacífica. La ley señalará los casos en que la negociación colectiva deba someterse a arbitraje obligatorio, el que corresponderá a tribunales especiales de expertos cuya organización y atribuciones se establecerán en ella.
 
@@ -220,7 +222,7 @@ Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a
 
 El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24º. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
 
-Procederá, también, el recurso de protección en el caso del Nº. 8°. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto arbitrario e ilegal imputable a una autoridad o persona determinada.
+Procederá, también, el recurso de protección en el caso del Nº. 8°. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto u omisión ilegal imputable a una autoridad o persona determinada.
 
 ### Artículo 21
 

@@ -2,13 +2,11 @@
 
 ### Artículo 90
 
-Las Fuerzas dependientes del Ministerio encargado de la Defensa Nacional están constituidas única y exclusivamente por las Fuerzas Armadas y por las Fuerzas de Orden y Seguridad Pública.
+Las Fuerzas Armadas dependientes del Ministerio encargado de la Defensa Nacional están constituidas única y exclusivamente por el Ejército, la Armada y la Fuerza Aérea. Existen para la defensa de la patria y son esenciales para la seguridad nacional.
 
-Las Fuerzas Armadas están integradas sólo por el Ejército, la Armada y la Fuerza Aérea, existen para la defensa de la patria, son esenciales para la seguridad nacional y garantizan el orden institucional de la República.
+Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones. Constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Dependen del Ministerio encargado de la Seguridad Pública.
 
-Las Fuerzas de Orden y Seguridad Pública están integradas sólo por Carabineros e Investigaciones, constituyen la fuerza pública y existen para dar eficacia al derecho, garantizar el orden público y la seguridad pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Carabineros se integrará, además, con las Fuerzas Armadas en la misión de garantizar el orden institucional de la República.
-
-Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes del Ministerio encargado de la Defensa Nacional son además profesionales, jerarquizadas y disciplinadas.
+Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes de los Ministerios encargados de la Defensa Nacional y de la Seguridad Pública son, además, profesionales, jerarquizadas y disciplinadas.
 
 ### Artículo 91
 
@@ -24,7 +22,7 @@ El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia 
 
 Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros serán designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; duraran cuatro años en sus funciones, no podrán ser nombrados para un nuevo período y gozaran de inamovilidad en su cargo.
 
-En casos calificados, el Presidente de la República con acuerdo del Consejo de Seguridad Nacional, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada, de la Fuerza Aérea o al General Director de Carabineros, en su caso.
+El Presidente de la República, mediante decreto fundado e informando previamente a la Cámara de Diputados y al Senado, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea y al General Director de Carabineros, en su caso, antes de completar su respectivo período.
 
 ### Artículo 94
 

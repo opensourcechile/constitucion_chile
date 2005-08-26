@@ -6,19 +6,15 @@ Los proyectos de reforma de la Constitución podrán ser iniciados por mensaje d
 
 El proyecto de reforma necesitara para ser aprobado en cada Cámara el voto conforme de las tres quintas partes de los diputados y senadores en ejercicio. Si la reforma recayere sobre los capítulos I, III, VII, X, XI o XIV, necesitará, en cada Cámara, la aprobación de las dos terceras partes de los diputados y senadores en ejercicio.
 
-Será aplicable a los proyectos de reforma constitucional el sistema de urgencias.
+En lo no previsto en este Capítulo, serán aplicables a la tramitación de los proyectos de reforma constitucional las normas sobre formación de la ley, debiendo respetarse siempre los quórums señalados en el inciso anterior.
 
 ### Artículo 117
 
-Las dos Cámaras, reunidas en Congreso Pleno, serán convocadas por el Presidente del Senado a una sesión pública, que se celebrará no antes de treinta ni después de sesenta días contados desde la aprobación de un proyecto en la forma señalada en el artículo anterior, en la que, con asistencia de la mayoría del total de sus miembros, tomarán conocimiento de él y procederán a votarlo sin debate.
+El proyecto que aprueben ambas cámaras pasara al Presidente de la República.
 
-Si a la hora señalada no se reuniere la mayoría del total de los miembros del Congreso, la sesión se verificará el mismo día, a una hora posterior que el Presidente del Senado haya fijado en la convocatoria, con los diputados y senadores que asistan.
+Si el Presidente de la República rechazare totalmente un proyecto de reforma aprobado por ambas cámaras y éste insistiere en su totalidad por las dos terceras partes de los miembros en ejercicio de cada Cámara, el Presidente deberá promulgar dicho proyecto, a menos que consulte a la ciudadanía mediante plebiscito.
 
-El proyecto que apruebe la mayoría del Congreso Pleno pasara al Presidente de la República.
-
-Si el Presidente de la República rechazare totalmente un proyecto de reforma aprobado por el Congreso y éste insistiere en su totalidad por las dos terceras partes de los miembros en ejercicio de cada Cámara, el Presidente deberá promulgar dicho proyecto, a menos que consulte a la ciudadanía mediante plebiscito.
-
-Si el Presidente observare parcialmente un proyecto de reforma aprobado por el Congreso, las observaciones se entenderán aprobadas con el voto conforme de las tres quintas o dos terceras partes de los miembros en ejercicio de cada Cámara según corresponda, de acuerdo con el artículo anterior y se devolverá al Presidente para su promulgación.
+Si el Presidente observare parcialmente un proyecto de reforma aprobado por ambas cámaras, las observaciones se entenderán aprobadas con el voto conforme de las tres quintas o dos terceras partes de los miembros en ejercicio de cada Cámara según corresponda, de acuerdo con el artículo anterior y se devolverá al Presidente para su promulgación.
 
 En caso de que las Cámaras no aprueben todas o algunas de las observaciones del Presidente, no habrá reforma constitucional sobre los puntos en discrepancia, a menos que ambas Cámaras insistieren por los dos tercios de sus miembros en ejercicio en la parte del proyecto aprobado por ellas. En éste último caso, se devolverá al Presidente la parte del proyecto que haya sido objeto de insistencia para su promulgación, salvo que éste consulte a la ciudadanía para que se pronuncie mediante un plebiscito, respecto de las cuestiones en desacuerdo.
 
@@ -40,8 +36,4 @@ Una vez promulgado el proyecto y desde la fecha de su vigencia, sus disposicione
 
 ### Artículo final
 
-La presente Constitución entrara en vigencia seis meses después de ser aprobada mediante plebiscito, con excepción de las disposiciones transitorias novena y vigesimatercera que tendrán vigor desde la fecha de esa aprobación. Su texto oficial será el que consta en éste decreto ley.
-
-Un decreto ley determinará la oportunidad en la cual se efectuara el señalado plebiscito, así como las normas a que él se sujetara, debiendo establecer las reglas que aseguren el sufragio personal, igualitario y secreto y, para los nacionales, obligatorio.
-
-La norma contenida en el inciso anterior entrara en vigencia desde la fecha de publicación del presente texto constitucional.
+Derogado.

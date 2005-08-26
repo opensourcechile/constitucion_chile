@@ -8,13 +8,13 @@ El gobierno y la administración del Estado corresponden al Presidente de la Rep
 
 Su autoridad se extiende a todo cuanto tiene por objeto, la conservación del orden público en el interior y la seguridad externa de la República, de acuerdo con la Constitución y las leyes.
 
-El Presidente de la República, a lo menos una vez al año, dará cuenta al país del estado administrativo y político de la nación.
+El 21 de mayo de cada año, el Presidente de la República dará cuenta al país del estado administrativo y político de la Nación ante el Congreso Pleno.
 
 ### Artículo 25
 
-Para ser elegido Presidente de la República se requiere haber nacido en el territorio de Chile, tener cumplidos cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
+Para ser elegido Presidente de la República se requiere tener la nacionalidad chilena de acuerdo a lo dispuesto en los números 1º ó 3º del artículo 10; tener cumplidos treinta y cinco años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 
-El Presidente de la República durará en el ejercicio de sus funciones por el término de seis años, y no podrá ser reelegido para el período siguiente.
+El Presidente de la República durará en el ejercicio de sus funciones por el término de cuatro años y no podrá ser reelegido para el período siguiente.
 
 El Presidente de la República no podrá salir del territorio nacional por más de treinta días ni en los últimos noventa días de su período, sin acuerdo del Senado.
 
@@ -22,11 +22,15 @@ En todo caso, el Presidente de la República comunicará con la debida anticipac
 
 ### Artículo 26
 
-El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se realizará, en la forma que determine la ley, noventa días antes de aquel en que deba cesar en el cargo el que esté en funciones.
+El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se efectuará conjuntamente con la de parlamentarios, en la forma que determine la ley orgánica constitucional respectiva, noventa días antes de aquél en que deba cesar en el cargo el que esté en funciones.
 
 Si a la elección de Presidente de la República se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquel de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará, en la forma que determine la ley, el trigésimo día después de efectuada la primera, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente al referido trigésimo día.
 
 Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
+
+En caso de muerte de uno o de ambos candidatos a que se refiere el inciso segundo, el Presidente de la República convocará a una nueva elección dentro del plazo de treinta días, contado desde la fecha del deceso. La elección se celebrará el domingo más cercano al nonagésimo día posterior a la convocatoria.
+
+Si expirase el mandato del Presidente de la República en ejercicio antes de la fecha de asunción del Presidente que se elija en conformidad al inciso anterior, se aplicará, en lo pertinente, la norma contenida en el inciso primero del artículo 28.
 
 ### Artículo 27
 
@@ -40,23 +44,21 @@ En este mismo acto, el Presidente electo prestará ante el Presidente del Senado
 
 ### Artículo 28
 
-Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Corte Suprema, y a falta de éste, el Presidente de la Cámara de Diputados.
+Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Cámara de Diputados, y a falta de éste, el Presidente de la Corte Suprema.
 
 Con todo, si el impedimento del Presidente electo fuere absoluto o debiere durar indefinidamente, el Vicepresidente, en los diez días siguientes al acuerdo del Senado adoptado en conformidad al artículo 49 N°. 7°., expedirá las órdenes convenientes para que se proceda, dentro del plazo de sesenta días, a nueva elección en la forma prevista por la Constitución y la Ley de Elecciones. El Presidente de la República así elegido asumirá sus funciones en la oportunidad que señale esa ley, y durará en el ejercicio de ellas hasta el día que le habría correspondido cesar en el cargo al electo que no pudo asumir y cuyo impedimento hubiere motivado la nueva elección.
 
 ### Artículo 29
 
-Si por impedimento temporal, sea por enfermedad, ausencia del territorio u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará, con el título de Vicepresidente de la República, el Ministro titular a quien corresponda de acuerdo con el orden de precedencia legal. A falta de éste, la subrogación corresponderá al Ministro titular que siga en ese orden de precedencia y, a falta de todos ellos, le subrogarán sucesivamente el Presidente del Senado, el Presidente de la Corte Suprema y el Presidente de la Cámara de Diputados.
+Si por impedimento temporal, sea por enfermedad, ausencia del territorio u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará, con el título de Vicepresidente de la República, el Ministro titular a quien corresponda de acuerdo con el orden de precedencia legal. A falta de éste, la subrogación corresponderá al Ministro titular que siga en ese orden de precedencia y, a falta de todos ellos, le subrogarán sucesivamente el Presidente del Senado, el Presidente de la Cámara de Diputados y el Presidente de la Corte Suprema.
 
 En caso de vacancia del cargo de Presidente de la República, se producirá la subrogación como en las situaciones del inciso anterior, y se procederá a elegir sucesor en conformidad a las reglas de los incisos siguientes.
 
-Si la vacancia se produjere faltando menos de dos años para la próxima elección general de parlamentarios, el Presidente será elegido por el Congreso Pleno por la mayoría absoluta de los senadores y diputados en ejercicio y durará en el cargo hasta noventa días después de esa elección general.
+Si la vacancia se produjere faltando menos de dos años para la próxima elección presidencial, el Presidente será elegido por el Congreso Pleno por la mayoría absoluta de los senadores y diputados en ejercicio. La elección por el Congreso será hecha dentro de los diez días siguientes a la fecha de la vacancia y el elegido asumirá su cargo dentro de los treinta días siguientes.
 
-Conjuntamente, se efectuará una nueva elección presidencial por el período señalado en el inciso segundo del artículo 25. La elección por el Congreso será hecha dentro de los diez días siguientes a la fecha de la vacancia y el elegido asumirá su cargo dentro de los treinta días siguientes.
+Si la vacancia se produjere faltando dos años o más para la próxima elección presidencial, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para el sexagésimo día después de la convocatoria. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación.
 
-Si la vacancia se produjere faltando dos años o más para la próxima elección general de parlamentarios, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para el nonagésimo día después de la convocatoria. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación y durará en él hasta noventa días después de la segunda elección general de parlamentarios que verifique durante su mandato, lo que se hará en conjunto con la nueva elección presidencial.
-
-El Presidente elegido conforme a alguno de los incisos precedentes no podrá postular como candidato a la elección presidencial siguiente.
+El Presidente elegido conforme a alguno de los incisos precedentes durará en el cargo hasta completar el período que restaba a quien se reemplace y no podrá postular como candidato a la elección presidencial siguiente.
 
 ### Artículo 30
 
@@ -65,8 +67,6 @@ El Presidente cesará en su cargo el mismo día en que se complete su período y
 El que haya desempeñado este cargo por el período completo, asumirá, inmediatamente y de pleno derecho, la dignidad oficial de Ex Presidente de la República.
 
 En virtud de esta calidad, le serán aplicables las disposiciones de los incisos segundo, tercero y cuarto del artículo 58 y el artículo 59.
-
-Quien actualmente o en el futuro se desempeñe como senador vitalicio, podrá renunciar a dicho cargo, en cuyo caso mantendrá la dignidad de Ex Presidente de la República.
 
 No la alcanzará el ciudadano que llegue a ocupar el cargo de Presidente de la República por vacancia del mismo ni quien haya sido declarado culpable en juicio político seguido en su contra.
 
@@ -82,7 +82,9 @@ Son atribuciones especiales del Presidente de la República:
 
 1º.- Concurrir a la formación de las leyes con arreglo a la Constitución, sancionarlas y promulgarlas;
 
-2º.- Convocar al Congreso a legislatura extraordinaria y clausurarla;
+2º.- Pedir, indicando los motivos, que se cite a sesión a cualquiera de las ramas del Congreso Nacional.
+
+En tal caso, la sesión deberá celebrarse a la brevedad posible;
 
 3º.- Dictar, previa delegación de facultades del Congreso, decretos con fuerza de ley sobre las materias que señala la Constitución;
 
@@ -90,7 +92,7 @@ Son atribuciones especiales del Presidente de la República:
 
 5º.- Derogado.
 
-6º.- Designar, en conformidad al artículo 45 de esta Constitución, a los integrantes del Senado que se indican en dicho precepto;
+6º.- Derogado.
 
 7º.- Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución;
 
@@ -154,6 +156,8 @@ Los Ministros serán responsables individualmente de los actos que firmaren y so
 
 Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.
 
+Sin perjuicio de lo anterior, los Ministros deberán concurrir personalmente a las sesiones especiales que la Cámara de Diputados o el Senado convoquen para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.
+
 ## Bases generales de la Administración del Estado
 
 ### Artículo 38
@@ -166,51 +170,52 @@ Cualquier persona que sea lesionada en sus derechos por la Administración del E
 
 ### Artículo 39
 
-El ejercicio de los derechos y garantías que la Constitución asegura a todas las personas sólo puede ser afectado en las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública.
+El ejercicio de los derechos y garantías que la Constitución asegura a todas las personas sólo puede ser afectado bajo las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública, cuando afecten gravemente el normal desenvolvimiento de las instituciones del Estado.
 
 ### Artículo 40
 
-1º.- En situación de guerra externa, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podrá declarar todo o parte del territorio nacional en estado de asamblea.
+El estado de asamblea, en caso de guerra exterior, y el estado de sitio, en caso de guerra interna o grave conmoción interior, lo declarará el Presidente de la República, con acuerdo del Congreso Nacional. La declaración deberá determinar las zonas afectadas por el estado de excepción correspondiente.
 
-2º.- En caso de guerra interna o conmoción interior, el Presidente de la República podrá, con acuerdo del Congreso, declarar todo o parte del territorio nacional en estado de sitio.
+El Congreso Nacional, dentro del plazo de cinco días contado desde la fecha en que el Presidente de la República someta la declaración de estado de asamblea o de sitio a su consideración, deberá pronunciarse aceptando o rechazando la proposición, sin que pueda introducirle modificaciones. Si el Congreso no se pronunciara dentro de dicho plazo, se entenderá que aprueba la proposición del Presidente.
 
-El Congreso, dentro del plazo de diez días, contados desde la fecha en que el Presidente de la República someta la declaración de estado de sitio a su consideración, deberá pronunciarse aceptando o rechazando la proposición, sin que pueda introducirse modificaciones. Si el Congreso no se pronunciare dentro de dicho plazo, se entenderá que aprueba la proposición.
+Sin embargo, el Presidente de la República podrá aplicar el estado de asamblea o de sitio de inmediato mientras el Congreso se pronuncia sobre la declaración, pero en este último estado sólo podrá restringir el ejercicio del derecho de reunión. Las medidas que adopte el Presidente de la República en tanto no se reúna el Congreso Nacional, podrán ser objeto de revisión por los tribunales de justicia, sin que sea aplicable, entre tanto, lo dispuesto en el artículo 41 D.
 
-Sin embargo, el Presidente de la República, previo acuerdo del Consejo de Seguridad Nacional, podrá aplicar el estado de sitio de inmediato, mientras el Congreso se pronuncia sobre la declaración.
-
-Cada rama del Congreso deberá emitir su pronunciamiento, por la mayoría de los miembros presentes, sobre la declaración de estado de sitio propuesta por el Presidente de la República. Podrá el Congreso, en cualquier tiempo y por la mayoría absoluta de los miembros en ejercicio de cada Cámara, dejar sin efecto el estado de sitio que hubiere aprobado.
-
-La declaración de estado de sitio sólo podrá hacerse hasta por un plazo máximo de noventa días, pero el Presidente de la República podrá solicitar su prórroga, la que se tramitara en conformidad a las normas precedentes.
-
-3º.- El Presidente de la República, con acuerdo del Consejo de Seguridad Nacional podrá declarar todo o parte del territorio nacional en estado de emergencia, en casos graves de alteración del orden público, daño o peligro para la seguridad nacional, sea por causa de origen interno o externo.
-
-Dicho estado no podrá exceder de noventa días, pudiendo declararse nuevamente si se mantienen las circunstancias.
-
-4º.- En caso de calamidad pública, el Presidente de la República, con acuerdo del Consejo de Seguridad Nacional, podrá declarar la zona afectada o cualquiera otra que lo requiera como consecuencia de la calamidad producida, en estado de catástrofe.
-
-5º.- El Presidente de la República podrá decretar simultáneamente dos o más estados de excepción si concurren las causales que permiten su declaración.
-
-6º.- El Presidente de la República podrá, en cualquier tiempo, poner término a dichos estados.
+La declaración de estado de sitio sólo podrá hacerse por un plazo de quince días, sin perjuicio de que el Presidente de la República solicite su prórroga. El estado de asamblea mantendrá su vigencia por el tiempo que se extienda la situación de guerra exterior, salvo que el Presidente de la República disponga su suspensión con anterioridad.
 
 ### Artículo 41
 
-1º.- Por la declaración de estado de asamblea el Presidente de la República queda facultado para suspender o restringir la libertad personal, el derecho de reunión, la libertad de información y de opinión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación y de sindicación, imponer censura a la correspondencia y a las comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.
+El estado de catástrofe, en caso de calamidad pública, lo declarará el Presidente de la República, determinando la zona afectada por la misma.
 
-2º.- Por la declaración de estado de sitio, el Presidente de la República podrá trasladar a las personas de un punto a otro del territorio nacional, arrestarlas en sus propias casas o en lugares que no sean cárceles ni en otros que estén destinados a la detención o prisión de reos comunes. Podrá, además, suspender o restringir el ejercicio del derecho de reunión y restringir el ejercicio de las libertades de locomoción, de información y de opinión.
-La medida de traslado deberá cumplirse en localidades urbanas que reúnan las condiciones que la ley determine.
+El Presidente de la República estará obligado a informar al Congreso Nacional de las medidas adoptadas en virtud del estado de catástrofe. El Congreso Nacional podrá dejar sin efecto la declaración transcurridos ciento ochenta días desde ésta si las razones que la motivaron hubieran cesado en forma absoluta. Con todo, el Presidente de la República sólo podrá declarar el estado de catástrofe por un período superior a un año con acuerdo del Congreso Nacional. El referido acuerdo se tramitará en la forma establecida en el inciso segundo del artículo 40.
 
-3º.- Los tribunales de justicia no podrán, en caso alguno, entrar a calificar los fundamentos ni las circunstancias de hecho invocadas por la autoridad para adoptar las medidas en el ejercicio de las facultades excepcionales que le confiere esta Constitución. La interposición y tramitación de los recursos de amparo y de protección que conozcan los tribunales no suspenderán los efectos de las medidas decretadas, sin perjuicio de lo que resuelvan en definitiva respecto de tales recursos.
+Declarado el estado de catástrofe, las zonas respectivas quedarán bajo la dependencia inmediata del Jefe de la Defensa Nacional que designe el Presidente de la República. Este asumirá la dirección y supervigilancia de su jurisdicción con las atribuciones y deberes que la ley señale.
 
-4º.- Por la declaración de estado de emergencia, se podrá restringir el ejercicio de la libertad de locomoción y del derecho de reunión.
+### Artículo 41 A
 
-5º.- Por la declaración del estado de catástrofe el Presidente de la República podrá restringir la circulación de las personas y el transporte de mercaderías, y las libertades de trabajo, de información y de opinión, y de reunión. Podrá, asimismo, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad, y adoptar todas las medidas extraordinarias de carácter administrativo que estime necesarias.
+El estado de emergencia, en caso de grave alteración del orden público o de grave daño para la seguridad de la Nación, lo declarará el Presidente de la República, determinando las zonas afectadas por dichas circunstancias. El estado de emergencia no podrá extenderse por más de quince días, sin perjuicio de que el Presidente de la República pueda prorrogarlo por igual período. Sin embargo, para sucesivas prórrogas, el Presidente requerirá siempre del acuerdo del Congreso Nacional. El referido acuerdo se tramitará en la forma establecida en el inciso segundo del artículo 40.
 
-6º.- Declarado el estado de emergencia o de catástrofe, las zonas respectivas quedaran bajo la dependencia inmediata del jefe de la Defensa Nacional que el Gobierno designe, quien asumirá el mando con las atribuciones y deberes que la ley señale.
+Declarado el estado de emergencia, las zonas respectivas quedarán bajo la dependencia inmediata del Jefe de la Defensa Nacional que designe el Presidente de la República. Este asumirá la dirección y supervigilancia de su jurisdicción con las atribuciones y deberes que la ley señale.
 
-El Presidente de la República estará obligado a informar al Congreso de las medidas adoptadas en virtud de los estados de emergencia y de catástrofe.
+El Presidente de la República estará obligado a informar al Congreso Nacional de las medidas adoptadas en virtud del estado de emergencia.
 
-7º.- Las medidas que se adopten durante los estados de excepción, no podrán prolongarse más allá de la vigencia de dichos estados. En ningún caso las medidas de restricción y privación de la libertad podrán adoptarse en contra de los parlamentarios, de los jueces, de los miembros del Tribunal Constitucional, del Contralor General de la República y de los miembros del Tribunal Calificador de Elecciones.
+### Artículo 41 B
 
-8º.- Las requisiciones que se practiquen darán lugar a indemnizaciones en conformidad a la ley. También darán derecho a indemnización las limitaciones que se impongan al derecho de propiedad cuando importen privación de alguno de los atributos o facultades esenciales del dominio, y con ello se cause daño.
+Por la declaración del estado de asamblea, el Presidente de la República queda facultado para suspender o restringir la libertad personal, el derecho de reunión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación, interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.
 
-9º.- Una ley orgánica constitucional podrá regular los estados de excepción y facultar al Presidente de la República para ejercer por sí o por otras autoridades las atribuciones señaladas precedentemente, sin perjuicio de lo establecido en los estados de emergencia y de catástrofe.
+Por la declaración de estado de sitio, el Presidente de la República podrá restringir la libertad de locomoción y arrestar a las personas en sus propias moradas o en lugares que la ley determine y que no sean cárceles ni estén destinados a la detención o prisión de reos comunes. Podrá, además, suspender o restringir el ejercicio del derecho de reunión.
+
+Por la declaración del estado de catástrofe, el Presidente de la República podrá restringir las libertades de locomoción y de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada.
+
+Por la declaración del estado de emergencia, el Presidente de la República podrá restringir las libertades de locomoción y de reunión.
+
+### Artículo 41 C
+
+Una ley orgánica constitucional regulará los estados de excepción, así como su declaración y la aplicación de las medidas legales y administrativas que procediera adoptar bajo aquéllos. Dicha ley contemplará lo estrictamente necesario para el pronto restablecimiento de la normalidad constitucional y no podrá afectar las competencias y el funcionamiento de los órganos constitucionales ni los derechos e inmunidades de sus respectivos titulares.
+
+Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de la vigencia de los mismos.
+
+### Artículo 41 D
+
+Los tribunales de justicia no podrán calificar los fundamentos ni las circunstancias de hecho invocados por la autoridad para decretar los estados de excepción, sin perjuicio de lo dispuesto en el artículo 39. No obstante, respecto de las medidas particulares que afecten derechos constitucionales, siempre existirá la garantía de recurrir ante las autoridades judiciales a través de los recursos que corresponda.
+
+Las requisiciones que se practiquen darán lugar a indemnizaciones en conformidad a la ley. También darán derecho a indemnización las limitaciones que se impongan al derecho de propiedad cuando importen privación de alguno de sus atributos o facultades esenciales y con ello se cause daño.

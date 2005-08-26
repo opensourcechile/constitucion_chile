@@ -69,15 +69,13 @@ Los magistrados de los tribunales superiores de justicia, los fiscales judiciale
 
 ### Artículo 79
 
-La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones, los tribunales electorales regionales y los tribunales militares de tiempo de guerra.
+La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones y los tribunales electorales regionales.
 
 Los tribunales superiores de justicia, en uso de sus facultades disciplinarias, sólo podrán invalidar resoluciones jurisdiccionales en los casos y forma que establezca la ley orgánica constitucional respectiva.
 
-Conocerá, además, de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado.
-
 ### Artículo 80
 
-La Corte Suprema, de oficio o a petición de parte, en las materias de que conozca, o que le fueren sometidas en recurso interpuesto en cualquier gestión que se siga ante otro tribunal, podrá declarar inaplicable para esos casos particulares todo precepto legal contrario a la Constitución. Este recurso podrá deducirse en cualquier estado de la gestión, pudiendo ordenar la Corte la suspensión del procedimiento.
+Derogado.
 
 # Capítulo VI-A
 
@@ -103,7 +101,9 @@ La ley orgánica constitucional establecerá el grado de independencia y autonom
 
 El Fiscal Nacional será designado por el Presidente de la República, a propuesta en quina de la Corte Suprema y con acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. Si el Senado no aprobare la proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.
 
-El Fiscal Nacional deberá tener a lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durará diez años en el ejercicio de sus funciones y no podrá ser designado para el período siguiente.
+El Fiscal Nacional deberá tener a lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durará ocho años en el ejercicio de sus funciones y no podrá ser designado para el período siguiente.
+
+Será aplicable al Fiscal Nacional lo dispuesto en el inciso segundo del artículo 77 en lo relativo al tope de edad.
 
 ### Artículo 80 D
 
@@ -111,7 +111,7 @@ Existirá un Fiscal Regional en cada una de las regiones en que se divida admini
 
 Los fiscales regionales serán nombrados por el Fiscal Nacional, a propuesta en terna de la Corte de Apelaciones de la respectiva región. En caso que en la región exista más de una Corte de Apelaciones, la terna será formada por un pleno conjunto de todas ellas, especialmente convocado al efecto por el Presidente de la Corte de más antigua creación.
 
-Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán diez años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
+Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
 
 ### Artículo 80 E
 
@@ -125,7 +125,7 @@ Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a pro
 
 ### Artículo 80 G
 
-El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados, o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de cuatro séptimos de sus miembros en ejercicio.
+El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados, o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.
 
 La remoción de los fiscales regionales también podrá ser solicitada por el Fiscal Nacional.
 

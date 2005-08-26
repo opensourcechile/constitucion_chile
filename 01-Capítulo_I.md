@@ -18,7 +18,9 @@ Son emblemas nacionales la bandera nacional, el escudo de armas de la República
 
 ### Artículo 3º
 
-El Estado de Chile es unitario, su territorio se divide en regiones. Su administración será funcional y territorialmente descentralizada, o desconcentrada en su caso, en conformidad con la ley.
+El Estado de Chile es unitario. La administración del Estado será funcional y territorialmente descentralizada, o desconcentrada en su caso, de conformidad a la ley.
+
+Los órganos del Estado promoverán el fortalecimiento de la regionalización del país y el desarrollo equitativo y solidario entre las regiones, provincias y comunas del territorio nacional.
 
 ### Artículo 4º
 
@@ -32,7 +34,7 @@ El ejercicio de la soberanía reconoce como limitación el respeto a los derecho
 
 ### Artículo 6º
 
-Los órganos del Estado deben someter su acción a la Constitución y a las normas dictadas conforme a ella.
+Los órganos del Estado deben someter su acción a la Constitución y a las normas dictadas conforme a ella, y garantizar el orden institucional de la República.
 
 Los preceptos de esta Constitución obligan tanto a los titulares o integrantes de dichos órganos como a toda persona, institución o grupo.
 
@@ -48,7 +50,9 @@ Todo acto en contravención a este artículo es nulo y originará las responsabi
 
 ### Artículo 8º
 
-Derogado.
+El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento al principio de probidad en todas sus actuaciones.
+
+Son públicos los actos y resoluciones de los órganos del Estado, así como sus fundamentos y los procedimientos que utilicen. Sin embargo, sólo una ley de quórum calificado podrá establecer la reserva o secreto de aquéllos o de éstos, cuando la publicidad afectare el debido cumplimiento de las funciones de dichos órganos, los derechos de las personas, la seguridad de la Nación o el interés nacional.
 
 ### Artículo 9º
 

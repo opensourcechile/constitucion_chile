@@ -18,7 +18,7 @@ En el lapso que medie entre el momento en que se ponga en vigencia esta Constitu
 
 ### CUARTA
 
- La primera vez que se constituya el Tribunal Constitucional, los Ministros de la Corte Suprema a que se refiere la letra a) del artículo 81, que hayan sido elegidos en la segunda y tercera votación, y el abogado designado por el Presidente de la República a que se refiere la letra b) de dicho artículo, durarán cuatro años en sus cargos y los restantes, ocho años.
+Derogado.
 
 ### QUINTA
 
@@ -34,243 +34,95 @@ Sin perjuicio de lo dispuesto en el inciso tercero del numero 20º. del artícul
 
 ### OCTAVA
 
-Las normas relativas a la edad establecidas en el inciso segundo del artículo 77 regirán a contar del 1º de enero de 1998, respecto de los magistrados de los tribunales superiores de justicia que se hallaban en servicio al 11 de marzo de 1981.
-
-Las vacantes de ministro de la Corte Suprema correspondientes a las cuatro nuevas plazas que se crean en virtud de la modificación al artículo 75 y las que se produzcan en dicho tribunal al aplicarse la norma relativa a la edad a que se refiere el inciso precedente, serán provistas en conformidad a las normas siguientes.
-
-La Corte Suprema, para proveer las cuatro nuevas plazas de ministro, dentro del plazo de diez días contados desde la publicación de la presente ley de reforma constitucional, propondrá al Presidente de la República dos nóminas de diez personas cada una. Una se formará con integrantes del Poder Judicial, debiendo incluir en ella a los dos ministros de Corte de Apelaciones  más antiguos que figuren en lista de méritos y que no deban cesar en sus cargos por aplicación del inciso primero de la presente disposición transitoria, y la otra se formará con abogados extraños a la administración de justicia que cumplan con los requisitos señalados en el inciso cuarto del artículo 75.
-
-Para proveer las vacantes que se produzcan el 1º de enero de 1998 por aplicación del límite de edad a los ministros de la Corte Suprema que tengan cumplidos a dicha fecha 75 o más años de edad, la Corte Suprema propondrá al Presidente de la República, dentro de los diez primeros días del mes de enero de 1998, dos nuevas nóminas, cada una de las cuales estará integrada por el equivalente a la mitad del quíntuplo del número de vacantes producidas. Una se formará con integrantes del Poder Judicial, debiendo ocupar en ella un lugar de cada cinco de los propuestos, los ministros de Corte de Apelaciones más antiguos que figuren en lista de méritos y que no deban cesar en sus cargos por aplicación del inciso primero de la presente disposición transitoria. La otra se formará con abogados extraños a la administración de justicia que cumplan con los requisitos establecidos en el inciso cuarto del artículo 75.
-
-Dentro de tercero día de recibidas las nóminas a que se refieren los incisos precedentes y en las oportunidades respectivas, el Presidente de la República propondrá al Senado, simultáneamente, tantos nombres como sea el número de vacantes a llenar en cada caso. En cada proposición, la mitad de las personas incluidas deberán ser integrantes del Poder Judicial y la otra mitad abogados extraños a la administración de justicia, hasta completar el número de cinco de estos abogados que deben integrar la Corte Suprema.
-
-El Senado, dentro de los seis días siguientes a cada proposición presidencial, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de sus miembros en ejercicio, deberá pronunciarse en votaciones separadas y sucesivas por cada una de las personas propuestas.
-
-En caso que el Senado rechace alguno de los nombres presentados por el Presidente de la República, éste le propondrá, dentro de segundo día, un nuevo nombre de los incluidos en la respectiva nómina y el Senado se pronunciará dentro de tercero día de formulada la nueva propuesta, repitiéndose el procedimiento hasta que se apruebe una proposición presidencial. Si se rechazaren cinco nombres de una misma nómina, la Corte Suprema deberá completarla, hasta reunir el total correspondiente, dentro del plazo de cinco días, durante los cuales se interrumpirán los términos anteriores.
-
-Para formar las nóminas correspondientes a abogados extraños a la administración de justicia señaladas en los incisos anteriores, la Corte Suprema llamará, dentro de tercero día de publicada la presente ley de reforma constitucional, a concurso público de antecedentes. El pleno de la Corte Suprema elegirá a quienes integrarán estas nóminas y a quienes reemplazarán a los candidatos rechazados, de entre las personas que se presenten a dicho concurso.
-
-Las nóminas a que se refieren los incisos precedentes se formarán por el pleno de la Corte Suprema, en una misma y única votación. Para estos efectos, cada ministro podrá votar hasta por el equivalente a las dos terceras partes del total de personas que integrarán dichas nóminas, resultando elegidos quienes obtengan las más altas votaciones.
-
-Sin perjuicio de los beneficios previsionales que les correspondan de acuerdo a las normas vigentes, los ministros que deban cesar en sus cargos por aplicación de la presente disposición transitoria tendrán derecho a un beneficio compensatorio adecuado, que fijará la ley.
-
-Los magistrados de los tribunales superiores de justicia a los que se refiere el inciso primero, que se desempeñen como presidente de la Corte Suprema, durarán en dicho cargo dos años.
-
-Dicho plazo se contará a partir de la fecha del respectivo nombramiento.
-
-Los ministros que se designen con anterioridad al 2 de enero de 1998, asumirán sus cargos a contar de ese día.
-
-Durante el período a que se refiere la disposición decimotercera transitoria la inamovilidad de los Comandantes en Jefe de las Fuerzas Armadas y del General Director de Carabineros se regirá por la disposición transitoria vigésima y no les será aplicable la limitación del plazo contemplado en el artículo 93 de esta Constitución, el que se contara a partir de cuatro años del término del señalado período presidencial.
+Derogado.
 
 ### NOVENA
 
- Los miembros del Tribunal Constitucional a que se refiere el artículo 81, deberán ser designados con diez días de anticipación, a lo menos, a la fecha en que comience el primer período presidencial. Para éste sólo efecto, el Consejo de Seguridad Nacional se constituirá con treinta días de anterioridad a la fecha en que comience a regir esta Constitución.
+Derogado.
 
 ### DÉCIMA
 
-En tanto no entre en vigencia la ley orgánica constitucional relativa a los partidos políticos a que se refiere el Nº. 15 del artículo 19, estará prohibido ejecutar o promover toda actividad, acción o gestión de índole político partidista, ya sea por personas naturales o jurídicas, organizaciones, entidades o agrupaciones de personas. Quienes infrinjan esta prohibición incurrirán en las sanciones previstas en la ley.
+Derogado.
 
 ### DECIMOPRIMERA
 
- El artículo 84 de la Constitución relativo al Tribunal Calificador de Elecciones, comenzara a regir en la fecha que corresponda de acuerdo con la ley respectiva, con ocasión de la primera elección de senadores y diputados, y sus miembros deberán estar designados con treinta días de anticipación a esa fecha.
+Derogado.
 
 ### DECIMOSEGUNDA
 
- Mientras no proceda constituir el Tribunal Calificador de Elecciones, la designación de los miembros de los tribunales electorales regionales, cuyo nombramiento le corresponde, será hecho por la Corte de Apelaciones respectiva.
+Derogado.
 
 ### DECIMOTERCERA
 
- El período presidencial que comenzara a regir a contar de la vigencia de esta Constitución, durara el tiempo que establece el artículo 25.
-
-Durante éste período serán aplicables todos los preceptos de la Constitución, con las modificaciones y salvedades que se indican en las disposiciones transitorias siguientes.
+Derogado.
 
 ### DECIMOCUARTA
 
- Durante el período indicado en la disposición anterior, continuara como Presidente de la República el actual Presidente, General de Ejército don Augusto Pinochet Ugarte, quien durara en el cargo hasta el término de dicho período.
-
-Asimismo, la Junta de Gobierno permanecerá integrada por los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y por el General Director de Carabineros. Se regirá por las normas que regulen su funcionamiento interno y tendrá las atribuciones que se señalan en las disposiciones transitorias correspondientes.
-
-Sin embargo, atendido que el Comandante en Jefe del Ejército, de acuerdo con el inciso primero de esta disposición es Presidente de la República, no integrará la Junta de Gobierno y lo hará, en su lugar, como miembro titular, el Oficial General de Armas del Ejército que le siga en antigüedad. Con todo, el Presidente de la República podrá reemplazar a dicho integrante en cualquier momento, por otro Oficial General de Armas de su Institución siguiendo el orden de antigüedad.
+Derogado.
 
 ### DECIMOQUINTA
 
- El Presidente de la República tendrá las atribuciones y obligaciones que establecen los preceptos de esta Constitución, con las siguientes modificaciones y salvedades:
-
-A.- Podrá:
-
-1) Decretar por sí mismo los estados de emergencia y de catástrofe, en su caso, y
-
-2) Designar y remover libremente a los alcaldes de todo el país, sin perjuicio de que pueda disponer la plena o gradual aplicación de lo previsto en el artículo 108.
-
-B.- Requerirá el acuerdo de la Junta para:
-
-1) Designar a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros cuando sea necesario reemplazarlos, por muerte, renuncia o cualquier clase de imposibilidad absoluta;
-
-2) Designar al Contralor General de la República;
-
-3) Declarar la guerra;
-
-4) Decretar los estados de asamblea y de sitio;
-
-5) Decidir si ha o no lugar a la admisión de las acusaciones que cualquier individuo particular presentare contra los Ministros de Estado con motivo de los perjuicios que pueda haber sufrido injustamente por algún acto cometido por éstos en el ejercicio de sus funciones, y
-
-6) Ausentarse del país por más de treinta días o en los últimos noventa días de su período.
+Derogado.
 
 ### DECIMOSEXTA
 
- En caso de que por impedimento temporal, ya sea por enfermedad, ausencia del territorio nacional u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogara con el título de Vicepresidente de la República, el miembro titular de la Junta de Gobierno según el orden de precedencia que corresponda.
+Derogado.
 
 ### DECIMOSEPTIMA
 
- En caso de muerte, renuncia o cualquier clase de imposibilidad absoluta del Presidente de la República, el sucesor, por el período que le falte, será designado por la unanimidad de la Junta de Gobierno, la que deberá reunirse de inmediato. Mientras no se produzca la designación, asumirá como Vicepresidente de la República el miembro titular de la Junta de Gobierno, según el orden de precedencia que corresponda.
-
-Si transcurridas cuarenta y ocho horas de reunida la Junta de Gobierno no hubiere unanimidad para elegir Presidente de la República, la elección la efectuara el Consejo de Seguridad Nacional, por la mayoría absoluta de sus miembros, integrándose a él, para éste efecto, el Contralor General de la República.
-
-Si fuere designado Presidente de la República un Oficial General de Armas o de Orden y Seguridad, éste de pleno derecho y por el período presidencial que reste, asumirá la calidad de Comandante en Jefe Institucional o de General Director de Carabineros, en su caso, si tuviere los requisitos para serlo. En éste caso, el Oficial General de Armas o de Orden y Seguridad que le siga en antigüedad, en la respectiva Institución, pasara a integrar la Junta de Gobierno como miembro titular, aplicándose la parte final del inciso tercero de la disposición decimocuarta transitoria en cuanto a su Institución.
+Derogado.
 
 ### DECIMOCTAVA
 
- Durante el período a que se refiere la disposición decimotercera transitoria, la Junta de Gobierno ejercerá, por la unanimidad de sus miembros, las siguientes atribuciones exclusivas:
-
-A.- Ejercer el Poder Constituyente sujeto siempre a aprobación plebiscitaria, la que se llevara a efecto conforme a las reglas que señale la ley;
-
-B.- Ejercer el Poder Legislativo;
-
-C.- Dictar las leyes interpretativas de la Constitución que fueren necesarias;
-
-D.- Aprobar o desechar los tratados internacionales, antes de la ratificación presidencial;
-
-E.- Prestar su acuerdo al Presidente de la República en los casos contemplados en la letra B de la disposición decimoquinta transitoria;
-
-F.- Prestar su acuerdo al Presidente de la República, para decretar los estados de asamblea y de sitio, en su caso;
-
-G.- Permitir la entrada de tropas extranjeras en el territorio de la República, como asimismo, autorizar la salida de tropas nacionales fuera de él;
-
-H.- Conocer de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales superiores de justicia;
-
-I.- Otorgar la rehabilitación de la ciudadanía, en los casos a que alude el artículo 17 numero 2º. de esta Constitución;
-
-J.- Declarar en el caso de que el Presidente de la República o los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros hicieren dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla, y
-
-K.- Las demás que le otorgan otras disposiciones transitorias de esta Constitución.
-
-El orden de precedencia de los integrantes de la Junta de Gobierno, es el que se indica a continuación:
-
-1.- El Comandante en Jefe del Ejército;
-
-2.- El Comandante en Jefe de la Armada;
-
-3.- El Comandante en Jefe de la Fuerza Aérea, y
-
-4.- El General Director de Carabineros.
-
-Se alterara el orden de precedencia antes establecido, en las situaciones señaladas en el inciso tercero de la disposición decimocuarta transitoria y en el inciso final de la disposición decimoséptima transitoria, y, en tales casos, el integrante de la Junta de Gobierno a que aluden dichas disposiciones ocupara, como titular, el cuarto orden de precedencia.
-
-Presidirá la Junta de Gobierno el miembro titular de ella que tenga el primer lugar de precedencia de acuerdo a los dos incisos anteriores.
-
-En el caso previsto en la letra B.-, numero 1), de la disposición decimoquinta transitoria, el o los nuevos miembros que se incorporen a la Junta de Gobierno conservaran el orden de precedencia señalado en el inciso segundo.
-
-Cuando uno de los miembros titulares de la Junta de Gobierno esté impedido temporalmente para ejercer su cargo, lo subrogara el Oficial General de Armas o de Orden y Seguridad más antiguo, a quien le corresponda de acuerdo a las normas sobre sucesión de mando en la respectiva Institución, integrándose a la Junta en el último lugar de precedencia. Si los subrogantes fueren más de uno, se integrarán a la Junta en el orden de precedencia señalado en el inciso segundo.
+Derogado.
 
 ### DECIMONOVENA
 
- Los miembros de la Junta de Gobierno tendrán iniciativa de ley, en todas aquellas materias que constitucionalmente no sean de iniciativa exclusiva del Presidente de la República.
-
-La Junta de Gobierno ejercerá mediante leyes las Potestades Constituyente y Legislativa. Estas leyes llevaran la firma de los miembros de la Junta de Gobierno y del Presidente de la República en señal de promulgación.
-
-Una ley complementaria establecerá los órganos de trabajo y los procedimientos de que se valdrá la Junta de Gobierno, para ejercer las aludidas Potestades Constituyente y Legislativa. Estas normas complementarias establecerán, además, los mecanismos que permitan a la Junta de Gobierno requerir la colaboración de la comunidad para la elaboración de las leyes.
+Derogado.
 
 ### VIGÉSIMA
 
-En caso de duda acerca de si la imposibilidad que priva al Presidente de la República del ejercicio de sus funciones es de tal naturaleza que deba hacerse su reemplazo, corresponderá a los miembros titulares de la Junta de Gobierno resolver la duda planteada.
-
-Si la duda se refiere a la imposibilidad que priva a un miembro de la Junta de Gobierno del ejercicio de sus funciones y es de igual naturaleza que la referida en el inciso anterior, corresponderá a los demás miembros titulares de la Junta de Gobierno resolver la cuestión planteada.
+Derogado.
 
 ### VIGESIMAPRIMERA
 
- Durante el período a que se refiere la decimotercera disposición transitoria y hasta que entre en funciones el Senado y la Cámara de Diputados, no serán aplicables los siguientes preceptos de esta Constitución:
-
-a) Los artículo 26 al 31 inclusive, los números 2º, 4º, 5º, 6º y la segunda parte del número 16º del artículo 32; el artículo 37; y el artículo 41, número 7º, en su referencia a los parlamentarios;
-
-b) El Capítulo V sobre el Congreso Nacional con excepción de: el número 1º del artículo 50, los artículos 60, 61, los incisos tercero a quinto del artículo 62, y el artículo 64, los que tendrán plena vigencia. Las referencias que éstos preceptos y el número 3° del artículo 32, el inciso segundo del numero 6° del artículo 41, y los artículos 73 y 88 hacen al Congreso Nacional o a alguna de sus ramas, se entenderán hechas a la Junta de Gobierno.
-
-Asimismo, la elección a que se refiere la letra d) del artículo 81, corresponderá hacerla a la Junta de Gobierno;
-
-c) En el artículo 82: los números 4°, 9° y 11° de su inciso primero, el inciso segundo en su referencia al numero 9°, y los incisos octavo, noveno, décimo, decimosegundo, decimocuarto y decimoquinto. Tampoco regirá la referencia que el número 2° hace a la reforma constitucional, ni la segunda parte del número 8° del inciso primero del mismo artículo en lo atinente al Presidente de la República, como tampoco las referencias que hacen a dicho número, en lo concerniente a la materia, los incisos segundo y decimotercero;
-
-d) El Capítulo XIV, relativo a la reforma de la Constitución. La Constitución sólo podrá ser modificada por la Junta de Gobierno en el ejercicio del Poder Constituyente. Sin embargo, para que las modificaciones tengan eficacia deberán ser aprobadas por plebiscito, el cual deberá ser convocado por el Presidente de la República, y
-
-e) Cualquier otro precepto que sea contrario a las disposiciones que rigen el período presidencial a que se refiere la disposición decimotercera transitoria.
+Derogado.
 
 ### VIGESIMASEGUNDA
 
- Para los efectos de lo prescrito en el inciso tercero del artículo 82 de la Constitución, la Junta de Gobierno deberá remitir al Tribunal Constitucional el proyecto a que dicho precepto se refiere, antes de su promulgación por el Presidente de la República.
-
-Sin perjuicio de la facultad que se confiere al Presidente de la República en los incisos cuarto y séptimo del artículo 82, corresponderá también a la Junta de Gobierno en pleno formular el requerimiento a que aluden esas normas.
-
-En el caso de los incisos decimoprimero y decimosexto del artículo señalado en el inciso anterior, corresponderá, asimismo, a la Junta de Gobierno en pleno formular el requerimiento respectivo.
+Derogado.
 
 ### VIGESIMATERCERA
 
- Si entre la fecha de aprobación mediante plebiscito de la presente Constitución y la de su vigencia, el Presidente de la República a que se refiere la disposición decimocuarta transitoria quedare, por cualquier causa, impedido absolutamente de asumir sus funciones, la Junta de Gobierno, por la unanimidad de sus miembros, designara a la persona que asumirá el cargo de Presidente de la República para el período a que se refiere la disposición decimotercera transitoria.
-
-Para éste efecto, la Junta de Gobierno se integrará por los Comandantes en Jefe de la Armada, de la Fuerza Aérea, por el General Director de Carabineros y, como miembro titular, por el Oficial General de Armas más antiguo del Ejército.
-
-Si constituida la Junta de Gobierno en la forma indicada en el inciso precedente, no hubiere, dentro de las cuarenta y ocho horas de reunida, unanimidad para elegir Presidente de la República, se integrarán a ella, para éste sólo efecto, el Presidente de la Corte Suprema, el Contralor General de la República y el Presidente del Consejo de Estado y, así constituida, designara, por la mayoría absoluta de sus miembros, al Presidente de la República y a éste se entenderá referida la disposición decimocuarta transitoria, en su inciso primero.
+Derogado.
 
 ### VIGESIMACUARTA
 
- Sin perjuicio de lo establecido en los artículos 39 y siguientes sobre estados de excepción que contempla esta Constitución, si durante el período a que se refiere la disposición decimotercera transitoria se produjeren actos de violencia destinados a alterar el orden público o hubiere peligro de perturbación de la paz interior, el Presidente de la República así lo declarara y tendrá, por seis meses renovables, las siguientes facultades:
-
-a) Arrestar a personas hasta por el plazo de cinco días, en sus propias casas o en lugares que no sean cárceles. Si se produjeren actos terroristas de graves consecuencias, dicho plazo podrá extenderlo hasta por quince días más;
-
-b) Restringir el derecho de reunión y la libertad de información, esta última sólo en cuanto a la fundación, edición o circulación de nuevas publicaciones;
-
-c) Prohibir el ingreso al territorio nacional o expulsar de él a los que propaguen las doctrinas a que alude el artículo 8º. de la Constitución, a los que estén sindicados o tengan reputación de ser activistas de tales doctrinas y a los que realicen actos contrarios a los intereses de Chile o constituyan un peligro para la paz interior, y
-
-d) Disponer la permanencia obligada de determinadas personas en una localidad urbana del territorio nacional hasta por un plazo no superior a tres meses.
-
-Las facultades contempladas en esta disposición las ejercerá el Presidente de la República, mediante decreto supremo firmado por el Ministro del Interior, bajo la fórmula "Por orden del Presidente de la República". Las medidas que se adopten en virtud de esta disposición no serán susceptibles de recurso alguno, salvo el de reconsideración ante la autoridad que las dispuso.
+Derogado.
 
 ### VIGESIMAQUINTA
 
- Durante el período a que se refiere la disposición decimotercera, el Consejo de Seguridad Nacional estará presidido por el Presidente de la República e integrado por los miembros de la Junta de Gobierno, por el Presidente de la Corte Suprema y por el Presidente del Consejo de Estado.
+Derogado.
 
 ### VIGESIMASEXTA
 
- Hasta que el Senado entre en funciones continuara funcionando el Consejo de Estado.
+Derogado.
 
 ### VIGESIMASÉPTIMA
 
-Corresponderá a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros, titulares, proponer al país, por la unanimidad de ellos, sujeto a la ratificación de la ciudadanía, la persona que ocupara el cargo de Presidente de la República en el período presidencial siguiente al referido en la disposición decimotercera transitoria, quien deberá cumplir con los requisitos establecidos en el artículo 25 inciso primero de esta Constitución, sin que le sea aplicable la prohibición de ser reelegido contemplada en el inciso segundo de ese mismo artículo. Con ese objeto se reunirán noventa días antes, a lo menos, de la fecha en que deba cesar en el cargo el que esté en funciones. La designación será comunicada al Presidente de la República, para los efectos de la convocatoria a plebiscito.
-
-Si transcurridas cuarenta y ocho horas de reunidos los Comandantes en Jefe y el General Director señalados en el inciso anterior, no hubiere unanimidad, la proposición se hará de acuerdo con lo prescrito en el inciso segundo de la disposición decimoséptima transitoria y el Consejo de Seguridad Nacional comunicara al Presidente de la República su decisión, para los mismos efectos señalados en el inciso anterior.
-
-El plebiscito deberá efectuarse no antes de treinta ni después de sesenta días de la proposición correspondiente y se llevara a efecto en la forma que disponga la ley.
+Derogado.
 
 ### VIGESIMAOCTAVA
 
- Si la ciudadanía a través del plebiscito manifestare su voluntad de aprobar la proposición efectuada de acuerdo con la disposición que precede, el Presidente de la República así elegido, asumirá el cargo el mismo día en que deba cesar el anterior y ejercerá sus funciones por el período indicado en el inciso segundo del artículo 25 y se aplicarán todos los preceptos de la Constitución con las siguientes modalidades:
-
-A.- El Presidente de la República, nueve meses después de asumir el cargo, convocara a elecciones generales de senadores y diputados para integrar el Congreso en la forma dispuesta en la Constitución. La elección tendrá lugar no antes de los treinta ni después de los cuarenta y cinco días siguientes a la convocatoria y se efectuara de acuerdo a la ley orgánica respectiva;
-
-B.- El Congreso Nacional se instalara tres meses después de la convocatoria a elecciones.
-
-Los diputados de éste primer Congreso duraran tres años en sus cargos. Los senadores elegidos por las regiones de número impar durarán, asimismo, tres años y los senadores elegidos por las regiones de número par y región metropolitana, así como los designados, siete años, y
-
-C.- Hasta que entre en funciones el Congreso Nacional, la Junta de Gobierno continuara en el pleno ejercicio de sus atribuciones, y seguirán en vigor las disposiciones transitorias que rigen el período presidencial a que se refiere la disposición decimotercera.
+Derogado.
 
 ### VIGESIMANOVENA
 
-Si la ciudadanía no aprobare la proposición sometida a plebiscito a que se refiere la disposición vigesimaséptima transitoria, se entenderá prorrogado de pleno derecho el período presidencial a que se refiere la disposición decimotercera transitoria, continuando en funciones por un año más el Presidente de la República en ejercicio y la Junta de Gobierno, con arreglo a las disposiciones que los rigen. Vencido éste plazo, tendrán plena vigencia todos los preceptos de la Constitución.
-
-Para éste efecto, noventa días antes de la expiración de la prórroga indicada en el inciso anterior, el Presidente en ejercicio convocara a elección de Presidente de la República y de parlamentarios en conformidad a los preceptos permanentes de esta Constitución y de la ley.
-
-El Presidente de la República que resulte elegido por aplicación del inciso anterior durará en el ejercicio de sus funciones por el término de cuatro años, y no podrá ser reelegido para el período inmediatamente siguiente.
+Derogado.
 
 ### TRIGÉSIMA
 
-En tanto no entre en vigencia la ley orgánica constitucional que determine las seis regiones en cada una de las cuales habrá dos circunscripciones senatoriales, se dividirán, en esta forma, las regiones de Valparaíso, Metropolitana de Santiago, del Maule, del Bío-Bío, de la Araucanía y de Los Lagos.
+Derogado.
 
 ### TRIGESIMAPRIMERA
 
@@ -278,27 +130,19 @@ El indulto particular será siempre procedente respecto de los delitos a que se 
 
 ### TRIGÉSIMASEGUNDA
 
-Mientras no se proceda a la instalación de los gobiernos regionales que se establecen en esta Constitución, los intendentes y los consejos regionales de desarrollo mantendrán su actual composición y atribuciones, de conformidad a la legislación vigente.
+Derogado.
 
 ### TRIGÉSIMATERCERA
 
-Los alcaldes y consejos de desarrollo comunal continuarán en el desempeño de sus funciones, de conformidad con la legislación vigente, mientras no asuman los alcaldes y los concejales elegidos en virtud de esta reforma constitucional.
-
-Las elecciones populares que se originen en esta reforma constitucional se efectuarán antes del 30 de junio de 1992. Las de los miembros de los consejos regionales, en la forma que prevea la ley orgánica constitucional respectiva, se celebrarán quince días después de la instalación de los concejos.
+Derogado.
 
 ### TRIGÉSIMACUARTA
 
-No obstante lo dispuesto en el inciso segundo del artículo 54, para las elecciones de diputados y senadores que corresponda realizar en 1993, no podrán ser candidatos los ciudadanos que resulten elegidos alcaldes, miembros de los consejos regionales o concejales en las elecciones que se celebren en 1992.
+Derogado.
 
 ### TRIGESIMAQUINTA
 
-Las elecciones destinadas a renovar los actuales concejos municipales se realizarán el día 27 de octubre de 1996. En todo caso, los concejos se instalarán el día 6 de diciembre del mismo año.
-
-El Secretario Municipal cumplirá las funciones de aquellos concejos que no se constituyan el día señalado, hasta la instalación de éstos.
-
-El período de los alcaldes y concejales en ejercicio se extenderá hasta el día 6 de diciembre de 1996.
-
-El período de los consejeros regionales en ejercicio expirará el 19 de febrero de 1997, aplicándose en lo demás la ley correspondiente.
+Derogado.
 
 ### TRIGESIMASEXTA
 
@@ -320,4 +164,62 @@ En el año siguiente a la fecha de publicación de la presente ley de reforma co
 
 ### CUADRAGÉSIMA
 
-Lo dispuesto en el párrafo final del número 12.º del artículo 19 regirá al momento de entrar en vigencia la ley sobre calificación cinematográfica que se dicte en reemplazo del decreto ley Nº 679, de 1974.
+Derogado.
+
+### CUADRAGÉSIMAPRIMERA
+
+El mandato del Presidente de la República en ejercicio será de seis años, no pudiendo ser reelegido para el período siguiente.
+
+### CUADRAGÉSIMASEGUNDA
+
+El Senado estará integrado únicamente por senadores electos en conformidad con el artículo 45 de la Constitución Política de la República y la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios actualmente vigentes.
+
+Las modificaciones a la referida Ley Orgánica sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores, las circunscripciones existentes y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
+
+Los senadores en actual ejercicio incorporados o designados en conformidad a las letras a), b), c), d), e) y f) del artículo 45 que se derogan, continuarán desempeñando sus funciones hasta el 10 de marzo de 2006.
+
+### CUADRAGÉSIMATERCERA
+
+El reemplazo de los actuales Ministros y el nombramiento de los nuevos integrantes del Tribunal Constitucional, se efectuará conforme a las reglas siguientes:
+
+Los actuales Ministros nombrados por el Presidente de la República, el Senado, la Corte Suprema y el Consejo de Seguridad Nacional se mantendrán en funciones hasta el término del período por el cual fueron nombrados o hasta que cesen en sus cargos.
+
+El reemplazo de los Ministros designados por el Consejo de Seguridad Nacional corresponderá al Presidente de la República.
+
+El Senado nombrará tres Ministros del Tribunal Constitucional, dos directamente y el tercero previa propuesta de la Cámara de Diputados. Este último durará en el cargo hasta el mismo día en que cese el actualmente nombrado por el Senado o quien lo reemplace en conformidad al inciso séptimo de este artículo, y podrá ser reelegido.
+
+Los actuales Ministros de la Corte Suprema que lo sean a su vez del Tribunal Constitucional, quedarán suspendidos temporalmente en el ejercicio de sus cargos en dicha Corte, seis meses después que se publique la presente reforma constitucional y sin afectar sus derechos funcionarios. Reasumirán esos cargos al término del período por el cual fueron nombrados en el Tribunal Constitucional o cuando cesen en este último por cualquier motivo.
+
+La Corte Suprema nominará, en conformidad a la letra c) del Artículo 81, los abogados indicados en la medida que se vayan generando las vacantes correspondientes. No obstante, el primero de ellos será nombrado por tres años, el segundo por seis años y el tercero por nueve años. El que haya sido nombrado por tres años podrá ser reelegido.
+
+Si alguno de los actuales Ministros no contemplados en el inciso anterior cesare en su cargo, se reemplazará por la autoridad indicada en las letras a) y b) del artículo 81, según corresponda, y su período durará por lo que reste a su antecesor, pudiendo éstos ser reelegidos.
+
+Los Ministros nombrados en conformidad a esta disposición deberán ser designados con anterioridad al 11 de diciembre de 2005 y entrarán en funciones el 1 de enero de 2006.
+
+### CUADRAGÉSIMACUARTA
+
+Los tratados internacionales aprobados por el Congreso Nacional con anterioridad a la entrada en vigor de la presente reforma constitucional, que versen sobre materias que conforme a la Constitución deben ser aprobadas por la mayoría absoluta o las cuatro séptimas partes de los diputados y senadores en ejercicio, se entenderá que han cumplido con estos requisitos.
+
+Las contiendas de competencia actualmente trabadas ante la Corte Suprema y las que lo sean hasta la entrada en vigor de las modificaciones al Capítulo VII, continuarán radicadas en dicho órgano hasta su total tramitación.
+
+Los procesos iniciados, de oficio o a petición de parte, o que se iniciaren en la Corte Suprema para declarar la inaplicabilidad de un precepto legal por ser contrario a la Constitución, con anterioridad a la aplicación de las reformas al Capítulo VII, seguirán siendo de conocimiento y resolución de esa Corte hasta su completo término.
+
+### CUADRAGÉSIMAQUINTA
+
+Las reformas introducidas al Capítulo VII entran en vigor seis meses después de la publicación de la presente reforma constitucional con la excepción de lo regulado en la Disposición Cuadragésimatercera.
+
+### CUADRAGÉSIMASEXTA
+
+Las Fuerzas de Orden y Seguridad Pública seguirán siendo dependientes del Ministerio encargado de la Defensa Nacional hasta que se dicte la nueva ley que cree el Ministerio encargado de la Seguridad Pública.
+
+### CUADRAGESIMASÉPTIMA
+
+Las modificaciones dispuestas en el artículo 54, Nº 2, comenzarán a regir después de la próxima elección general de parlamentarios.
+
+### CUADRAGÉSIMAOCTAVA
+
+No obstante, la modificación al artículo 16 Nº 2 de esta Constitución, también se suspenderá el derecho de sufragio de las personas procesadas por hechos anteriores al 16 de junio de 2005, por delitos que merezcan pena aflictiva o por delito que la ley califique como conducta terrorista.
+
+### CUADRAGÉSIMANOVENA
+
+En tanto no se creen los tribunales especiales a que alude el párrafo cuarto del número 16° del Artículo 19, las reclamaciones motivadas por la conducta ética de los profesionales que no pertenezcan a colegios profesionales, serán conocidas por los tribunales ordinarios.

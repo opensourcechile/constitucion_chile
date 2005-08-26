@@ -4,7 +4,7 @@
 
 Para el gobierno y administración interior del Estado, el territorio de la República se divide en regiones y estas en provincias. Para los efectos de la administración local, las provincias se dividirán en comunas.
 
-La modificación de los límites de las regiones y la creación, modificación y supresión de las provincias y comunas, serán materia de ley de quórum calificado, como asimismo, la fijación de las capitales de las regiones y provincias; todo ello a proposición del Presidente de la República.
+La creación, supresión y denominación de regiones, provincias y comunas; la modificación de sus límites, así como la fijación de las capitales de las regiones y provincias, serán materia de ley orgánica constitucional.
 
 ## Gobierno y Administración Regional
 

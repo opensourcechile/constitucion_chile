@@ -18,43 +18,29 @@ Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tene
 
 ### Artículo 45
 
-El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las trece regiones del país. Cada región constituirá una circunscripción, excepto seis de ellas que serán divididas, cada una, en dos circunscripciones por la ley orgánica constitucional respectiva. A cada circunscripción corresponde elegir dos senadores.
+El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
 
-Los senadores elegidos por votación directa duraran ocho años en su cargo y se renovaran alternadamente cada cuatro años, correspondiendo hacerlo en un período a los representantes de las regiones de número impar y en el siguiente a los de las regiones de número par y la región metropolitana.
-
-El Senado estará integrado también por:
-
-a) Los ex Presidentes de la República que hayan desempeñado el cargo durante seis años en forma continua, salvo que hubiese tenido lugar lo previsto en el inciso tercero del número 1º. del artículo 49 de esta Constitución. Estos senadores lo serán por derecho propio y con carácter vitalicio, sin perjuicio de que les sean aplicables las incompatibilidades, incapacidades y causales de cesación en el cargo contempladas en los artículos 55, 56 y 57 de esta Constitución;
-
-b) Dos ex Ministros de la Corte Suprema, elegidos por ésta en votaciones sucesivas, que hayan desempeñado el cargo a lo menos por dos años continuos;
-
-c) Un ex Contralor General de la República, que haya desempeñado el cargo a lo menos por dos años continuos, elegido también por la Corte Suprema;
-
-d) Un ex Comandante en Jefe del Ejército, uno de la Armada, otro de la Fuerza Aérea, y un ex General Director de Carabineros que hayan desempeñado el cargo a lo menos por dos años, elegidos por el Consejo de Seguridad Nacional;
-
-e) Un ex rector de universidad estatal o reconocida por el Estado, que haya desempeñado el cargo por un período no inferior a dos años continuos, designado por el Presidente de la República, y
-
-f) Un ex Ministro de Estado, que haya ejercido el cargo por más de dos años continuos, en períodos presidenciales anteriores a aquel en el cual se realiza el nombramiento, designado también por el Presidente de la República.
-
-Los senadores a que se refieren las letras b), c), d), e) y f) de este artículo duraran en sus cargos ocho años. Si sólo existieren tres o menos personas que reúnan las calidades y requisitos exigidos por las letras b) a f) de este artículo, la designación correspondiente podrá recaer en ciudadanos que hayan desempeñado otras funciones relevantes en los organismos, instituciones o servicios mencionados en cada una de las citadas letras.
-
-La designación de éstos senadores se efectuará cada ocho años dentro de los quince días siguientes a la elección de senadores que corresponda.
-
-No podrán ser designados senadores quienes hubieren sido destituidos por el Senado conforme al artículo 49 de esta Constitución.
+Los Senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, correspondiendo hacerlo en un período a los representantes de las regiones de número impar y en el siguiente a los de las regiones de número par y de la Región Metropolitana.
 
 ### Artículo 46
 
-Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, dos años de residencia en la respectiva región contados hacia atrás desde el día de la elección, haber cursado la Enseñanza Media o equivalente y tener cumplidos 40 años de edad el día de la elección.
+Para ser elegido senador se requiere ser ciudadano con derecho a sufragio, haber cursado la enseñanza media o equivalente y tener cumplidos treinta y cinco años de edad el día de la elección.
 
 ### Artículo 47
 
-Se entenderá que los diputados y senadores tienen por el sólo ministerio de la ley, su residencia en la región correspondiente, mientras se encuentren en ejercicio de su cargo.
+Se entenderá que los diputados tienen por el sólo ministerio de la ley, su residencia en la región correspondiente, mientras se encuentren en ejercicio de su cargo.
 
-Las elecciones de diputados y de los senadores que corresponda elegir por votación directa se efectuaran conjuntamente. Los parlamentarios podrán ser reelegidos en sus cargos.
+Las elecciones de diputados y de senadores se efectuaran conjuntamente. Los parlamentarios podrán ser reelegidos en sus cargos.
 
-Las vacantes de diputados, y las de senadores elegidos por votación directa, que se produzcan en cualquier tiempo, se proveerán con el ciudadano que, habiendo integrado la lista electoral del parlamentario que cesó en el cargo, habría resultado elegido si a esa lista hubiere correspondido otro cargo. En caso de no ser aplicable la regla anterior y faltar más de dos años para el término del período del que hubiere cesado en el cargo, la vacante será proveída por la Cámara que corresponda, por mayoría absoluta de sus miembros en ejercicio, de entre los incluidos en una terna propuesta por el partido a que perteneciere quien hubiere motivado la vacante.
+Las vacantes de diputados y las de senadores se proveerán con el ciudadano que señale el partido político al que pertenecía el parlamentario que produjo la vacante al momento de ser elegido.
 
-El nuevo diputado o senador durará en sus funciones el término que le faltaba al que originó la vacante. Los parlamentarios elegidos como independientes que mantuvieren tal calidad a la fecha de producirse la vacante, no serán reemplazados, a menos que hubieren postulado integrando listas en conjunto con un partido político. En este último caso, se aplicará lo dispuesto en el inciso anterior.
+Los parlamentarios elegidos como independientes no serán reemplazados.
+
+Los parlamentarios elegidos como independientes que hubieren postulado integrando lista en conjunto con uno o más partidos políticos, serán reemplazados por el ciudadano que señale el partido indicado por el respectivo parlamentario al momento de presentar su declaración de candidatura.
+
+El reemplazante deberá reunir los requisitos para ser elegido diputado o senador, según el caso. Con todo, un diputado podrá ser nominado para ocupar el puesto de un senador, debiendo aplicarse, en ese caso, las normas de los incisos anteriores para llenar la vacante que deja el diputado, quien al asumir su nuevo cargo cesará en el que ejercía.
+
+El nuevo diputado o senador ejercerá sus funciones por el término que faltaba a quien originó la vacante.
 
 En ningún caso procederán elecciones complementarias.
 
@@ -64,9 +50,25 @@ En ningún caso procederán elecciones complementarias.
 
 Son atribuciones exclusivas de la Cámara de Diputados:
 
-1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede, con el voto de la mayoría de los diputados presentes, adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al Presidente de la República, debiendo el Gobierno dar respuesta, por medio del Ministro de Estado que corresponda, dentro de treinta días. En ningún caso, dichos acuerdos u observaciones afectaran la responsabilidad política de los Ministros y la obligación del Gobierno se entenderá cumplida por el sólo hecho de entregar su respuesta.
+1) Fiscalizar los actos del Gobierno. Para ejercer esta atribución la Cámara puede:
 
-Cualquier diputado podrá solicitar determinados antecedentes al Gobierno siempre que su proposición cuente con el voto favorable de un tercio de los miembros presentes de la Cámara, y
+a) Adoptar acuerdos o sugerir observaciones, con el voto de la mayoría de los diputados presentes, los que se transmitirán por escrito al Presidente de la República, quien deberá dar respuesta fundada por medio del Ministro de Estado que corresponda, dentro de treinta días.
+
+Sin perjuicio de lo anterior, cualquier diputado, con el voto favorable de un tercio de los miembros presentes de la Cámara, podrá solicitar determinados antecedentes al Gobierno. El Presidente de la República contestará fundadamente por intermedio del Ministro de Estado que corresponda, dentro del mismo plazo señalado en el párrafo anterior.
+
+En ningún caso los acuerdos, observaciones o solicitudes de antecedentes afectarán la responsabilidad política de los Ministros de Estado;
+
+b) Citar a un Ministro de Estado, a petición de a lo menos un tercio de los diputados en ejercicio, a fin de formularle preguntas en relación con materias vinculadas al ejercicio de su cargo. Con todo, un mismo Ministro no podrá ser citado para este efecto más de tres veces dentro de un año calendario, sin previo acuerdo de la mayoría absoluta de los diputados en ejercicio.
+
+La asistencia del Ministro será obligatoria y deberá responder a las preguntas y consultas que motiven su citación, y
+
+c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos de los diputados en ejercicio, con el objeto de reunir informaciones relativas a determinados actos del Gobierno.
+
+Las comisiones investigadoras, a petición de un tercio de sus miembros, podrán despachar citaciones y solicitar antecedentes. Los Ministros de Estado, los demás funcionarios de la Administración y el personal de las empresas del Estado o de aquéllas en que éste tenga participación mayoritaria, que sean citados por estas comisiones, estarán obligados a comparecer y a suministrar los antecedentes y las informaciones que se les soliciten.
+
+No obstante, los Ministros de Estado no podrán ser citados más de tres veces a una misma comisión investigadora, sin previo acuerdo de la mayoría absoluta de sus miembros.
+
+La ley orgánica constitucional del Congreso Nacional regulará el funcionamiento y las atribuciones de las comisiones investigadoras y la forma de proteger los derechos de las personas citadas o mencionadas en ellas.
 
 2) Declarar si han o no lugar las acusaciones que no menos de diez ni más de veinte de sus miembros formulen en contra de las siguientes personas:
 
@@ -108,7 +110,7 @@ El funcionario declarado culpable será juzgado de acuerdo a las leyes por el tr
 
 3) Conocer de las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales superiores de justicia;
 
-4) Otorgar la rehabilitación de la ciudadanía en el caso del artículo 17, número 2º. de esta Constitución;
+4) Otorgar la rehabilitación de la ciudadanía en el caso del artículo 17, número 3º. de esta Constitución;
 
 5) Prestar o negar su consentimiento a los actos del Presidente de la República, en los casos en que la Constitución o la ley lo requieran.
 
@@ -118,7 +120,7 @@ Si el Senado no se pronunciare dentro de treinta días después de pedida la urg
 
 7) Declarar la inhabilidad del Presidente de la República o del Presidente electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;
 
-8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 8 del artículo 82;
+8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional, a que se refiere la segunda parte del Nº 10 del artículo 82;
 
 9) Aprobar, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de los senadores en ejercicio, la designación de los ministros y fiscales judiciales de la Corte Suprema y del Fiscal Nacional, y
 
@@ -130,33 +132,43 @@ El Senado, sus comisiones y sus demás órganos, incluidos los comités parlamen
 
 ### Artículo 50
 
-Son atribuciones exclusivas del Congreso:
+Son atribuciones del Congreso:
 
-1) Aprobar o desechar los tratados internacionales que le presentare el Presidente de la República antes de su ratificación. La aprobación de un tratado se someterá a los trámites de una ley.
+1) Aprobar o desechar los tratados internacionales que le presentare el Presidente de la República antes de su ratificación. La aprobación de un tratado requerirá, en cada Cámara, de los quórum que corresponda, en conformidad al artículo 63, y se someterá, en lo pertinente, a los trámites de una ley.
 
-Las medidas que el Presidente de la República adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor no requerirán nueva aprobación del Congreso, a menos que se trate de materias propias de ley.
+El Presidente de la República informará al Congreso sobre el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formularle.
 
-En el mismo acuerdo aprobatorio de un tratado, podrá el Congreso autorizar al Presidente de la República a fin de que, durante la vigencia de aquél, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, siendo en tal caso aplicable lo dispuesto en los incisos segundo y siguientes del artículo 61, y
+El Congreso podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional.
 
-2) Pronunciarse respecto del estado de sitio, de acuerdo al numero 2º. del artículo 40 de esta Constitución.
+Las medidas que el Presidente de la República adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor no requerirán de nueva aprobación del Congreso, a menos que se trate de materias propias de ley. No requerirán de aprobación del Congreso los tratados celebrados por el Presidente de la República en el ejercicio de su potestad reglamentaria.
+
+Las disposiciones de un tratado sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo a las normas generales de Derecho Internacional.
+
+Corresponde al Presidente de la República la facultad exclusiva para denunciar un tratado o retirarse de él, para lo cual pedirá la opinión de ambas Cámaras del Congreso, en el caso de tratados que hayan sido aprobados por éste. Una vez que la denuncia o el retiro produzca sus efectos en conformidad a lo establecido en el tratado internacional, éste dejará de tener efecto en el orden jurídico chileno.
+
+En el caso de la denuncia o el retiro de un tratado que fue aprobado por el Congreso, el Presidente de la República deberá informar de ello a éste dentro de los quince días de efectuada la denuncia o el retiro.
+
+El retiro de una reserva que haya formulado el Presidente de la República y que tuvo en consideración el Congreso Nacional al momento de aprobar un tratado, requerirá previo acuerdo de éste, de conformidad a lo establecido en la ley orgánica constitucional respectiva. El Congreso Nacional deberá pronunciarse dentro del plazo de treinta días contados desde la recepción del oficio en que se solicita el acuerdo pertinente. Si no se pronunciare dentro de este término, se tendrá por aprobado el retiro de la reserva.
+
+De conformidad a lo establecido en la ley, deberá darse debida publicidad a hechos que digan relación con el tratado internacional, tales como su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia del tratado, el retiro, la suspensión, la terminación y la nulidad del mismo.
+
+En el mismo acuerdo aprobatorio de un tratado podrá el Congreso autorizar al Presidente de la República a fin de que, durante la vigencia de aquél, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, siendo en tal caso aplicable lo dispuesto en los incisos segundo y siguientes del artículo 61, y
+
+2) Pronunciarse, cuando corresponda, respecto de los estados de excepción constitucional, en la forma prescrita por el inciso segundo del artículo 40.
 
 ## Funcionamiento del Congreso
 
 ### Artículo 51
 
-El Congreso abrirá sus sesiones ordinarias el día 21 de mayo de cada año, y las cerrara el 18 de septiembre.
+Derogado.
 
 ### Artículo 52
 
-El Congreso podrá ser convocado por el Presidente de la República a legislatura extraordinaria dentro de los diez últimos días de una legislación ordinaria o durante el receso parlamentario.
+El Congreso Nacional se instalará e iniciará su período de sesiones en la forma que determine su ley orgánica constitucional.
 
-Si no estuviere convocado por el Presidente de la República, el Congreso podrá autoconvocarse a legislatura extraordinaria a través del Presidente del Senado y a solicitud escrita de la mayoría de los miembros en ejercicio de cada una de sus ramas. La autoconvocatoria del Congreso sólo procederá durante el receso parlamentario y siempre que no hubiera sido convocado por el Presidente de la República.
+En todo caso, se entenderá siempre convocado de pleno derecho para conocer de la declaración de estados de excepción constitucional.
 
-Convocado por el Presidente de la República, el Congreso sólo podrá ocuparse de los asuntos legislativos o de los tratados internacionales que aquél incluyere en la convocatoria, sin perjuicio del despacho de la Ley de Presupuestos y de la facultad de ambas Cámaras para ejercer sus atribuciones exclusivas.
-
-Convocado por el Presidente del Senado podrá ocuparse de cualquier materia de su incumbencia.
-
-El Congreso se entenderá siempre convocado de pleno derecho para conocer de la declaración de estado de sitio.
+La ley orgánica constitucional señalada en el inciso primero, regulará la tramitación de las acusaciones constitucionales, la calificación de las urgencias conforme lo señalado en el artículo 71 y todo lo relacionado con la tramitación interna de la ley.
 
 ### Artículo 53
 
@@ -172,7 +184,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 1) Los Ministros de Estado;
 
-2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales y los concejales;
+2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales, los concejales y los subsecretarios;
 
 3) Los miembros del Consejo del Banco Central;
 
@@ -184,9 +196,11 @@ No pueden ser candidatos a diputados ni a senadores:
 
 7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal;
 
-8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado, y
+8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado;
 
-9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público.
+9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público, y
+
+10) Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, el Director General de la Policía de Investigaciones y los oficiales pertenecientes a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública.
 
 Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candidatura y de las indicadas en el número 9), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
@@ -196,11 +210,11 @@ Los cargos de diputados y senadores son incompatibles entre sí y con todo emple
 
 Asimismo, los cargos de diputados y senadores son incompatibles con las funciones de directores o consejeros, aun cuando sean ad honorem, en las entidades fiscales autónomas, semifiscales o en las empresas estatales, o en las que el Estado tenga participación por aporte de capital.
 
-Por el sólo hecho de resultar electo, el diputado o senador cesará en el otro cargo, empleo, función o comisión incompatible que desempeñe, a contar de su proclamación por el Tribunal Calificador. En el caso de los ex Presidentes de la República, el sólo hecho de incorporarse al Senado significara la cesación inmediata en los cargos, empleos, funciones o comisiones incompatibles que estuvieran desempeñando. En los casos de los senadores a que se refieren las letras b) a f) del inciso tercero del artículo 45, éstos deberán optar entre dicho cargo y el otro cargo, empleo, función o comisión incompatible, dentro de los quince días siguientes a su designación y, a falta de esta opción, perderán la calidad de senador.
+Por el solo hecho de su proclamación por el Tribunal Calificador de Elecciones, el diputado o senador cesará en el otro cargo, empleo o comisión incompatible que desempeñe.
 
 ### Artículo 56
 
-Ningún diputado o senador, desde su incorporación en el caso de la letra a) del artículo 45, desde su proclamación como electo por el Tribunal Calificador o desde el día de su designación, según el caso, y hasta seis meses después de terminar su cargo, puede ser nombrado para un empleo, función o comisión de los referidos en el artículo anterior.
+Ningún diputado o senador, desde el momento de su proclamación por el Tribunal Calificador de Elecciones puede ser nombrado para un empleo, función o comisión de los referidos en el artículo anterior.
 
 Esta disposición no rige en caso de guerra exterior; ni se aplica a los cargos de Presidente de la República, Ministro de Estado y agente diplomático; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de diputado o senador.
 
@@ -220,15 +234,17 @@ Quien perdiere el cargo de diputado o senador por cualquiera de las causales se�
 
 Cesará, asimismo, en sus funciones el diputado o senador que, durante su ejercicio, pierda algún requisito general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 54, sin perjuicio de la excepción contemplada en el inciso segundo del artículo 56 respecto de los Ministros de Estado.
 
+Los diputados y senadores podrán renunciar a sus cargos cuando les afecte una enfermedad grave que les impida desempeñarlos y así lo califique el Tribunal Constitucional.
+
 ### Artículo 58
 
 Los diputados y senadores sólo son inviolables por las opiniones que manifiesten y los votos que emitan en el desempeño de sus cargos, en sesiones de sala o de comisión.
 
-Ningún diputado o senador, desde el día de su elección o designación, o desde el de su incorporación, según el caso, puede ser procesado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a formación de causa. De esta resolución podrá apelarse para ante la Corte Suprema.
+Ningún diputado o senador, desde el día de su elección o o desde su juramento, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a formación de causa. De esta resolución podrá apelarse para ante la Corte Suprema.
 
 En caso de ser arrestado algún diputado o senador por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
 
-Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el diputado o senador acusado suspendido de su cargo y sujeto al juez competente.
+Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el diputado o senador imputado suspendido de su cargo y sujeto al juez competente.
 
 ### Artículo 59
 
@@ -293,6 +309,8 @@ Esta autorización no podrá extenderse a la nacionalidad, la ciudadanía, las e
 La autorización no podrá comprender facultades que afecten a la organización, atribuciones y régimen de los funcionarios del Poder Judicial, del Congreso Nacional, del Tribunal Constitucional ni de la Contraloría General de la República.
 
 La ley que otorgue la referida autorización señalará las materias precisas sobre las que recaerá la delegación y podrá establecer o determinar las limitaciones, restricciones y formalidades que se estimen convenientes.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, el Presidente de la República queda autorizado para fijar el texto refundido, coordinado y sistematizado de las leyes cuando sea conveniente para su mejor ejecución. En ejercicio de esta facultad, podrá introducirle los cambios de forma que sean indispensables, sin alterar, en caso alguno, su verdadero sentido y alcance.
 
 A la Contraloría General de la República corresponderá tomar razón de éstos decretos con fuerza de ley, debiendo rechazarlos cuando ellos excedan o contravengan la autorización referida.
 
@@ -384,7 +402,7 @@ El Presidente de la República podrá hacer presente la urgencia en el despacho 
 
 ### Artículo 72
 
-Si el Presidente de la República no devolviere el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entenderá que lo aprueba y se promulgará como ley. Si el Congreso cerrare sus sesiones antes de cumplirse los treinta días en que ha de verificarse la devolución, el Presidente lo hará dentro de los diez primeros días de la legislatura ordinaria o extraordinaria siguiente.
+Si el Presidente de la República no devolviere el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entenderá que lo aprueba y se promulgará como ley.
 
 La promulgación deberá hacerse siempre dentro del plazo de diez días, contados desde que ella sea procedente.
 
