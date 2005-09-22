@@ -1,15 +1,19 @@
-# Capítulo XII: BANCO CENTRAL
+# Capítulo XII
 
-### Artículo 97
+## CONSEJO DE SEGURIDAD NACIONAL
 
-Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.
+### Artículo 106
 
-### Artículo 98
+Habrá un Consejo de Seguridad Nacional encargado de asesorar al Presidente de la República en las materias vinculadas a la seguridad nacional y de ejercer las demás funciones que esta Constitución le encomienda. Será presidido por el Jefe del Estado y estará integrado por los Presidentes del Senado, de la Cámara de Diputados y de la Corte Suprema, por los Comandantes en Jefe de las Fuerzas Armadas, por el General Director de Carabineros y por el Contralor General de la República.
 
-El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
+En los casos que el Presidente de la República lo determine, podrán estar presentes en sus sesiones los ministros encargados del gobierno interior, de la defensa nacional, de la seguridad pública, de las relaciones exteriores y de la economía y finanzas del país.
 
-Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco Central.
+### Artículo 107
 
-Con todo, en caso de guerra exterior o de peligro de ella, que calificara el Consejo de Seguridad Nacional, el Banco Central podrá obtener, otorgar o financiar créditos al Estado y entidades públicas o privadas.
+El Consejo de Seguridad Nacional se reunirá cuando sea convocado por el Presidente de la República y requerirá como quórum para sesionar el de la mayoría absoluta de sus integrantes.
 
-El Banco Central no podrá adoptar ningún acuerdo que signifique de una manera directa o indirecta establecer normas o requisitos diferentes o discriminatorios en relación a personas, instituciones o entidades que realicen operaciones de la misma naturaleza.
+El Consejo no adoptará acuerdos sino para dictar el reglamento a que se refiere el inciso final de la presente disposición. En sus sesiones, cualquiera de sus integrantes podrá expresar su opinión frente a algún hecho, acto o materia que diga relación con las bases de la institucionalidad o la seguridad nacional.
+
+Las actas del Consejo serán públicas, a menos que la mayoría de sus miembros determine lo contrario.
+
+Un reglamento dictado por el propio Consejo establecerá las demás disposiciones concernientes a su organización, funcionamiento y publicidad de sus debates.

@@ -1,4 +1,6 @@
-# Capítulo III: DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
+# Capítulo III
+
+## DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
 
 ### Artículo 19
 
@@ -22,29 +24,28 @@ Toda persona tiene derecho a defensa jurídica en la forma que la ley señale y 
 
 La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a quienes no puedan procurárselos por sí mismos.
 
-Nadie podrá ser juzgado por comisiones especiales, sino por el tribunal que señalare la ley y que se hallare establecido por ésta con anterioridad a la perpetración del hecho.
+Nadie podrá ser juzgado por comisiones especiales, sino por el tribunal que
+señalare la ley y que se hallare establecido por ésta con anterioridad a la perpetración del hecho.
 
-Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un procedimiento y una investigación racionales y justos.
+Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado.
+Corresponderá al legislador establecer siempre las garantías de un procedimiento y una investigación racionales y justos.
 
-La ley no podrá presumir de derecho la responsabilidad penal. Ningún delito se castigará con otra pena que la que señale una ley promulgada con anterioridad a su perpetración, a menos que una nueva ley favorezca al afectado.
+La ley no podrá presumir de derecho la responsabilidad penal.
+
+Ningún delito se castigará con otra pena que la que señale una ley promulgada con anterioridad a su perpetración, a menos que una nueva ley favorezca al afectado.
 
 Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté expresamente descrita en ella;
 
-4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia.
-
-La infracción de este precepto, cometida a través de un medio de comunicación social, y que consistiere en la imputación de un hecho o acto falso, o que cause injustificadamente daño o descrédito a una persona o a su familia, será constitutiva de delito y tendrá la sanción que determine la ley. Con todo, el medio de comunicación social podrá excepcionarse probando ante el tribunal correspondiente la verdad de la imputación, a menos que ella constituya por sí misma el delito de injuria a particulares.
-
-Además, los propietarios, editores, directores y administradores del medio de comunicación social respectivo serán solidariamente responsables de las indemnizaciones que procedan;
+4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia;
 
 5º.- La inviolabilidad del hogar y de toda forma de comunicación privada. El hogar sólo puede allanarse y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos y formas determinados por la ley;
 
 6º.- La libertad de conciencia, la manifestación de todas las creencias y el ejercicio libre de todos los cultos que no se opongan a la moral, a las buenas costumbres o al orden público.
-
 Las confesiones religiosas podrán erigir y conservar templos y sus dependencias bajo las condiciones de seguridad e higiene fijadas por las leyes y ordenanzas.
 
-Las iglesias, las confesiones e instituciones religiosas de cualquier culto tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor. Los templos y sus dependencias, destinados exclusivamente al servicio de un culto, estarán exentos de toda clase de contribuciones.
+Las iglesias, las confesiones e instituciones religiosas de cualquier culto tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor. Los templos y sus dependencias, destinados exclusivamente al servicio de un culto, estarán exentos de toda clase de contribuciones;
 
-7º.- El derecho a la libertad personal y a la seguridad individual.
+7º.- El derecho a la libertad personal y a a seguridad individual.
 
 En consecuencia:
 
@@ -54,7 +55,7 @@ b) Nadie puede ser privado de su libertad personal ni ésta restringida sino en 
 
 c) Nadie puede ser arrestado o detenido sino por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal. Sin embargo, podrá ser detenido el que fuere sorprendido en delito flagrante, con el solo objeto de ser puesto a disposición del juez competente dentro de las veinticuatro horas siguientes.
 
-Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al afectado. El juez podrá por resolución fundada, ampliar este plazo hasta por cinco días, y hasta por diez días, en el caso que se investigaren hechos calificados por la ley como conductas terroristas;
+Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al afectado. El juez podrá, por resolución fundada, ampliar este plazo hasta por cinco días, y hasta por diez días, en el caso que se investigaren hechos calificados por la ley como conductas terroristas;
 
 d) Nadie puede ser arrestado o detenido, sujeto a prisión preventiva o preso, sino en su casa o en lugares públicos destinados a este objeto.
 
@@ -62,25 +63,28 @@ Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de
 
 Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al arrestado o detenido, procesado o preso, que se encuentre en ella. Este funcionario está obligado, siempre que el arrestado o detenido lo requiera, a transmitir al juez competente la copia de la orden de detención, o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención se hubiere omitido este requisito;
 
-e) La libertad del imputado procederá a menos que la detención o prisión preventiva sea considerada por el juez como necesaria para las investigaciones o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla.
+e) La libertad del imputado procederá a menos que la detención o prisión preventiva sea considerada por el juez como necesaria para las investigaciones o para la seguridad del ofendido o de la sociedad.
+La ley establecerá los requisitos y modalidades para obtenerla.
 
-La apelación de la resolución que se pronuncie sobre la libertad del imputado por los delitos a que se refiere el Artículo 9º, será conocida por el tribunal superior que corresponda, integrado exclusivamente por miembros titulares. La resolución que la apruebe u otorgue requerirá ser acordada por unanimidad. Mientras dure la libertad, el imputado quedará siempre sometido a las medidas de vigilancia de la autoridad que la ley contemple.
+La apelación de la resolución que se pronuncie sobre la libertad del imputado por los delitos a que se refiere el artículo 9°, será conocida por el tribunal superior que corresponda, integrado exclusivamente por miembros titulares. La resolución que la apruebe u otorgue requerirá ser acordada por unanimidad. Mientras dure la libertad, el imputado quedará siempre sometido a las medidas de vigilancia de la autoridad que la ley contemple;
 
-f) En las causas criminales no se podrá obligar al imputado o acusado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias, señale la ley;
+f) En las causas criminales no se podrá obligar al imputado o acusado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias,
+señale la ley;
 
 g) No podrá imponerse la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes; pero dicha pena será procedente respecto de las asociaciones ilícitas;
 
 h) No podrá aplicarse como sanción la pérdida de los derechos previsionales, e
 
-i) Una vez dictado sobreseimiento definitivo o sentencia absolutoria, el que hubiere sido sometido a proceso o condenado en cualquier instancia por resolución que la Corte Suprema declare injustificadamente errónea o arbitraria, tendrá derecho a ser indemnizado por el Estado de los perjuicios patrimoniales y morales que haya sufrido. La indemnización será determinada judicialmente en procedimiento breve y sumario y en él la prueba se apreciará en conciencia;
+i) Una vez dictado sobreseimiento definitivo o sentencia absolutoria, el que hubiere sido sometido a proceso o condenado en cualquier instancia por resolución que la Corte Suprema declare Injustificadamente errónea o arbitraria, tendrá derecho a ser indemnizado por el Estado de los perjuicios patrimoniales y morales que haya sufrido. La indemnización será determinada judicialmente en procedimiento breve y sumario y en él la prueba se apreciará en conciencia;
 
 8º.- El derecho a vivir en un medio ambiente libre de contaminación. Es deber del Estado velar para que este derecho no sea afectado y tutelar la preservación de la naturaleza.
 
 La ley podrá establecer restricciones específicas al ejercicio de determinados derechos o libertades para proteger el medio ambiente;
 
 9º.- El derecho a la protección de la salud.
+El Estado protege el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación del individuo.
 
-El Estado protege el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación del individuo. Le corresponderá, asimismo, la coordinación y control de las acciones relacionadas con la salud.
+Le corresponderá, asimismo, la coordinación y control de las acciones relacionadas con la salud.
 
 Es deber preferente del Estado garantizar la ejecución de las acciones de salud, sea que se presten a través de instituciones públicas o privadas, en la forma y condiciones que determine la ley, la que podrá establecer cotizaciones obligatorias.
 
@@ -94,11 +98,11 @@ Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corres
 
 El Estado promoverá la educación parvularia.
 
-La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media  este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.
 
 Corresponderá al Estado, asimismo, fomentar el desarrollo de la educación en todos sus niveles; estimular la investigación científica y tecnológica, la creación artística y la protección e incremento del patrimonio cultural de la Nación.
 
-Es deber de la comunidad contribuir al desarrollo y perfeccionamiento de la educación.
+Es deber de la comunidad contribuir al desarrollo y perfeccionamiento de la educación;
 
 11º.- La libertad de enseñanza incluye el derecho de abrir, organizar y mantener establecimientos educacionales.
 
@@ -114,15 +118,15 @@ Una ley orgánica constitucional establecerá los requisitos mínimos que deber�
 
 La ley en ningún caso podrá establecer monopolio estatal sobre los medios de comunicación social.
 
-Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social tiene derecho a que su declaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el medio de comunicación social en que esa información hubiera sido emitida.
+Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social, tiene derecho a que su declaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el medio de comunicación social en que esa información hubiera sido emitida.
 
 Toda persona natural o jurídica tiene el derecho de fundar, editar y mantener diarios, revistas y periódicos, en las condiciones que señale la ley.
 
 El Estado, aquellas universidades y demás personas o entidades que la ley determine, podrán establecer, operar y mantener estaciones de televisión.
 
-Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de estos medios de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
+Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de este medio de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
 
-La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica.
+La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica;
 
 13º.- El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 
@@ -134,25 +138,34 @@ Las reuniones en las plazas, calles y demás lugares de uso público, se regirá
 
 Para gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.
 
-Nadie puede ser obligado a pertenecer a una asociación. Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado.
+Nadie puede ser obligado a pertenecer a una asociación.
 
-Los partidos políticos no podrán intervenir en actividades ajenas a las que le son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el Servicio Electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.
+Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado.
+
+Los partidos políticos no podrán intervenir en actividades ajenas a las que les son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el servicio electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.
 
 La Constitución Política garantiza el pluralismo político. Son inconstitucionales los partidos, movimientos u otras formas de organización cuyos objetivos, actos o conductas no respeten los principios básicos del régimen democrático y constitucional, procuren el establecimiento de un sistema totalitario, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella como método de acción política.
-Corresponderá al Tribunal Constitucional declarar esta inconstitucionalidad. Sin perjuicio de las demás sanciones establecidas en la Constitución o en la ley, las personas que hubieren tenido participación en los hechos que motiven la declaración de inconstitucionalidad a que se refiere el inciso precedente, no podrán participar en la formación de otros partidos políticos, movimientos u otras formas de organización política, ni opta r a cargos públicos de elección popular ni desempeñar los cargos que se mencionan en los números 1 a 6 del artículo 54, por el término de cinco años, contando desde la resolución del Tribunal. Si a esa fecha las personas referidas estuvieren en posesión de las funciones o cargos indicados, los perderán de pleno derecho.
-Las personas sancionadas en virtud de este precepto no podrán ser objeto de rehabilitación durante el plazo señalado en el inciso anterior. La duración de las inhabilidades contempladas en dicho inciso se elevará al doble en caso de reincidencia;
+Corresponderá al Tribunal Constitucional declarar esta inconstitucionalidad.
 
-16º.- La libertad de trabajo y su protección.
+Sin perjuicio de las demás sanciones establecidas en la Constitución o en la ley, las personas que hubieren tenido participación en los hechos que motiven la declaración de inconstitucionalidad a que se refiere el inciso precedente, no podrán participar en la formación de otros partidos políticos, movimientos u otras formas de organización política, ni optar a cargos públicos de elección popular ni desempeñar los cargos que se mencionan en los números 1) a 6) del artículo 57, por el término de cinco años, contado desde la resolución del Tribunal. Si a esa fecha las personas referidas estuvieren en posesión de las funciones o cargos indicados, los perderán de pleno derecho.
 
+Las personas sancionadas en virtud de este precepto no podrán ser objeto de rehabilitación durante el plazo señalado en el inciso anterior.
+La duración de las inhabilidades contempladas en dicho inciso se elevará al doble en caso de reincidencia;
+
+16º.- La libertad de trabajo y su protección. 24.10.1980
 Toda persona tiene derecho a la libre contratación y a la libre elección del trabajo con una justa retribución.
 
 Se prohíbe cualquiera discriminación que no se base en la capacidad o idoneidad personal, sin perjuicio de que la ley pueda exigir la nacionalidad chilena o límites de edad para determinados casos.
 
-Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad públicas, o que lo exija el interés nacional y una ley lo declare así. Ninguna ley o disposición de autoridad pública podrá exigir la afiliación a organización o entidad alguna como requisito para desarrollar una determinada actividad o trabajo, ni la desafiliación para mantenerse en éstos. La ley determinará las profesiones que requieren grado o título universitario y las condiciones que deben cumplirse para ejercerlas. Los colegios profesionales constituidos en conformidad a la ley y que digan relación con tales profesiones, estarán facultados para conocer de las reclamaciones que se interpongan sobre la conducta ética de sus miembros. Contra sus resoluciones podrá apelarse ante la Corte de Apelaciones respectiva. Los profesionales no asociados serán juzgados por los tribunales especiales establecidos en la ley.
+Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad públicas, o que lo exija el interés nacional y una ley lo declare así. Ninguna ley o disposición de autoridad pública podrá exigir la afiliación a organización o entidad alguna como requisito para desarrollar una determinada actividad o trabajo, ni la desafiliación para mantenerse en éstos.
+La ley determinará las profesiones que requieren grado o título universitario y las condiciones que deben cumplirse para ejercerlas.
+Los colegios profesionales
+constituidos en conformidad a la ley y que digan relación con tales profesiones, estarán facultados para conocer de las reclamaciones que se interpongan sobre la conducta ética de sus miembros. Contra sus resoluciones podrá apelarse ante la Corte de Apelaciones respectiva. Los profesionales no asociados serán juzgados por los tribunales especiales establecidos en la ley.
 
 La negociación colectiva con la empresa en que laboren es un derecho de los trabajadores, salvo los casos en que la ley expresamente no permita negociar. La ley establecerá las modalidades de la negociación colectiva y los procedimientos adecuados para lograr en ella una solución justa y pacífica. La ley señalará los casos en que la negociación colectiva deba someterse a arbitraje obligatorio, el que corresponderá a tribunales especiales de expertos cuya organización y atribuciones se establecerán en ella.
 
-No podrán declararse en huelga los funcionarios del Estado ni de las municipalidades. Tampoco podrán hacerlo las personas que trabajen en corporaciones o empresas, cualquiera que sea su naturaleza, finalidad o función, que atiendan servicios de utilidad pública o cuya paralización cause grave daño a la salud, a la economía del país, al abastecimiento de la población o a la seguridad nacional. La ley establecerá los procedimientos para determinar las corporaciones o empresas cuyos trabajadores estarán sometidos a la prohibición que establece este inciso;
+No podrán declararse e n huelga los funcionarios del Estado ni de las municipalidades. Tampoco podrán hacerlo las personas que trabajen en corporaciones o empresas, cualquiera que sea su naturaleza, finalidad o función, que atiendan servicios de utilidad pública o cuya paralización cause grave daño a la salud, a la economía del país, al abastecimiento de la población o a la seguridad nacional.
+La ley establecerá los procedimientos para determinar las corporaciones o empresas cuyos trabajadores estarán sometidos a la prohibición que establece este inciso;
 
 17º.- La admisión a todas las funciones y empleos públicos, sin otros requisitos que los que impongan la Constitución y las leyes;
 
@@ -166,19 +179,23 @@ El Estado supervigilará el adecuado ejercicio del derecho a la seguridad social
 
 19º.- El derecho de sindicarse en los casos y forma que señale la ley. La afiliación sindical será siempre voluntaria.
 
-Las organizaciones sindicales gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley. La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales no podrán intervenir en actividades político partidistas;
+Las organizaciones sindicales gozarán de personalidad jurídica por el solo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley.
 
-20º.- La igual repartición de los tributos en proporción a las rentas o en la progresión o forma que fije la ley, y la igual repartición de las demás cargas públicas.
+La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales no podrán intervenir en actividades político partidistas;
+
+20º.- La igual repartición de los tributos en proporción a las rentas o en la progresión o forma que fije la ley, y la igual repartición de las demás cargas públicas
 
 En ningún caso la ley podrá establecer tributos manifiestamente desproporcionados o injustos.
 
 Los tributos que se recauden, cualquiera que sea su naturaleza, ingresarán al patrimonio de la Nación y no podrán estar afectos a un destino determinado.
 
-Sin embargo, la ley podrá autorizar que determinados tributos puedan estar efectados a fines propios de la defensa nacional. Asimismo, podrá autorizar que los que gravan actividades o bienes que tengan una clara identificación regional o local puedan ser aplicados, dentro de los marcos que la misma ley señale, por las autoridades regionales o comunales para el financiamiento de obras de desarrollo.
+Sin embargo, la ley podrá autorizar que determinados tributos puedan estar afectados a fines propios de la defensa nacional.
+Asimismo, podrá autorizar que los que gravan actividades o bienes que tengan una clara identificación regional o local puedan ser aplicados, dentro de los marcos que la misma ley señale, por las autoridades regionales o comunales para el financiamiento de obras de desarrollo;
 
 21º.- El derecho a desarrollar cualquiera actividad económica que no sea contraria a la moral, al orden público o a la seguridad nacional, respetando las normas legales que la regulen.
 
-El Estado y sus organismos podrán desarrollar actividades empresariales o participar en ellas sólo si una ley de quórum calificado los autoriza. En tal caso, esas actividades estarán sometidas a la legislación común aplicable a los particulares, sin perjuicio de las excepciones que por motivos justificados establezca la ley, la que deberá ser, asimismo, de quórum calificado;
+El Estado y sus organismos podrán desarrollar actividades empresariales o participar en ellas sólo si una ley de quórum calificado los autoriza.
+En tal caso, esas actividades estarán sometidas a la legislación común aplicable a los particulares, sin perjuicio de las excepciones que por motivos justificados establezca la ley, la que deberá ser, asimismo, de quórum calificado;
 
 22º.- La no discriminación arbitraria en el trato que deben dar el Estado y sus organismos en materia económica.
 
@@ -192,19 +209,25 @@ Una ley de quórum calificado y cuando así lo exija el interés nacional puede 
 
 Sólo la ley puede establecer el modo de adquirir la propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que deriven de su función social. Esta comprende cuanto exijan los intereses generales de la Nación, la seguridad nacional, la utilidad y la salubridad públicas y la conservación del patrimonio ambiental.
 
-Nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que recae o de alguno de los atributos o facultades esenciales del dominio, sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o de interés nacional, calificada por el legislador. El expropiado podrá reclamar de la legalidad del acto expropiatorio ante los tribunales ordinarios y tendrá siempre derecho a indemnización por el daño patrimonial efectivamente causado, la que se fijará de común acuerdo o en sentencia dictada conforme a derecho por dichos tribunales.
+Nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que recae o de alguno de los atributos o facultades esenciales del dominio, sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o de interés nacional, calificada por el legislador.
+El expropiado podrá reclamar de la legalidad del acto expropiatorio ante los tribunales ordinarios y tendrá siempre derecho a indemnización por el daño patrimonial efectivamente causado, la que se fijará de común acuerdo o en sentencia dictada conforme a derecho por dichos tribunales.
 
-A falta de acuerdo, la indemnización deberá ser pagada en dinero efectivo al contado. La toma de posesión material del bien expropiado tendrá lugar previo pago del total de la indemnización, la que, a falta de acuerdo, será determinada provisionalmente por peritos en la forma que señale la ley. En caso de reclamo acerca de la procedencia de la expropiación, el juez podrá, con el mérito de los antecedentes que se invoquen, decretar la suspensión de la toma de posesión.
+ falta de acuerdo, la indemnización deberá ser pagada en dinero efectivo al contado.
+
+La toma de posesión material del bien expropiado tendrá lugar previo pago del total de la indemnización, la que, a falta de acuerdo, será determinada provisionalmente por peritos en la forma que señale la ley. En caso de reclamo acerca de la procedencia de la expropiación, el juez podrá, con el mérito de los antecedentes que se invoquen, decretar la suspensión de la toma de posesión.
 
 El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas.
 
-Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento. Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple extinción del dominio sobre la concesión. En todo caso dichas causales y sus efectos deben estar establecidos al momento de otorgarse la concesión.
+Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento.
+Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple extinción del dominio sobre la concesión.
+En todo caso dichas causales y sus efectos deben estar establecidos al momento de otorgarse la concesión.
 
-Será de competencia exclusiva de los tribunales ordinarios de justicia declarar la extinción de tales concesiones. Las controversias que se produzcan respecto de la caducidad o extinción del dominio sobre la concesión serán resueltas por ello; y en caso de caducidad, el afectado podrá requerir de la justicia la declaración de subsistencia de su derecho.
+Será de competencia exclusiva de los tribunales ordinarios de justicia declarar la extinción de tales concesiones. Las controversias que se produzcan respecto de la caducidad o extinción del dominio sobre la concesión serán resueltas por ellos; y en caso de caducidad, el afectado podrá requerir de la justicia la declaración de subsistencia de su derecho.
 
 El dominio del titular sobre su concesión minera está protegido por la garantía constitucional de que trata este número.
 
-La exploración, la explotación o el beneficio de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, o por medio de concesiones administrativas o de contratos especiales de operación, con los requisitos y bajo las condiciones que el Presidente de la República fije, para cada caso, por decreto supremo. Esta norma se aplicará también a los yacimientos de cualquier especie existentes en las aguas marítimas sometidas a la jurisdicción nacional y a los situados, en todo o en parte, en zonas que, conforme a la ley, se determinen como de importancia para la seguridad nacional. El Presidente de la República podrá poner término, en cualquier tiempo, sin expresión de causa y con la indemnización que corresponda, a las concesiones administrativas o a los contratos de operación relativos a explotaciones ubicadas en zonas declaradas de importancia para la seguridad nacional.
+La exploración, la explotación o el beneficio de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, o por medio de concesiones administrativas o de contratos especiales de operación, con los requisitos y bajo las condiciones que el Presidente de la República fije, para cada caso, por decreto supremo.
+Esta norma se aplicará también a los yacimientos de cualquier especie existentes en las aguas marítimas sometidas a la jurisdicción nacional y a los situados, en todo o en parte, en zonas que, conforme a la ley, se determinen como de importancia para la seguridad nacional. El Presidente de la República podrá poner término, en cualquier tiempo, sin expresión de causa y con la indemnización que corresponda, a las concesiones administrativas o a los contratos de operación relativos a explotaciones ubicadas en zonas declaradas de importancia para la seguridad nacional.
 
 Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
 
@@ -220,11 +243,11 @@ Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a
 
 ### Artículo 20
 
-El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º., 2º. 3º. inciso cuarto, 4º., 5º., 6º., 9º. inciso final, 11º., 12º., 13º., 15º., 16. en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º., 21º., 22º., 23º., 24º. y 25º. podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectivas, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
+El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º inciso cuarto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º, 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
 
-Procederá, también, el recurso de protección en el caso del Nº. 8°. del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto u omisión ilegal imputable a una autoridad o persona determinada.
+Procederá, también, el recurso de protección en el caso del Nº8º del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto u omisión ilegal imputable a una autoridad o persona determinada.
 
-### Artículo 21
+### Artículo 21
 
 Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.
 

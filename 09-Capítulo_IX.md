@@ -1,21 +1,37 @@
-# Capítulo IX: CONTRALORÍA GENERAL DE LA REPÚBLICA
+# Capítulo IX
 
-### Artículo 87
+## JUSTICIA ELECTORAL
 
-Un organismo autónomo con el nombre de Contraloría General de la República ejercerá el control de la legalidad de los actos de la Administración, fiscalizara el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinara y juzgara las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevara la contabilidad general de la Nación, y desempeñará las demás funciones que le encomiende la ley orgánica constitucional respectiva.
+### Artículo 95
 
-El Contralor General de la República deberá tener a lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio. Será designado por el Presidente de la República con acuerdo del Senado adoptado por los tres quintos de sus miembros en ejercicio, por un período de ocho años y no podrá ser designado para el período siguiente. Con todo, al cumplir 75 años de edad cesará en el cargo.
+Un tribunal especial, que se denominará Tribunal Calificador de Elecciones, conocerá del escrutinio general y de la calificación de las elecciones de Presidente de la República, de diputados y senadores; resolverá las reclamaciones a que dieren lugar y proclamará a los que resulten elegidos. Dicho Tribunal conocerá, asimismo, de los plebiscitos, y tendrá las demás atribuciones que determine la ley.
 
-### Artículo 88
+Estará constituido por cinco miembros designados en la siguiente forma:
 
-En el ejercicio de la función de control de legalidad, el Contralor General tomara razón de los decretos y resoluciones que, en conformidad a la ley, deben tramitarse por la Contraloría o representara la ilegalidad de que puedan adolecer; pero deberá darles curso cuando, a pesar de su representación, el Presidente de la República insista con la firma de todos sus Ministros, caso en el cual deberá enviar copia de los respectivos decretos a la Cámara de Diputados. En ningún caso dará curso a los decretos de gastos que excedan el límite señalado en la Constitución y remitirá copia íntegra de los antecedentes a la misma Cámara.
+a) Cuatro ministros de la Corte Suprema, designados por ésta, mediante sorteo, en la forma y oportunidad que determine la ley orgánica constitucional respectiva, y
 
-Corresponderá, asimismo, al Contralor General de la República tomar razón de los decretos con fuerza de ley, debiendo representarlos cuando ellos excedan o contravengan la ley delegatoria o sean contrarios a la Constitución.
+b) Un ciudadano que hubiere ejercido el cargo de Presidente o Vicepresidente de la Cámara de Diputados o del Senado por un período no inferior a los 365 días, designado por la Corte Suprema en la forma señalada en la letra a) precedente, de entre todos aquéllos que reúnan las calidades indicadas.
 
-Si la representación tuviere lugar con respecto a un decreto con fuerza de ley, a un decreto promulgatorio de una ley o de una reforma constitucional por apartarse del texto aprobado, o a un decreto o resolución por ser contrario a la Constitución, el Presidente de la República no tendrá la facultad de insistir, y en caso de no conformarse con la representación de la Contraloría deberá remitir los antecedentes al Tribunal Constitucional dentro del plazo de diez días, a fin de que éste resuelva la controversia.
+Las designaciones a que se refiere la letra b) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, Ministro de Estado, ni dirigente de partido político.
 
-En lo demás, la organización, el funcionamiento y las atribuciones de la Contraloría General de la República serán materia de una ley orgánica constitucional.
+Los miembros de este tribunal durarán cuatro años en sus funciones y les serán aplicables las disposiciones de los artículos 58 y 59 de esta Constitución.
 
-### Artículo 89
+El Tribunal Calificador procederá como jurado en la apreciación de los hechos y sentenciará con arreglo a derecho.
 
-Las Tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un decreto o resolución expedido por autoridad competente, en que se exprese la ley o la parte del presupuesto que autorice aquel gasto. Los pagos se efectuaran considerando, además, el orden cronológico establecido en ella y previa refrendación presupuestaria del documento que ordene el pago.
+Una ley orgánica constitucional regulará la organización y funcionamiento del Tribunal Calificador.
+
+### Artículo 96
+
+Habrá tribunales electorales regionales encargados de conocer el escrutinio general y la calificación de las elecciones que la ley les encomiende, así como de resolver las reclamaciones a que dieren lugar y de proclamar a los candidatos electos. Sus resoluciones serán apelables para ante el Tribunal Calificador de Elecciones en la forma que determine la ley. Asimismo, les corresponderá conocer de la calificación de las elecciones de carácter gremial y de las que tengan lugar en aquellos grupos intermedios que la ley señale.
+
+Estos tribunales estarán constituidos por un ministro de la Corte de Apelaciones respectiva, elegido por ésta, y por dos miembros designados por el Tribunal Calificador de Elecciones de entre personas que hayan ejercido la profesión de abogado o desempeñado la función de ministro o abogado integrante de Corte de Apelaciones por un plazo no inferior a tres años.
+
+Los miembros de estos tribunales durarán cuatro años en sus funciones y tendrán las inhabilidades e incompatibilidades que determine la ley.
+
+Estos tribunales procederán como jurado en la apreciación de los hechos y sentenciarán con arreglo a derecho.
+
+La ley determinará las demás atribuciones de estos tribunales y regulará su organización y funcionamiento.
+
+### Artículo 97
+
+Anualmente, se destinarán en la Ley de Presupuestos de la Nación los fondos necesarios para la organización y funcionamiento de estos tribunales, cuyas plantas, remuneraciones y estatuto del personal serán establecidos por ley.

@@ -1,6 +1,8 @@
-# Capítulo I: BASES DE LA INSTITUCIONALIDAD
+# Capítulo I
 
-### Artículo 1º
+## BASES DE LA INSTITUCIONALIDAD
+
+### Artículo 1°
 
 Las personas nacen libres e iguales en dignidad y derechos.
 
@@ -18,11 +20,13 @@ Son emblemas nacionales la bandera nacional, el escudo de armas de la República
 
 ### Artículo 3º
 
-El Estado de Chile es unitario. La administración del Estado será funcional y territorialmente descentralizada, o desconcentrada en su caso, de conformidad a la ley.
+El Estado de Chile es unitario.
+
+La administración del Estado será funcional y territorialmente descentralizada, o desconcentrada en su caso, de conformidad a la ley.
 
 Los órganos del Estado promoverán el fortalecimiento de la regionalización del país y el desarrollo equitativo y solidario entre las regiones, provincias y comunas del territorio nacional.
 
-### Artículo 4º
+### Artículo 4°
 
 Chile es una república democrática.
 
@@ -30,7 +34,7 @@ Chile es una república democrática.
 
 La soberanía reside esencialmente en la Nación. Su ejercicio se realiza por el pueblo a través del plebiscito y de elecciones periódicas y, también, por las autoridades que esta Constitución establece. Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio.
 
-El ejercicio de la soberanía reconoce como limitación el respeto a los derechos esenciales que emanan de la naturaleza humana. Es deber de los órganos del Estado respetar y promover tales derechos, garantizados por esta Constitución, así como los tratado s internacionales ratificados por Chile y que se encuentren vigentes.
+El ejercicio de la soberanía reconoce como limitación el respeto a los derechos esenciales que emanan de la naturaleza humana. Es deber de los órganos del Estado respetar y promover tales derechos, garantizados por esta Constitución, así como por los tratados internacionales ratificados por Chile y que se encuentren vigentes.
 
 ### Artículo 6º
 
@@ -58,8 +62,6 @@ Son públicos los actos y resoluciones de los órganos del Estado, así como sus
 
 El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
 
-Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimientos de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrán ser dirigentes de organizaciones políticas relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
+Una ley de quórum calificado determinará las conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimiento de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrá ser dirigentes de organizaciones políticas o relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.
 
-Los delitos a que se refiere el inciso anterior serán considerados siempre
-comunes y no políticos para todos los efectos legales y no procederá respecto de ellos el
-indulto particular, salvo para conmutar la pena de muerte por la de presidio perpetuo.
+Los delitos a que se refiere el inciso anterior serán considerados siempre comunes y no políticos para todos los efectos legales y no procederá respecto de ellos el indulto particular, salvo para conmutar la pena de muerte por la de presidio perpetuo.
