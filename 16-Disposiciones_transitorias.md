@@ -106,3 +106,7 @@ No obstante, la modificación al Artículo 16 N° 2 de esta Constitución, tambi
 ### VIGÉSIMA
 
 En tanto no se creen los tribunales especiales a que alude el párrafo cuarto del número 16° del Artículo 19, las reclamaciones motivadas por la conducta ética de los profesionales que no pertenezcan a colegios profesionales, serán conocidas por los tribunales ordinarios.
+
+### VIGESIMOPRIMERA
+
+La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
