@@ -110,3 +110,7 @@ En tanto no se creen los tribunales especiales a que alude el párrafo cuarto de
 ### VIGESIMOPRIMERA
 
 La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
+
+### VIGESIMOSEGUNDA
+
+Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.

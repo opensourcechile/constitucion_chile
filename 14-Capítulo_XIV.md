@@ -135,3 +135,9 @@ Las leyes orgánicas constitucionales respectivas establecerán las causales de 
 La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
 
 Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el intendente y el consejo regional, así como entre el alcalde y el concejo.
+
+## Disposiciones Especiales
+
+### Artículo 126 bis
+
+Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
