@@ -26,6 +26,8 @@ En dicho caso, la Corte deberá evacuar la consulta dentro del plazo que impliqu
 
 Si la Corte Suprema no emitiere opinión dentro de los plazos aludidos, se tendrá por evacuado el trámite.
 
+La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales, así como las leyes procesales que regulen un sistema de enjuiciamiento, podrán fijar fechas diferentes para su entrada en vigencia en las diversas regiones del territorio nacional. Sin perjuicio de lo anterior, el plazo para la entrada en vigor de dichas leyes en todo el país no podrá ser superior a cuatros años.
+
 ### Artículo 78
 
 En cuanto al nombramiento de los jueces, la ley se ajustará a los siguientes preceptos generales.
