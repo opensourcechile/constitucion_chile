@@ -114,3 +114,7 @@ La reforma introducida al numeral 10º del artículo 19 en relación al segundo 
 ### VIGESIMOSEGUNDA
 
 Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.
+
+### VIGÉSIMOTERCERA
+
+Las reformas introducidas a los artículos 15 y 18 sobre voluntariedad del voto e incorporación al registro electoral por el solo ministerio de la ley, regirán al momento de entrar en vigencia la respectiva ley orgánica constitucional a que se refiere el inciso segundo del artículo 18 que se introduce mediante dichas reformas.

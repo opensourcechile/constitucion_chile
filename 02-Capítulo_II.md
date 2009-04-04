@@ -50,7 +50,7 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 
 ### Artículo 15
 
-En las votaciones populares, el sufragio será personal, igualitario secreto. Para los ciudadanos será, además, obligatorio.
+En las votaciones populares, el sufragio será personal, igualitario, secreto y voluntario.
 
 Sólo podrá convocarse votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
 
@@ -79,6 +79,8 @@ Los que hubieren perdido la ciudadanía por la causal indicada en el número 2º
 ### Artículo 18
 
 Habrá un sistema electoral público. Una ley orgánica constitucional de
-terminará su organización funcionamiento, regulará la forma en que se realizarán los procesos electorales plebiscitarios, en todo lo no previsto por esta Constitución y, garantizará siempre la plena igualdad entre los independientes y los miembros de partidos políticos tanto en la presentación de candidaturas como en su participación en los señalados procesos.
+terminará su organización funcionamiento, regulará la forma en que se realizarán los procesos electorales plebiscitarios, en todo lo no previsto por esta Constitución y garantizará siempre la plena igualdad entre los independientes y los miembros de partidos políticos tanto en la presentación de candidaturas como en su participación en los señalados procesos. Dicha ley establecerá también un sistema de financiamiento, transparencia, límite y control del gasto electoral.
+
+Una ley orgánica constitucional contemplará, además, un sistema de registro electoral, bajo la dirección del Servicio Electoral, al que se incorporarán, por el solo ministerio de la ley, quienes cumplan los requisitos establecidos por esta Constitución.
 
 El resguardo del orden público durante los actos electorales y plebiscitarios corresponderá a las Fuerzas Armadas y Carabineros del modo que indique la ley.
