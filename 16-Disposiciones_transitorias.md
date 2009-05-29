@@ -118,3 +118,13 @@ Mientras no entren en vigencia los estatutos especiales a que se refiere el art�
 ### VIGÉSIMOTERCERA
 
 Las reformas introducidas a los artículos 15 y 18 sobre voluntariedad del voto e incorporación al registro electoral por el solo ministerio de la ley, regirán al momento de entrar en vigencia la respectiva ley orgánica constitucional a que se refiere el inciso segundo del artículo 18 que se introduce mediante dichas reformas.
+
+### VIGÉSIMOCUARTA
+
+El Estado de Chile podrá reconocer la jurisdicción de la Corte Penal Internacional en los términos previstos en el tratado aprobado en la ciudad de Roma, el 17 de julio de 1998, por la Conferencia Diplomática de Plenipotenciarios de las Naciones Unidas sobre el establecimiento de dicha Corte.
+
+Al efectuar ese reconocimiento, Chile reafirma su facultad preferente para ejercer su jurisdicción penal en relación con la jurisdicción de la Corte. Esta última será subsidiaria de la primera, en los términos previstos en el Estatuto de Roma que creó la Corte Penal Internacional.
+
+La cooperación y asistencia entre las autoridades nacionales competentes y la Corte Penal Internacional, así como los procedimientos judiciales y administrativos a que hubiere lugar, se sujetarán a lo que disponga la ley chilena.
+
+La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
