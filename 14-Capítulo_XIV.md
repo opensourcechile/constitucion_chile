@@ -20,23 +20,31 @@ El gobierno regional estará constituido por el intendente y el consejo regional
 
 ### Artículo 112
 
-El intendente presidirá el consejo regional y le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región.
+Al intendente le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región.
 
 La ley determinará la forma en que el intendente ejercerá estas facultades, las demás atribuciones que le correspondan y los organismos que colaborarán en el cumplimiento de sus funciones.
 
 ### Artículo 113
 
-El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende, la que regulará además su integración y organización.
+El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.
 
-Corresponderá desde luego al consejo regional aprobar los planes de desarrollo de la región y el proyecto de presupuesto del gobierno regional, ajustados a la política nacional de desarrollo y al presupuesto de la Nación. Asimismo, resolverá la inversión de los recursos consultados para la región en el fondo nacional de desarrollo regional, sobre la base de la propuesta que formule el intendente.
+El consejo regional estará integrado por consejeros elegidos por sufragio universal en votación directa, de conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.
+
+Cesará en su cargo el consejero regional que durante su ejercicio perdiere alguno de los requisitos de elegibilidad o incurriere en alguna de las inhabilidades, incompatibilidades, incapacidades u otras causales de cesación que la ley orgánica constitucional establezca.
+
+Lo señalado en los incisos precedentes respecto del consejo regional y de los consejeros regionales será aplicable, en lo que corresponda, a los territorios especiales a que se refiere el artículo 126 bis.
+
+El consejo regional, por mayoría absoluta de sus integrantes en ejercicio, elegirá un presidente de entre sus miembros. El presidente del consejo durará cuatro años en su cargo y cesará en él en caso de incurrir en alguna de las causales señaladas en el inciso tercero, por remoción acordada por los dos tercios de los consejeros regionales en ejercicio o por renuncia aprobada por la mayoría de éstos.
+
+La ley orgánica constitucional determinará las funciones y atribuciones del presidente del consejo regional.
+
+Corresponderá al consejo regional aprobar el proyecto de presupuesto de la respectiva región considerando, para tal efecto, los recursos asignados a ésta en la Ley de Presupuestos, sus recursos propios y los que provengan de los convenios de programación.
+
+Los Senadores y Diputados que representen a las circunscripciones y distritos de la región podrán, cuando lo estimen conveniente, asistir a las sesiones del consejo regional y tomar parte en sus debates, sin derecho a voto.
 
 ### Artículo 114
 
-La ley deberá determinar las formas en que se descentralizará la administración del Estado, así como la transferencia de competencias a los gobiernos regionales.
-
-Sin perjuicio de lo anterior, también establecerá, con las excepciones que procedan, la desconcentración regional de los ministerios y de los servicios públicos.
-
-Asimismo, regulará los procedimientos que aseguren la debida coordinación entre los órganos de la administración del Estado para facilitar el ejercicio de las facultades de las autoridades regionales.
+La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República podrá transferir a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.
 
 ### Artículo 115
 
@@ -46,7 +54,7 @@ Sin perjuicio de los recursos que para su funcionamiento se asignen a los gobier
 
 La Ley de Presupuestos de la Nación contemplará, asimismo, gastos correspondientes a inversiones sectoriales de asignación regional cuya distribución entre regiones responderá a criterios de equidad y eficiencia, tomando en consideración los programas nacionales de inversión correspondientes. La asignación de tales gastos al interior de cada región corresponderá al gobierno regional.
 
-A iniciativa de los gobiernos regionales o de uno o más ministerios, podrán celebrarse convenios anuales o plurianuales de programación de inversión pública en la respectiva región o en el conjunto de regiones que convengan en asociarse con tal propósito.
+A iniciativa de los gobiernos regionales o de uno o más ministerios podrán celebrarse convenios anuales o plurianuales de programación de inversión pública entre gobiernos regionales, entre éstos y uno o más ministerios o entre gobiernos regionales y municipalidades, cuyo cumplimiento será obligatorio. La ley orgánica constitucional respectiva establecerá las normas generales que regularán la suscripción, ejecución y exigibilidad de los referidos convenios.
 
 La ley podrá autorizar a los gobiernos regionales y a las empresas públicas para asociarse con personas naturales o jurídicas a fin de propiciar actividades e iniciativas sin fines de lucro que contribuyan al desarrollo regional. Las entidades que al efecto se constituyan se regularán por las normas comunes aplicables a los particulares.
 
@@ -59,8 +67,6 @@ Lo dispuesto en el inciso anterior se entenderá sin perjuicio de lo establecido
 En cada provincia existirá una gobernación que será un órgano territorialmente desconcentrado del intendente. Estará a cargo de un gobernador, quien será nombrado y removido libremente por el Presidente de la República.
 
 Corresponde al gobernador ejercer, de acuerdo a las instrucciones del intendente, la supervigilancia de los servicios públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el intendente y las demás que le corresponden.
-
-En cada provincia existirá un consejo económico y social provincial de carácter consultivo. La ley orgánica constitucional respectiva determinará su composición, forma de designación de sus integrantes, atribuciones y funcionamiento.
 
 ### Artículo 117
 
@@ -118,17 +124,23 @@ Las municipalidades gozarán de autonomía para la administración de sus finanz
 
 La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás servicios públicos.
 
+Sin perjuicio de lo dispuesto en el inciso anterior, la ley orgánica constitucional respectiva regulará la administración de las áreas metropolitanas, y establecerá las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios.
+
 ### Artículo 124
 
-Para ser designado intendente o gobernador y para ser elegido miembro del consejo regional o concejal, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
+Para ser designado intendente o gobernador y para ser elegido consejero regional, alcalde o concejal, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
 
-Los cargos de intendente, gobernador, miembro del consejo regional y concejal serán incompatibles entre sí.
+Los cargos de intendente, gobernador, consejero regional, alcalde y concejal serán incompatibles entre sí.
 
-Ningún tribunal procederá criminalmente contra un intendente o gobernador sin que la Corte de Apelaciones respectiva haya declarado que ha lugar la formación de causa.
+Ningún intendente, gobernador o presidente del consejo regional, desde el día de su designación o elección, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
+
+En caso de ser arrestado algún intendente, gobernador o presidente de consejo regional por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
+
+Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el intendente, gobernador o presidente del consejo regional imputado suspendido de su cargo y sujeto al juez competente.
 
 ### Artículo 125
 
-Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcaldes, de miembro del consejo regional y de concejal.
+Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcalde, consejero regional y concejal.
 
 ### Artículo 126
 

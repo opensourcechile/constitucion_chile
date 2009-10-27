@@ -20,9 +20,9 @@ Para ser elegido diputado se requiere ser ciudadano con derecho a sufragio, tene
 
 ### Artículo 49
 
-El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
+El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país, cada una de las cuales constituirá, a lo menos, una circunscripción. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
 
-Los Senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, correspondiendo hacerlo en un período a los representantes de las regiones de número impar y en el siguiente a los de las regiones de número par y de la Región Metropolitana
+Los senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, en la forma que determine la ley orgánica constitucional respectiva.
 
 ### Artículo 50
 
@@ -84,7 +84,7 @@ c) De los magistrados de los tribunales superiores de justicia y del Contralor G
 
 d) De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y
 
-e) De los intendentes y gobernadores, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
+e) De los intendentes, gobernadores y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
 
 La acusación se tramitará en conformidad a la ley orgánica constitucional relativa al Congreso.
 
@@ -188,7 +188,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 1) Los Ministros de Estado;
 
-2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales, los concejales y los subsecretarios;
+2) Los intendentes, los gobernadores, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
 
 3) Los miembros del Consejo del Banco Central;
 
