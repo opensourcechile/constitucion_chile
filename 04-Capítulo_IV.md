@@ -155,6 +155,12 @@ Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones d
 
 Sin perjuicio de lo anterior, los Ministros deberán concurrir personalmente a las sesiones especiales que la Cámara de Diputados o el Senado convoquen para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.
 
+### Artículo 37 bis
+
+A los Ministros les serán aplicables las incompatibilidades establecidas en el inciso primero del artículo 58. Por el solo hecho de aceptar el nombramiento, el Ministro cesará en el cargo, empleo, función o comisión incompatible que desempeñe.
+
+Durante el ejercicio de su cargo, los Ministros estarán sujetos a la prohibición de celebrar o caucionar contratos con el Estado, actuar como abogados o mandatarios en cualquier clase de juicio o como procurador o agente en gestiones particulares de carácter administrativo, ser director de bancos o de alguna sociedad anónima y ejercer cargos de similar importancia en estas actividades.
+
 ## Bases generales de la Administración del Estado
 
 ### Artículo 38

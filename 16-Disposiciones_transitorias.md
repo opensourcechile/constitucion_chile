@@ -128,3 +128,7 @@ Al efectuar ese reconocimiento, Chile reafirma su facultad preferente para ejerc
 La cooperación y asistencia entre las autoridades nacionales competentes y la Corte Penal Internacional, así como los procedimientos judiciales y administrativos a que hubiere lugar, se sujetarán a lo que disponga la ley chilena.
 
 La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
+
+### Vigésimoquinta
+
+La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.

@@ -58,6 +58,10 @@ El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cu
 
 Son públicos los actos y resoluciones de los órganos del Estado, así como sus fundamentos y los procedimientos que utilicen. Sin embargo, sólo una ley de quórum calificado podrá establecer la reserva o secreto de aquéllos o de éstos, cuando la publicidad afectare el debido cumplimiento de las funciones de dichos órganos, los derechos de las personas, la seguridad de la Nación o el interés nacional.
 
+El Presidente de la República, los Ministros de Estado, los diputados y senadores, y las demás autoridades y funcionarios que una ley orgánica constitucional señale, deberán declarar sus intereses y patrimonio en forma pública.
+
+Dicha ley determinará los casos y las condiciones en que esas autoridades delegarán a terceros la administración de aquellos bienes y obligaciones que supongan conflicto de interés en el ejercicio de su función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos y, en situaciones calificadas, disponer la enajenación de todo o parte de esos bienes.
+
 ### Artículo 9º
 
 El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
