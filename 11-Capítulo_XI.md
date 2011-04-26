@@ -18,7 +18,7 @@ La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabin
 
 Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
 
-El Ministerio encargado de la Defensa Nacional o un organismo de su dependencia ejercerá la supervigilancia y control de las armas en la forma que determine la ley.
+Una ley determinará el Ministerio o los órganos de su dependencia que ejercerán la supervigilancia y el control de las armas. Asimismo, establecerá los órganos públicos encargados de fiscalizar el cumplimiento de las normas relativas a dicho control.
 
 ### Artículo 104
 
