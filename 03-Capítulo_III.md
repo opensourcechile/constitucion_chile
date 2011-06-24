@@ -22,7 +22,9 @@ Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias;
 
 Toda persona tiene derecho a defensa jurídica en la forma que la ley señale y ninguna autoridad o individuo podrá impedir, restringir o perturbar la debida intervención del letrado si hubiere sido requerida. Tratándose de los integrantes de las Fuerzas Armadas y de Orden y Seguridad Pública, este derecho se regirá, en lo concerniente a lo administrativo y disciplinario, por las normas pertinentes de sus respectivos estatutos.
 
-La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a quienes no puedan procurárselos por sí mismos.
+La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a quienes no puedan procurárselos por sí mismos. La ley señalará los casos y establecerá la forma en que las personas naturales víctimas de delitos dispondrán de asesoría y defensa jurídica gratuitas, a efecto de ejercer la acción penal reconocida por esta Constitución y las leyes.
+
+Toda persona imputada de delito tiene derecho irrenunciable a ser asistida por un abogado defensor proporcionado por el Estado si no nombrare uno en la oportunidad establecida por la ley.
 
 Nadie podrá ser juzgado por comisiones especiales, sino por el tribunal que
 señalare la ley y que se hallare establecido por ésta con anterioridad a la perpetración del hecho.
@@ -243,7 +245,7 @@ Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a
 
 ### Artículo 20
 
-El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º inciso cuarto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º, 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
+El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º inciso quinto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º, 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
 
 Procederá, también, el recurso de protección en el caso del Nº8º del artículo 19, cuando el derecho a vivir en un medio ambiente libre de contaminación sea afectado por un acto u omisión ilegal imputable a una autoridad o persona determinada.
 
