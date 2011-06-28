@@ -124,7 +124,7 @@ El funcionario declarado culpable será juzgado de acuerdo a las leyes por el tr
 
 Si el Senado no se pronunciare dentro de treinta días después de pedida la urgencia por el Presidente de la República, se tendrá por otorgado su asentimiento;
 
-6) Otorgar su acuerdo para que el Presidente de la República pueda ausentarse del país por más de treinta días o en los últimos noventa días de su período;
+6) Otorgar su acuerdo para que el Presidente de la República pueda ausentarse del país por más de treinta días o a contar del día señalado en el inciso primero del artículo 26;
 
 7) Declarar la inhabilidad del Presidente de la República o del Presidente electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;
 

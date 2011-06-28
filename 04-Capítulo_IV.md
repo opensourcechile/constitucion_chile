@@ -18,25 +18,25 @@ Para ser elegido Presidente de la República se requiere tener la nacionalidad c
 
 El Presidente de la República durará en el ejercicio de sus funciones por el término de cuatro años y no podrá ser reelegido para el período siguiente.
 
-El Presidente de la República no podrá salir del territorio nacional por más de treinta días ni en los últimos noventa días de su período, sin acuerdo del Senado.
+El Presidente de la República no podrá salir del territorio nacional por más de treinta días ni a contar del día señalado en el inciso primero del artículo siguiente, sin acuerdo del Senado.
 
 En todo caso, el Presidente de la República comunicará con la debida anticipación al Senado su decisión de ausentarse del territorio y los motivos que la justifican.
 
 ### Artículo 26
 
-El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se efectuará conjuntamente con la de parlamentarios, en la forma que determine la ley orgánica constitucional respectiva, noventa días antes de aquél en que deba cesar en el cargo el que esté en funciones, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente.
+El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se efectuará conjuntamente con la de parlamentarios, en la forma que determine la ley orgánica constitucional respectiva, el tercer domingo de noviembre del año anterior a aquel en que deba cesar en el cargo el que esté en funciones.
 
-Si a la elección de Presidente de la República se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquél de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará, en la forma que determine la ley, el trigésimo día después de efectuada la primera, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente al referido trigésimo día.
+Si a la elección de Presidente de la República se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquél de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará, en la forma que determine la ley, el cuarto domingo después de efectuada la primera.
 
 Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
 
-En caso de muerte de uno o de ambos candidatos a que. se refiere el inciso segundo, el Presidente de la República convocará a una nueva elección dentro del plazo de treinta días, contado desde la fecha del deceso. La elección se celebrará el domingo más cercano al nonagésimo día posterior a la convocatoria.
+En caso de muerte de uno o de ambos candidatos a que. se refiere el inciso segundo, el Presidente de la República convocará a una nueva elección dentro del plazo de diez días, contado desde la fecha del deceso. La elección se celebrará noventa días después de la convocatoria si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente.
 
 Si expirase el mandato del Presidente de la República en ejercicio antes de la fecha de asunción del Presidente que se elija en conformidad al inciso anterior, se aplicará, en lo pertinente, la norma contenida en el inciso primero del artículo 28.
 
 ### Artículo 27
 
-El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los quince días siguientes a la primera o segunda votación, según corresponda.
+El proceso de calificación de la elección presidencial deberá quedar concluido dentro de los quince días siguientes tratándose de la primera votación o dentro de los treinta días siguientes tratándose de la segunda votación.
 
 El Tribunal Calificador de Elecciones comunicará de inmediato al Presidente del Senado la proclamación de Presidente electo que haya efectuado.
 
@@ -48,7 +48,7 @@ En este mismo acto, el Presidente electo prestará ante el Presidente del Senado
 
 Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Cámara de Diputados, y a falta de éste, el Presidente de la Corte Suprema.
 
-Con todo, si el impedimento del Presidente electo fuere absoluto o debiere durar indefinidamente, el Vicepresidente, en los diez días siguientes al acuerdo del Senado adoptado en conformidad al artículo 53 Nº 7º, expedirá las órdenes convenientes para que se proceda, dentro del plazo de sesenta días, a nueva elección en la forma prevista por la Constitución y la Ley de Elecciones. La elección deberá efectuarse en un día domingo. El Presidente de la República así elegido asumirá sus funciones en la oportunidad que señale esa ley, y durará en el ejercicio de ellas hasta el día en que le habría correspondido cesar en el cargo al electo que no pudo asumir y cuyo impedimento hubiere motivado la nueva elección.
+Con todo, si el impedimento del Presidente electo fuere absoluto o debiere durar indefinidamente, el Vicepresidente, en los diez días siguientes al acuerdo del Senado adoptado en conformidad al artículo 53 Nº 7º, convocará a una nueva elección presidencial que se celebrará noventa días después de la convocatoria si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. El Presidente de la República así elegido asumirá sus funciones en la oportunidad que señale esa ley, y durará en el ejercicio de ellas hasta el día en que le habría correspondido cesar en el cargo al electo que no pudo asumir y cuyo impedimento hubiere motivado la nueva elección.
 
 ### Artículo 29
 
@@ -59,7 +59,7 @@ En caso de vacancia del cargo de Presidente de la República, se producirá la s
 
 Si la vacancia se produjere faltando menos de dos años para la próxima elección presidencial, el Presidente será elegido por el Congreso Pleno por la mayoría absoluta de los senadores y diputados en ejercicio. La elección por el Congreso será hecha dentro de los diez días siguientes a la fecha de la vacancia y el elegido asumirá su cargo dentro de los treinta días siguientes.
 
-Si la vacancia se produjere faltando dos años o más para la próxima elección presidencial, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para el sexagésimo día después de la convocatoria, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación.
+Si la vacancia se produjere faltando dos años o más para la próxima elección presidencial, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para ciento veinte días después de la convocatoria, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación.
 
 El Presidente elegido conforme a alguno de los incisos precedentes durará en el cargo hasta completar el período que restaba a quien se reemplace y no podrá postular como candidato a la elección presidencial siguiente.
 

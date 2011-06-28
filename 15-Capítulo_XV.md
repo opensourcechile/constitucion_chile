@@ -24,7 +24,7 @@ La ley orgánica constitucional relativa al Congreso regulará en lo demás lo c
 
 ### Artículo 129
 
-La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenará mediante decreto supremo que fijará la fecha de la votación plebiscitaria, la que no podrá tener lugar antes de treinta días ni después de sesenta, contado desde la publicación de dicho decreto. Transcurrido este plazo sin que el Presidente convoque a plebiscito, se promulgará el proyecto que hubiere aprobado el Congreso.
+La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenará mediante decreto supremo que fijará la fecha de la votación plebiscitaria, la que se celebrará ciento veinte días después de la publicación de dicho decreto si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. Transcurrido este plazo sin que el Presidente convoque a plebiscito, se promulgará el proyecto que hubiere aprobado el Congreso.
 
 El decreto de convocatoria contendrá, según corresponda, el proyecto aprobado por ambas Cámaras y vetado totalmente por el Presidente de la República, o las cuestiones del proyecto en las cuales el Congreso haya insistido. En este último caso, cada una de las cuestiones en desacuerdo deberá ser votada separadamente en el plebiscito.
 
