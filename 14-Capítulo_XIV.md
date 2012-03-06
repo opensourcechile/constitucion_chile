@@ -153,3 +153,5 @@ Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan ent
 ### Artículo 126 bis
 
 Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
+
+Los derechos a residir, permanecer y trasladarse hacia y desde cualquier lugar de la República, garantizados en el numeral 7º del artículo 19, se ejercerán en dichos territorios en la forma que determinen las leyes especiales que regulen su ejercicio, las que deberán ser de quórum calificado.
