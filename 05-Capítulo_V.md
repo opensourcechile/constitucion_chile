@@ -10,7 +10,7 @@ El Congreso Nacional se compone de dos ramas: la Cámara de Diputados y el Senad
 
 ### Artículo 47
 
-La Cámara de Diputados está integrada por 120 miembros elegidos en votación directa por los distritos electorales que establezca la ley orgánica constitucional respectiva.
+La Cámara de Diputados está integrada por miembros elegidos en votación directa por distritos electorales. La ley orgánica constitucional respectiva determinará el número de diputados, los distritos electorales y la forma de su elección.
 
 La Cámara de Diputados se renovará en su totalidad cada cuatro años.
 
