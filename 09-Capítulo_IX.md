@@ -1,6 +1,16 @@
 # Capítulo IX
 
-## JUSTICIA ELECTORAL
+## SERVICIO ELECTORAL Y JUSTICIA ELECTORAL
+
+### Artículo 94 bis
+
+Un organismo autónomo, con personalidad jurídica y patrimonio propios, denominado Servicio Electoral, ejercerá la administración, supervigilancia y fiscalización de los procesos electorales y plebiscitarios; del cumplimiento de las normas sobre transparencia, límite y control del gasto electoral; de las normas sobre los partidos políticos, y las demás funciones que señale una ley orgánica constitucional.
+
+La dirección superior del Servicio Electoral corresponderá a un Consejo Directivo, el que ejercerá de forma exclusiva las atribuciones que le encomienden la Constitución y las leyes. Dicho Consejo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio. Los Consejeros durarán diez años en sus cargos, no podrán ser designados para un nuevo período y se renovarán por parcialidades cada dos años.
+
+Los Consejeros solo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República o de un tercio de los miembros en ejercicio de la Cámara de Diputados, por infracción grave a la Constitución o a las leyes, incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en Pleno, especialmente convocado al efecto, y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.
+
+La organización y atribuciones del Servicio Electoral serán establecidas por una ley orgánica constitucional. Su forma de desconcentración, las plantas, remuneraciones y estatuto del personal serán establecidos por una ley.
 
 ### Artículo 95
 

@@ -138,3 +138,9 @@ Prorrógase el mandato de los consejeros regionales en ejercicio a la fecha de p
 La primera elección por sufragio universal en votación directa de los consejeros regionales a que se refiere el inciso segundo del artículo 113 se realizará en conjunto con las elecciones de Presidente de la República y Parlamentarios, el día 17 de noviembre del año 2013.
 
 Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva deberán entrar en vigencia antes del 20 de julio del año 2013.
+
+### VIGESIMOSÉPTIMA
+
+No obstante lo dispuesto en el artículo 94 bis, los actuales consejeros del Consejo Directivo del Servicio Electoral cesarán en sus cargos según los períodos por los cuales fueron nombrados. Los nuevos consejeros que corresponda designar el año 2017 durarán en sus cargos seis y ocho años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. Asimismo, los nuevos nombramientos que corresponda efectuar el año 2021 durarán en sus cargos seis, ocho y diez años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. En ambos casos, el Jefe de Estado formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
+
+Quienes están actualmente en funciones no podrán ser propuestos para un nuevo período, si con dicha prórroga superan el plazo total de diez años en el desempeño del cargo.
