@@ -242,6 +242,8 @@ Sin perjuicio de lo dispuesto en el inciso séptimo del número 15º del artícu
 
 Quien perdiere el cargo de diputado o senador por cualquiera de las causales señaladas precedentemente no podrá optar a ninguna función o empleo público, sea o no de elección popular, por el término de dos años, salvo los casos del inciso séptimo del número 15º del artículo 19, en los cuales se aplicarán las sanciones allí contempladas.
 
+Cesará en su cargo el diputado o senador que haya infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave. Asimismo, el diputado o senador que perdiere el cargo no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
+
 Cesará, asimismo, en sus funciones el diputado o senador que, durante su ejercicio, pierda algún requisito general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 57, sin perjuicio de la excepción contemplada en el inciso segundo del artículo 59 respecto de los Ministros de Estado.
 
 Los diputados y senadores podrán renunciar a sus cargos cuando les afecte una enfermedad grave que les impida desempeñarlos y así lo califique el Tribunal Constitucional.

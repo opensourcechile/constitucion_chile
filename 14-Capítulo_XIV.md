@@ -142,6 +142,10 @@ Desde el momento en que se declare, por resolución firme, haber lugar a formaci
 
 Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de alcalde, consejero regional y concejal.
 
+Con todo, cesarán en sus cargos las autoridades mencionadas que hayan infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave.
+      
+Asimismo, quien perdiere el cargo de alcalde, consejero regional o concejal, de acuerdo a lo establecido en el inciso anterior, no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.
+
 ### Artículo 126
 
 La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.
