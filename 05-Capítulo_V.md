@@ -84,7 +84,7 @@ c) De los magistrados de los tribunales superiores de justicia y del Contralor G
 
 d) De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y
 
-e) De los intendentes, gobernadores y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
+e) De los delegados presidenciales regionales, delegados presidenciales provinciales y de la autoridad que ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
 
 La acusación se tramitará en conformidad a la ley orgánica constitucional relativa al Congreso.
 
@@ -92,7 +92,7 @@ Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mie
 
 Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
 
-Para declarar que ha lugar la acusación en contra del Presidente de la República se necesitará el voto de la mayoría de los diputados en ejercicio.
+Para declarar que ha lugar la acusación en contra del Presidente de la República o de un gobernador regional se necesitará el voto de la mayoría de los diputados en ejercicio.
 
 En los demás casos se requerirá el de la mayoría de los diputados presentes y el acusado quedará suspendido en sus funciones desde el momento en que la Cámara declare que ha lugar la acusación.
 
@@ -108,7 +108,7 @@ Son atribuciones exclusivas del Senado:
 
 El Senado resolverá como jurado y se limitará a declarar si el acusado es o no culpable del delito, infracción o abuso de poder que se le imputa.
 
-La declaración de culpabilidad deberá ser pronunciada por los dos tercios de los senadores en ejercicio cuando se trate de una acusación en contra del Presidente de la República, y por la mayoría de los senadores en ejercicio en los demás casos.
+La declaración de culpabilidad deberá ser pronunciada por los dos tercios de los senadores en ejercicio cuando se trate de una acusación en contra del Presidente de la República o de un gobernador regional, y por la mayoría de los senadores en ejercicio en los demás casos.
 
 Por la declaración de culpabilidad queda el acusado destituido de su cargo, y no podrá desempeñar ninguna función pública, sea o no de elección popular, por el término de cinco años.
 
@@ -194,7 +194,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 1) Los Ministros de Estado;
 
-2) Los intendentes, los gobernadores, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
+2) Los gobernadores regionales, los delegados presidenciales regionales, los delegados presidenciales provinciales, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;
 
 3) Los miembros del Consejo del Banco Central;
 

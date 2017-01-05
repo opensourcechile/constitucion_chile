@@ -144,3 +144,15 @@ Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva 
 No obstante lo dispuesto en el artículo 94 bis, los actuales consejeros del Consejo Directivo del Servicio Electoral cesarán en sus cargos según los períodos por los cuales fueron nombrados. Los nuevos consejeros que corresponda designar el año 2017 durarán en sus cargos seis y ocho años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. Asimismo, los nuevos nombramientos que corresponda efectuar el año 2021 durarán en sus cargos seis, ocho y diez años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. En ambos casos, el Jefe de Estado formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
 
 Quienes están actualmente en funciones no podrán ser propuestos para un nuevo período, si con dicha prórroga superan el plazo total de diez años en el desempeño del cargo.
+
+### VIGÉSIMO OCTAVA
+
+La primera elección por sufragio universal en votación directa de los gobernadores regionales se verificará en la oportunidad que señale la ley orgánica constitucional a que aluden los incisos cuarto y quinto del artículo 111 y una vez promulgada la ley que establezca un nuevo procedimiento de transferencia de las competencias a las que se refiere el artículo 114.
+
+El período establecido en el inciso segundo del artículo 113 podrá ser adecuado por la ley orgánica constitucional señalada en los incisos cuarto y quinto del artículo 111 para que los períodos de ejercicio de gobernadores regionales y consejeros regionales coincidan. Esta modificación requerirá, para su aprobación, del voto favorable de las tres quintas partes de los diputados y senadores en ejercicio.
+
+Una vez que asuman los gobernadores regionales electos, los presidentes de los consejos regionales cesarán de pleno derecho en sus funciones, las que serán asumidas por el respectivo gobernador regional.
+
+Los gobernadores regionales electos, desde que asuman, tendrán las funciones y atribuciones que las leyes otorgan expresamente al intendente en tanto órgano ejecutivo del gobierno regional. Las restantes funciones y atribuciones que las leyes entregan al intendente se entenderán referidas al delegado presidencial regional que corresponda. Asimismo, las funciones y atribuciones que las leyes entregan al gobernador se entenderán atribuidas al delegado presidencial provincial.
+
+Mientras no asuman los primeros gobernadores regionales electos, a los cargos de intendentes y gobernadores les serán aplicables las disposiciones constitucionales vigentes previas a la publicación de la presente reforma constitucional.
