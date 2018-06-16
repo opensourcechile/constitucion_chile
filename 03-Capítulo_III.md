@@ -38,7 +38,7 @@ Ningún delito se castigará con otra pena que la que señale una ley promulgada
 
 Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté expresamente descrita en ella;
 
-4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia;
+4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley;
 
 5º.- La inviolabilidad del hogar y de toda forma de comunicación privada. El hogar sólo puede allanarse y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos y formas determinados por la ley;
 
