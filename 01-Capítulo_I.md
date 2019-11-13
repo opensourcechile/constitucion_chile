@@ -2,6 +2,10 @@
 
 ## BASES DE LA INSTITUCIONALIDAD
 
+### Artículo 0
+
+Nosotros, la gente de Chile, declaramos a través de este documento la existencia de una entidad llamada Estado de Chile. Esta entidad emana de un gran pacto entre los ciudadanos, con el fin último de permitirnos vivir en una sociedad pacífica y colaborativa, donde las personas velan por el bien de su prójimo y de la naturaleza.
+
 ### Artículo 1°
 
 Las personas nacen libres e iguales en dignidad y derechos.
