@@ -2,6 +2,10 @@
 
 ## BASES DE LA INSTITUCIONALIDAD
 
+### Artículo 0
+
+Nosotros, la gente de Chile, declaramos en este documento los principios de nuestro gran pacto entre conciudadanos que tiene como fin último permitirnos vivir en una sociedad pacífica, justa y colaborativa, donde las personas velan por el bien de su prójimo y de la naturaleza.
+
 ### Artículo 1°
 
 Las personas nacen libres e iguales en dignidad y derechos.
